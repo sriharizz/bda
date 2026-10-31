@@ -1,0 +1,502 @@
+[
+  {
+    "date": "2024-07-19",
+    "station_name": "Town Hall, Munger - BSPCB",
+    "city_name": "Munger",
+    "daily_pm25": 327.3125,
+    "baseline_median": 28.02,
+    "modified_z_score": 33.86,
+    "spike_ratio": 11.68,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-17",
+    "station_name": "Karni Colony, Nagaur - RSPCB",
+    "city_name": "Nagaur",
+    "daily_pm25": 247.42708333333334,
+    "baseline_median": 52.0,
+    "modified_z_score": 26.19,
+    "spike_ratio": 4.76,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-14",
+    "station_name": "Karve Road Pune",
+    "city_name": "Unknown",
+    "daily_pm25": 236.13375,
+    "baseline_median": 42.3,
+    "modified_z_score": 26.15,
+    "spike_ratio": 5.58,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-09",
+    "station_name": "Silk Board, Bengaluru - KSPCB",
+    "city_name": "Bengaluru",
+    "daily_pm25": 605.625,
+    "baseline_median": 44.15,
+    "modified_z_score": 19.97,
+    "spike_ratio": 13.72,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-30",
+    "station_name": "D M Colony, Bihar Sharif - BSPCB",
+    "city_name": "Bihar Sharif",
+    "daily_pm25": 164.7391304347826,
+    "baseline_median": 24.82,
+    "modified_z_score": 18.88,
+    "spike_ratio": 6.64,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-10",
+    "station_name": "Silk Board, Bengaluru - KSPCB",
+    "city_name": "Bengaluru",
+    "daily_pm25": 594.0416666666666,
+    "baseline_median": 44.93,
+    "modified_z_score": 18.8,
+    "spike_ratio": 13.22,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-07-21",
+    "station_name": "Gomti Nagar, Lucknow - UPPCB",
+    "city_name": "Lucknow",
+    "daily_pm25": 225.8125,
+    "baseline_median": 39.11,
+    "modified_z_score": 18.54,
+    "spike_ratio": 5.77,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "Vikas Sadan, Gurugram - HSPCB",
+    "city_name": "Gurugram",
+    "daily_pm25": 379.09,
+    "baseline_median": 129.35,
+    "modified_z_score": 18.48,
+    "spike_ratio": 2.93,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "Najafgarh, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 638.0869565217391,
+    "baseline_median": 217.73,
+    "modified_z_score": 17.33,
+    "spike_ratio": 2.93,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-29",
+    "station_name": "D M Colony, Bihar Sharif - BSPCB",
+    "city_name": "Bihar Sharif",
+    "daily_pm25": 149.79347826086956,
+    "baseline_median": 24.82,
+    "modified_z_score": 16.86,
+    "spike_ratio": 6.04,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-17",
+    "station_name": "Indra Nagar, Jhunjhunu - RSPCB",
+    "city_name": "Jhunjhunu",
+    "daily_pm25": 454.09708333333333,
+    "baseline_median": 103.14,
+    "modified_z_score": 15.92,
+    "spike_ratio": 4.4,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-13",
+    "station_name": "Lodhi Road, Delhi - IMD",
+    "city_name": "Delhi",
+    "daily_pm25": 349.11083333333335,
+    "baseline_median": 140.68,
+    "modified_z_score": 15.61,
+    "spike_ratio": 2.48,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-29",
+    "station_name": "Old City, Sri Ganganagar - RSPCB",
+    "city_name": "Sri Ganganagar",
+    "daily_pm25": 296.45125,
+    "baseline_median": 144.52,
+    "modified_z_score": 15.42,
+    "spike_ratio": 2.05,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "City Center, Gwalior - MPPCB",
+    "city_name": "Gwalior",
+    "daily_pm25": 303.0104166666667,
+    "baseline_median": 77.38,
+    "modified_z_score": 15.26,
+    "spike_ratio": 3.92,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-24",
+    "station_name": "Alandur Bus Depot Chennai",
+    "city_name": "Unknown",
+    "daily_pm25": 166.98458333333335,
+    "baseline_median": 55.94,
+    "modified_z_score": 14.98,
+    "spike_ratio": 2.99,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-31",
+    "station_name": "D M Colony, Bihar Sharif - BSPCB",
+    "city_name": "Bihar Sharif",
+    "daily_pm25": 145.64285714285714,
+    "baseline_median": 24.82,
+    "modified_z_score": 14.98,
+    "spike_ratio": 5.87,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "Shahjahan Garden, Agra - UPPCB",
+    "city_name": "Agra",
+    "daily_pm25": 181.795652173913,
+    "baseline_median": 73.5,
+    "modified_z_score": 14.61,
+    "spike_ratio": 2.47,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-23",
+    "station_name": "Alandur Bus Depot Chennai",
+    "city_name": "Unknown",
+    "daily_pm25": 162.14625000000004,
+    "baseline_median": 55.94,
+    "modified_z_score": 14.33,
+    "spike_ratio": 2.9,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-13",
+    "station_name": "Vikas Sadan, Gurugram - HSPCB",
+    "city_name": "Gurugram",
+    "daily_pm25": 272.3075,
+    "baseline_median": 122.16,
+    "modified_z_score": 14.16,
+    "spike_ratio": 2.23,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-17",
+    "station_name": "Digari Kalan, Jodhpur - RSPCB",
+    "city_name": "Jodhpur",
+    "daily_pm25": 147.28833333333333,
+    "baseline_median": 49.57,
+    "modified_z_score": 12.85,
+    "spike_ratio": 2.97,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-17",
+    "station_name": "H.B. Colony, Bhiwani - HSPCB",
+    "city_name": "Bhiwani",
+    "daily_pm25": 462.5883333333333,
+    "baseline_median": 110.76,
+    "modified_z_score": 12.47,
+    "spike_ratio": 4.18,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-13",
+    "station_name": "Jawaharlal Nehru Stadium, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 415.6354166666667,
+    "baseline_median": 166.58,
+    "modified_z_score": 12.38,
+    "spike_ratio": 2.5,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-07-18",
+    "station_name": "Town Hall, Munger - BSPCB",
+    "city_name": "Munger",
+    "daily_pm25": 128.84722222222223,
+    "baseline_median": 27.58,
+    "modified_z_score": 12.33,
+    "spike_ratio": 4.67,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-22",
+    "station_name": "Prabhat Colony, Jalgaon - MPCB",
+    "city_name": "Jalgaon",
+    "daily_pm25": 139.9375,
+    "baseline_median": 49.42,
+    "modified_z_score": 12.21,
+    "spike_ratio": 2.83,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-13",
+    "station_name": "Mundka, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 461.9166666666667,
+    "baseline_median": 253.42,
+    "modified_z_score": 12.05,
+    "spike_ratio": 1.82,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "Sardar Patel Inter College, Baghpat - UPPCB",
+    "city_name": "Baghpat",
+    "daily_pm25": 280.53125,
+    "baseline_median": 105.39,
+    "modified_z_score": 11.96,
+    "spike_ratio": 2.66,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-13",
+    "station_name": "Yamunapuram, Bulandshahr - UPPCB",
+    "city_name": "Bulandshahr",
+    "daily_pm25": 217.94791666666666,
+    "baseline_median": 102.2,
+    "modified_z_score": 11.95,
+    "spike_ratio": 2.13,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "Sri Aurobindo Marg, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 555.3522727272727,
+    "baseline_median": 108.8,
+    "modified_z_score": 11.77,
+    "spike_ratio": 5.1,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-16",
+    "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+    "city_name": "Delhi",
+    "daily_pm25": 355.5195833333333,
+    "baseline_median": 119.85,
+    "modified_z_score": 11.6,
+    "spike_ratio": 2.97,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-13",
+    "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+    "city_name": "Delhi",
+    "daily_pm25": 280.1625,
+    "baseline_median": 116.3,
+    "modified_z_score": 11.35,
+    "spike_ratio": 2.41,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-17",
+    "station_name": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+    "city_name": "Bhiwadi",
+    "daily_pm25": 305.1641666666667,
+    "baseline_median": 134.36,
+    "modified_z_score": 11.12,
+    "spike_ratio": 2.27,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-17",
+    "station_name": "Najafgarh, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 479.25,
+    "baseline_median": 217.73,
+    "modified_z_score": 10.89,
+    "spike_ratio": 2.2,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+    "city_name": "Bhiwadi",
+    "daily_pm25": 327.0516666666667,
+    "baseline_median": 138.7,
+    "modified_z_score": 10.8,
+    "spike_ratio": 2.36,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "Major Dhyan Chand National Stadium, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 673.4166666666666,
+    "baseline_median": 245.29,
+    "modified_z_score": 10.75,
+    "spike_ratio": 2.75,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-28",
+    "station_name": "Old City, Sri Ganganagar - RSPCB",
+    "city_name": "Sri Ganganagar",
+    "daily_pm25": 249.86083333333332,
+    "baseline_median": 144.52,
+    "modified_z_score": 10.69,
+    "spike_ratio": 1.73,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-13",
+    "station_name": "Jahangirpuri, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 474.75,
+    "baseline_median": 256.71,
+    "modified_z_score": 10.63,
+    "spike_ratio": 1.85,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-15",
+    "station_name": "Sector-18, Panipat - HSPCB",
+    "city_name": "Panipat",
+    "daily_pm25": 163.73749999999998,
+    "baseline_median": 85.07,
+    "modified_z_score": 10.61,
+    "spike_ratio": 1.92,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-07-17",
+    "station_name": "Sanjay Palace, Agra - UPPCB",
+    "city_name": "Agra",
+    "daily_pm25": 126.00894736842106,
+    "baseline_median": 27.76,
+    "modified_z_score": 10.48,
+    "spike_ratio": 4.54,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-26",
+    "station_name": "Sanjay Nagar, Ghaziabad - UPPCB",
+    "city_name": "Ghaziabad",
+    "daily_pm25": 301.7916666666667,
+    "baseline_median": 160.15,
+    "modified_z_score": 10.35,
+    "spike_ratio": 1.88,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-23",
+    "station_name": "Science Center, Surat - SMC",
+    "city_name": "Surat",
+    "daily_pm25": 156.898125,
+    "baseline_median": 69.94,
+    "modified_z_score": 10.25,
+    "spike_ratio": 2.24,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-21",
+    "station_name": "Kalakusuma Dhanbad",
+    "city_name": "Unknown",
+    "daily_pm25": 112.54583333333335,
+    "baseline_median": 37.45,
+    "modified_z_score": 10.13,
+    "spike_ratio": 3.01,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "Burari Crossing, Delhi - IMD",
+    "city_name": "Delhi",
+    "daily_pm25": 553.5070833333333,
+    "baseline_median": 225.51,
+    "modified_z_score": 10.04,
+    "spike_ratio": 2.45,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-18",
+    "station_name": "Aya Nagar, Delhi - IMD",
+    "city_name": "Delhi",
+    "daily_pm25": 571.6420833333333,
+    "baseline_median": 208.67,
+    "modified_z_score": 10.03,
+    "spike_ratio": 2.74,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-13",
+    "station_name": "Bawana, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 451.6666666666667,
+    "baseline_median": 258.12,
+    "modified_z_score": 10.01,
+    "spike_ratio": 1.75,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-17",
+    "station_name": "Municipal Corporation Office, Dharuhera -  HSPCB",
+    "city_name": "Dharuhera",
+    "daily_pm25": 336.7275,
+    "baseline_median": 124.66,
+    "modified_z_score": 9.98,
+    "spike_ratio": 2.7,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-17",
+    "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+    "city_name": "Delhi",
+    "daily_pm25": 363.8279166666667,
+    "baseline_median": 127.26,
+    "modified_z_score": 9.93,
+    "spike_ratio": 2.86,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-01-25",
+    "station_name": "Alandur Bus Depot Chennai",
+    "city_name": "Unknown",
+    "daily_pm25": 169.5333333333333,
+    "baseline_median": 59.12,
+    "modified_z_score": 9.91,
+    "spike_ratio": 2.87,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-16",
+    "station_name": "Sector-18, Panipat - HSPCB",
+    "city_name": "Panipat",
+    "daily_pm25": 158.27625,
+    "baseline_median": 85.08,
+    "modified_z_score": 9.87,
+    "spike_ratio": 1.86,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-13",
+    "station_name": "Najafgarh, Delhi - DPCC",
+    "city_name": "Delhi",
+    "daily_pm25": 415.5652173913044,
+    "baseline_median": 199.75,
+    "modified_z_score": 9.83,
+    "spike_ratio": 2.08,
+    "severity_tier": "Severe Spike"
+  },
+  {
+    "date": "2024-11-11",
+    "station_name": "Sanathnagar, Hyderabad - TSPCB",
+    "city_name": "Hyderabad",
+    "daily_pm25": 143.73263157894738,
+    "baseline_median": 70.97,
+    "modified_z_score": 9.82,
+    "spike_ratio": 2.03,
+    "severity_tier": "Severe Spike"
+  }
+]

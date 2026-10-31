@@ -1,0 +1,527 @@
+station_id,station_name,city_name,state_name,latitude,longitude,monitored_days,mean_pm25,median_pm25,p95_pm25,p99_pm25,max_pm25,chronic_exceedance_pct,severe_exceedance_pct,volatility_ratio,detected_spikes,classification,color_code
+site_5998,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",Pimpri-Chinchwad,Maharashtra,18.614767,73.799516,29,96.21,87.28,131.27,167.12,180.81,100.0,0.0,1.5,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5025,"NISE Gwal Pahari, Gurugram - IMD",Gurugram,Haryana,28.422681,77.148944,55,163.49,148.95,253.17,426.23,588.98,96.36,7.27,1.7,1,Persistent Hotspot (Chronic Sink),#d90429
+site_6009,"Dasnagar, Howrah - WBPCB",Howrah,West Bengal,22.6025571,88.3105664,29,117.23,113.22,189.14,209.15,213.66,93.1,0.0,1.67,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5669,"Central Academy for SFS, Byrnihat - PCBA",Byrnihat,Assam,26.071318,91.87488,69,144.79,155.15,222.76,249.37,253.6,92.75,1.45,1.44,6,Persistent Hotspot (Chronic Sink),#d90429
+site_6008,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",Durgapur,West Bengal,23.567923,87.306843,27,125.66,124.65,212.49,214.71,214.76,92.59,0.0,1.7,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5789,"Rachnakar Colony, Aurangabad - MPCB",Aurangabad,Maharashtra,19.863756,75.321188,60,79.19,76.19,106.47,113.29,114.03,91.67,0.0,1.4,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5479,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,26.1403345,85.3650192,69,104.96,102.02,165.72,219.43,248.75,89.86,0.0,1.62,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,Gujarat,23.041137,72.456691,60,82.11,79.82,114.75,125.66,131.25,88.33,0.0,1.44,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5401,Sector-19A Nerul Navi Mumbai,,,,,33,100.63,105.13,157.38,178.24,186.72,87.88,0.0,1.5,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5539,"Kharahiya Basti, Araria - BSPCB",Araria,Bihar,26.146529,87.454184,65,114.31,106.64,183.7,291.74,337.55,87.69,3.08,1.72,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5710,"Sardar Patel Nagar, Dhanbad - JSPCB",Dhanbad,Jharkhand,23.80569,86.44268,19,82.88,84.74,124.07,142.97,147.69,84.21,0.0,1.46,0,Persistent Hotspot (Chronic Sink),#d90429
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,Delhi,28.699793,77.165453,91,205.33,221.62,414.61,505.85,675.09,81.32,36.26,1.87,5,Persistent Hotspot (Chronic Sink),#d90429
+site_255,"RIMT University, Mandi Gobindgarh - PPCB",Mandi Gobindgarh,Punjab,30.649961,76.331442,82,86.06,86.24,133.36,155.37,164.05,80.49,0.0,1.55,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5342,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana,28.376058,77.315741,86,96.85,94.36,186.13,202.36,204.27,80.23,0.0,1.97,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5345,"Sector-51, Gurugram - HSPCB",Gurugram,Haryana,28.4227,77.0667,80,124.74,118.48,234.83,333.62,377.05,80.0,5.0,1.98,2,Persistent Hotspot (Chronic Sink),#d90429
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,Delhi,28.710508,77.249485,84,184.71,191.66,393.79,512.17,604.75,79.76,25.0,2.05,4,Persistent Hotspot (Chronic Sink),#d90429
+site_5719,"Old City, Sri Ganganagar - RSPCB",Sri Ganganagar,Rajasthan,29.931624,73.864511,89,114.72,112.47,211.77,282.85,296.45,78.65,2.25,1.88,3,Persistent Hotspot (Chronic Sink),#d90429
+site_124,"R K Puram, Delhi - DPCC",Delhi,Delhi,28.563262,77.186937,88,187.48,203.35,396.06,472.82,483.75,78.41,28.41,1.95,4,Persistent Hotspot (Chronic Sink),#d90429
+site_5083,"Loni, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,28.757294,77.278792,83,139.65,121.02,310.62,420.85,546.47,78.31,15.66,2.57,2,Persistent Hotspot (Chronic Sink),#d90429
+site_1391,"RIICO Ind. Area III, Bhiwadi - RSPCB",Bhiwadi,Rajasthan,28.194909,76.862296,87,108.21,109.26,194.33,308.23,327.05,78.16,2.3,1.78,6,Persistent Hotspot (Chronic Sink),#d90429
+site_1550,"New Mandi, Muzaffarnagar - UPPCB",Muzaffarnagar,Uttar Pradesh,29.4723508,77.7194031,91,100.27,102.64,158.08,190.31,234.02,78.02,0.0,1.54,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5715,"Housing Board, Hanumangarh - RSPCB",Hanumangarh,Rajasthan,29.61075,74.283608,77,121.16,122.69,237.61,266.91,280.92,77.92,3.9,1.94,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5340,"New Industrial Town, Faridabad - HSPCB",Faridabad,Haryana,28.39072,77.30059,83,124.27,110.4,241.37,342.81,373.79,77.11,4.82,2.19,5,Persistent Hotspot (Chronic Sink),#d90429
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,Delhi,28.636429,77.201067,80,181.1,182.81,374.8,491.92,623.61,76.25,17.5,2.05,5,Persistent Hotspot (Chronic Sink),#d90429
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,Delhi,28.60909,77.0325413,92,150.88,149.82,316.36,371.7,454.82,75.0,10.87,2.11,2,Persistent Hotspot (Chronic Sink),#d90429
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,Delhi,28.647622,77.315809,87,209.99,223.3,427.14,531.62,672.58,74.71,36.78,1.91,3,Persistent Hotspot (Chronic Sink),#d90429
+site_147,"MD University, Rohtak - HSPCB",Rohtak,Haryana,28.52123,76.37138,90,93.67,91.28,176.65,201.27,236.62,74.44,0.0,1.94,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5344,"Teri Gram, Gurugram - HSPCB",Gurugram,Haryana,28.4275,77.1465,86,107.32,104.59,201.01,299.58,325.0,74.42,3.49,1.92,6,Persistent Hotspot (Chronic Sink),#d90429
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,Delhi,28.73282,77.170633,85,212.58,234.14,410.51,509.96,613.9,74.12,40.0,1.75,5,Persistent Hotspot (Chronic Sink),#d90429
+site_263,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana,28.376058,77.315741,73,142.51,127.6,276.44,395.48,430.69,73.97,12.33,2.17,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5489,"Dangi Tola, Rajgir - BSPCB",Rajgir,Bihar,25.0328,85.41948,68,98.94,106.13,184.69,194.04,200.54,73.53,0.0,1.74,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5123,"Sector-1, Noida - UPPCB",Noida,Uttar Pradesh,28.5898,77.3101,89,110.88,98.61,253.49,314.93,318.58,71.91,5.62,2.57,4,Persistent Hotspot (Chronic Sink),#d90429
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,Delhi,28.674045,77.131023,92,194.02,219.33,402.61,493.48,675.74,71.74,29.35,1.84,6,Persistent Hotspot (Chronic Sink),#d90429
+site_161,"Sector-6, Panchkula - HSPCB ",Panchkula,Haryana,30.7057778,76.8531805555555,80,75.55,76.18,129.02,167.47,174.18,71.25,0.0,1.69,1,Persistent Hotspot (Chronic Sink),#d90429
+site_117,"ITO, Delhi - CPCB",Delhi,Delhi,28.628624,77.24106,90,148.07,166.84,305.47,407.66,465.81,71.11,10.0,1.83,3,Persistent Hotspot (Chronic Sink),#d90429
+site_1560,"Bawana, Delhi - DPCC",Delhi,Delhi,28.7762,77.051074,90,187.53,193.07,388.42,500.3,619.42,71.11,31.11,2.01,7,Persistent Hotspot (Chronic Sink),#d90429
+site_5258,"Ganga Nagar, Meerut - UPPCB",Meerut,Uttar Pradesh,28.999264,77.7590354,72,81.68,90.43,151.65,209.49,227.34,70.83,0.0,1.68,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5725,"Mansarovar Sector-12, Jaipur - RSPCB",Jaipur,Rajasthan,26.843698,75.766894,89,91.92,90.82,171.71,276.34,327.21,70.79,2.25,1.89,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5081,"Sanjay Nagar, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,28.685382,77.453839,92,114.49,113.17,237.75,306.38,352.78,70.65,4.35,2.1,4,Persistent Hotspot (Chronic Sink),#d90429
+site_5490,"Town Hall, Munger - BSPCB",Munger,Bihar,25.376776,86.471523,85,83.61,84.97,150.64,268.37,327.31,70.59,2.35,1.77,6,Persistent Hotspot (Chronic Sink),#d90429
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,Maharashtra,18.96702,72.84214,61,66.8,69.3,100.34,107.65,111.66,70.49,0.0,1.45,1,Persistent Hotspot (Chronic Sink),#d90429
+site_146,"Vikas Sadan, Gurugram - HSPCB",Gurugram,Haryana,28.4501238,77.0263051,88,98.25,87.65,182.99,286.19,379.09,70.45,3.41,2.09,7,Persistent Hotspot (Chronic Sink),#d90429
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,Delhi,28.498571,77.26484,91,171.29,181.85,358.65,473.55,622.5,70.33,17.58,1.97,5,Persistent Hotspot (Chronic Sink),#d90429
+site_5024,"Alipur, Delhi - DPCC",Delhi,Delhi,28.815329,77.15301,91,160.51,164.65,371.58,481.77,609.05,70.33,13.19,2.26,6,Persistent Hotspot (Chronic Sink),#d90429
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,Delhi,28.56789,77.250515,90,197.23,214.96,422.95,546.08,671.35,70.0,35.56,1.97,4,Persistent Hotspot (Chronic Sink),#d90429
+site_5121,"Knowledge Park - V, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh,28.557054,77.453663,90,115.61,115.47,227.27,271.23,315.87,70.0,3.33,1.97,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5041,"Murthal, Sonipat - HSPCB",Sonipat,Haryana,29.0272,77.0621,73,90.77,94.12,187.27,245.92,277.65,69.86,1.37,1.99,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5650,"Paryavaran Parisar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,23.210494,77.425409,86,75.73,81.8,140.6,162.63,231.25,69.77,0.0,1.72,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5551,"Police Line, Saharsa - BSPCB",Saharsa,Bihar,25.892357,86.590325,79,113.81,110.3,233.27,274.89,321.25,69.62,2.53,2.11,2,Persistent Hotspot (Chronic Sink),#d90429
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,Delhi,28.695381,77.181665,92,174.42,172.57,376.96,530.08,676.23,69.57,22.83,2.18,3,Persistent Hotspot (Chronic Sink),#d90429
+site_1426,"Narela, Delhi - DPCC",Delhi,Delhi,28.822836,77.101981,92,168.04,179.91,390.54,491.45,617.69,69.57,18.48,2.17,5,Persistent Hotspot (Chronic Sink),#d90429
+site_107,"Pusa, Delhi - DPCC",Delhi,Delhi,28.639652,77.146275,92,140.72,142.71,302.36,440.63,628.26,69.57,9.78,2.12,8,Persistent Hotspot (Chronic Sink),#d90429
+site_118,"DTU, Delhi - CPCB",Delhi,Delhi,28.7500499,77.1112615,88,87.15,90.25,164.0,205.44,300.59,69.32,1.14,1.82,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5541,"Mayaganj, Bhagalpur - BSPCB",Bhagalpur,Bihar,25.265194,87.012947,88,120.94,112.21,243.97,303.42,304.74,69.32,3.41,2.17,1,Persistent Hotspot (Chronic Sink),#d90429
+site_277,"Lalbagh, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.8458805,80.9365541,88,104.9,110.38,199.87,224.08,232.44,69.32,0.0,1.81,3,Persistent Hotspot (Chronic Sink),#d90429
+site_1431,"Patparganj, Delhi - DPCC",Delhi,Delhi,28.623763,77.287209,91,184.91,200.29,409.76,512.28,676.79,69.23,27.47,2.05,5,Persistent Hotspot (Chronic Sink),#d90429
+site_5082,"Indirapuram, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,28.646233,77.358075,91,103.68,105.27,219.98,269.61,275.53,69.23,3.3,2.09,5,Persistent Hotspot (Chronic Sink),#d90429
+site_113,"Shadipur, Delhi - CPCB",Delhi,Delhi,28.6514781,77.1473105,91,170.31,195.15,350.72,421.28,586.88,69.23,21.98,1.8,9,Persistent Hotspot (Chronic Sink),#d90429
+site_5457,"IIPHG Lekawada, Gandhinagar - IITM",Gandhinagar,Gujarat,23.243639,72.68994,55,67.92,70.99,92.24,99.96,102.4,69.09,0.0,1.3,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5723,"Satyawati Vihar, Karauli - RSPCB",Karauli,Rajasthan,26.506177,77.025989,71,87.53,88.46,179.95,226.37,230.24,69.01,0.0,2.03,1,Persistent Hotspot (Chronic Sink),#d90429
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,Delhi,28.5627763,77.1180053,90,152.48,160.03,341.2,468.91,612.93,68.89,11.11,2.13,5,Persistent Hotspot (Chronic Sink),#d90429
+site_5045,"Arya Nagar, Bahadurgarh - HSPCB",Bahadurgarh,Haryana,28.6701,76.9254,89,106.72,109.61,238.47,307.58,400.36,68.54,5.62,2.18,4,Persistent Hotspot (Chronic Sink),#d90429
+site_5257,"Pallavpuram Phase 2, Meerut - UPPCB",Meerut,Uttar Pradesh,29.06351,77.709723,89,90.9,90.03,183.57,271.07,377.11,68.54,3.37,2.04,5,Persistent Hotspot (Chronic Sink),#d90429
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,Delhi,28.672342,77.31526,92,195.45,217.36,414.92,516.9,696.49,68.48,32.61,1.91,5,Persistent Hotspot (Chronic Sink),#d90429
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,Delhi,28.5710274,77.0719006,92,180.78,203.02,394.74,525.59,651.25,68.48,22.83,1.94,4,Persistent Hotspot (Chronic Sink),#d90429
+site_5044,"Municipal Corporation Office, Dharuhera -  HSPCB",Dharuhera,Haryana,28.2068,76.7997,82,90.34,82.4,164.15,342.45,366.85,68.29,2.44,1.99,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5395,"Lodhi Road, Delhi - IMD",Delhi,Delhi,28.5918245,77.2273074,44,97.68,105.4,186.68,321.96,413.39,68.18,2.27,1.77,1,Persistent Hotspot (Chronic Sink),#d90429
+site_104,"Burari Crossing, Delhi - IMD",Delhi,Delhi,28.7256504,77.2011573,91,154.76,165.3,328.41,398.57,553.51,68.13,13.19,1.99,5,Persistent Hotspot (Chronic Sink),#d90429
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,Delhi,28.611281,77.237738,91,169.38,181.01,373.45,483.93,673.42,68.13,18.68,2.06,5,Persistent Hotspot (Chronic Sink),#d90429
+site_5549,"Mariam Nagar, Purnia - BSPCB",Purnia,Bihar,25.366336,87.117468,78,77.98,74.8,150.81,173.33,193.53,67.95,0.0,2.02,4,Persistent Hotspot (Chronic Sink),#d90429
+site_5673,"Tata Township, Bileipada - OSPCB",Bileipada,Odisha,22.06156703,85.47409613,81,68.17,77.09,116.2,129.72,135.31,67.9,0.0,1.51,0,Persistent Hotspot (Chronic Sink),#d90429
+site_159,"Collectorate, Gaya - BSPCB",Gaya,Bihar,24.7955,84.9994,84,89.18,86.69,172.79,187.46,213.34,67.86,0.0,1.99,1,Persistent Hotspot (Chronic Sink),#d90429
+site_134,"Police Commissionerate, Jaipur - RSPCB",Jaipur,Rajasthan,26.9164092,75.7994901,84,75.54,87.22,119.34,139.6,141.18,67.86,0.0,1.37,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5727,"Sector-2 Murlipura, Jaipur - RSPCB",Jaipur,Rajasthan,26.960669,75.771817,87,84.07,85.27,168.79,195.69,202.28,67.82,0.0,1.98,0,Persistent Hotspot (Chronic Sink),#d90429
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,Delhi,28.6811736,77.3025234,90,119.19,114.97,267.42,376.14,475.77,67.78,6.67,2.33,6,Persistent Hotspot (Chronic Sink),#d90429
+site_1563,"Pusa, Delhi - DPCC",Delhi,Delhi,28.639652,77.146275,90,158.85,173.6,336.33,430.36,574.2,67.78,12.22,1.94,6,Persistent Hotspot (Chronic Sink),#d90429
+site_5995,"Trivenidevi Bhalotia College, Asansol - WBPCB",Asansol,West Bengal,23.616515,87.119133,43,102.75,110.68,214.37,223.26,227.18,67.44,0.0,1.94,0,Persistent Hotspot (Chronic Sink),#d90429
+site_1430,"Rohini, Delhi - DPCC",Delhi,Delhi,28.732528,77.11992,89,188.7,202.59,396.81,480.44,594.85,67.42,33.71,1.96,3,Persistent Hotspot (Chronic Sink),#d90429
+site_105,"North Campus, DU, Delhi - IMD",Delhi,Delhi,28.6573814,77.1585447,92,160.44,170.67,335.21,430.43,619.54,67.39,15.22,1.96,6,Persistent Hotspot (Chronic Sink),#d90429
+site_256,"Golden Temple, Amritsar - PPCB",Amritsar,Punjab,31.62,74.876512,92,74.58,70.6,130.1,201.82,228.21,67.39,0.0,1.84,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5122,"Sector-116, Noida - UPPCB",Noida,Uttar Pradesh,28.56923,77.393848,92,121.73,138.43,234.94,313.69,331.0,67.39,4.35,1.7,3,Persistent Hotspot (Chronic Sink),#d90429
+DS1010001,US Embassy - New Delhi,New Delhi,Delhi,28.63576,77.22445,92,169.25,185.81,312.48,541.39,641.0,67.39,22.83,1.68,7,Persistent Hotspot (Chronic Sink),#d90429
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,Maharashtra,19.000083,72.813993,49,61.87,69.37,98.57,103.18,105.75,67.35,0.0,1.42,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5341,"Sector 30, Faridabad - HSPCB",Faridabad,Haryana,28.4417,77.3217,79,80.27,77.62,141.9,215.34,229.33,67.09,0.0,1.83,2,Persistent Hotspot (Chronic Sink),#d90429
+site_1394,"Shrinath Puram, Kota - RSPCB",Kota,Rajasthan,25.14389,75.821256,88,76.91,79.57,128.92,143.64,167.83,67.05,0.0,1.62,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5712,"Shastri Nagar, Chittorgarh - RSPCB",Chittorgarh,Rajasthan,24.892047,74.623527,91,69.75,69.27,116.01,142.99,144.62,67.03,0.0,1.67,0,Persistent Hotspot (Chronic Sink),#d90429
+site_109,"Lodhi Road, Delhi - IMD",Delhi,Delhi,28.5918245,77.2273074,91,130.25,136.57,288.22,378.4,532.88,67.03,7.69,2.11,4,Persistent Hotspot (Chronic Sink),#d90429
+site_1542,"Yamunapuram, Bulandshahr - UPPCB",Bulandshahr,Uttar Pradesh,28.406963,77.849831,91,84.19,93.52,145.4,230.87,276.58,67.03,1.1,1.55,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5728,"RIICO Sitapura, Jaipur - RSPCB",Jaipur,Rajasthan,26.786682,75.827928,91,90.93,104.17,168.64,193.6,233.04,67.03,0.0,1.62,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5127,"Sector-25, Chandigarh - CPCC",Chandigarh,Chandigarh,30.751462,76.762879,91,88.62,89.27,162.77,210.89,219.16,67.03,0.0,1.82,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5336,"DRM Office Danapur, Patna - BSPCB",Patna,Bihar,25.586562,85.043586,81,110.9,114.99,234.06,272.74,278.54,66.67,3.7,2.04,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5263,"Samanpura, Patna - BSPCB",Patna,Bihar,25.596727,85.085624,87,127.85,139.41,259.91,271.45,279.86,66.67,6.9,1.86,4,Persistent Hotspot (Chronic Sink),#d90429
+site_108,"Aya Nagar, Delhi - IMD",Delhi,Delhi,28.4706914,77.1099364,90,135.75,130.61,298.05,445.08,571.64,66.67,10.0,2.28,4,Persistent Hotspot (Chronic Sink),#d90429
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,Delhi,28.5512005,77.2735737,87,135.14,148.92,281.46,388.84,517.96,66.67,6.9,1.89,5,Persistent Hotspot (Chronic Sink),#d90429
+site_1561,"Mundka, Delhi - DPCC",Delhi,Delhi,28.684678,77.076574,90,188.5,201.06,398.61,560.63,677.0,66.67,31.11,1.98,4,Persistent Hotspot (Chronic Sink),#d90429
+site_119,"Sirifort, Delhi - CPCB",Delhi,Delhi,28.5504249,77.2159377,87,164.06,179.72,317.75,451.64,637.65,66.67,14.94,1.77,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5546,"Mirchaibari, Katihar - BSPCB",Katihar,Bihar,25.560083,87.553265,69,73.63,72.66,139.83,210.99,230.96,66.67,0.0,1.92,3,Persistent Hotspot (Chronic Sink),#d90429
+site_1401,"Suryakiran Bhawan NCL, Singrauli - MPPCB",Singrauli,Madhya Pradesh,24.10897,82.64558,81,85.16,93.65,147.68,157.52,163.25,66.67,0.0,1.58,1,Persistent Hotspot (Chronic Sink),#d90429
+site_1408,"Talcher Coalfields,Talcher - OSPCB",Talcher,Odisha,20.9360711,85.1707021,87,85.15,87.82,176.38,218.92,236.0,66.67,0.0,2.01,0,Persistent Hotspot (Chronic Sink),#d90429
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,Delhi,28.58028,77.233829,92,148.99,162.46,346.11,428.73,561.08,66.3,10.87,2.13,4,Persistent Hotspot (Chronic Sink),#d90429
+site_5707,"Dhanmandi, Kota - RSPCB",Kota,Rajasthan,25.16409,75.858137,92,84.58,89.06,165.9,193.55,203.28,66.3,0.0,1.86,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5667,"Deen Dayal Nagar, Gwalior - MPPCB",Gwalior,Madhya Pradesh,26.259242,78.216432,92,90.14,98.11,173.13,221.53,317.5,66.3,1.09,1.76,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5370,"Buddha Colony, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,26.11442,85.39813,92,110.72,121.13,222.12,268.69,335.28,66.3,2.17,1.83,3,Persistent Hotspot (Chronic Sink),#d90429
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,Delhi,28.530785,77.271255,92,172.02,192.96,378.48,439.63,604.21,66.3,20.65,1.96,3,Persistent Hotspot (Chronic Sink),#d90429
+site_272,"Kendriya Vidyalaya, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.906111,80.948222,92,85.39,87.53,177.1,206.27,256.75,66.3,1.09,2.02,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5023,"Anand Vihar, Hapur - UPPCB",Hapur,Uttar Pradesh,28.725645,77.749675,89,94.29,92.2,211.89,254.64,397.25,66.29,1.12,2.3,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5585,"Sardar Patel Inter College, Baghpat - UPPCB",Baghpat,Uttar Pradesh,28.964949,77.278761,89,72.72,80.78,136.52,185.68,280.53,66.29,1.12,1.69,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5491,"Sector 22, Chandigarh - CPCC",Chandigarh,Chandigarh,30.735567,76.775714,89,109.61,102.33,220.26,332.32,334.41,66.29,2.25,2.15,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5545,"Darshan Nagar, Chhapra - BSPCB",Chhapra,Bihar,25.7808257,84.7446768,86,86.8,89.14,191.21,205.46,215.22,66.28,0.0,2.15,1,Persistent Hotspot (Chronic Sink),#d90429
+site_1541,"Knowledge Park - III, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh,28.47272,77.482,80,110.1,116.63,234.49,258.83,259.33,66.25,3.75,2.01,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5478,"Gandak Colony, Motihari - BSPCB",Motihari,Bihar,26.63086,84.90051,71,69.31,76.22,116.77,130.37,142.34,66.2,0.0,1.53,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5553,"Chitragupta Nagar, Siwan - BSPCB",Siwan,Bihar,26.2271665,84.3570427,65,73.67,73.91,123.95,159.01,160.41,66.15,0.0,1.68,1,Persistent Hotspot (Chronic Sink),#d90429
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,Delhi,28.531346,77.190156,91,138.53,131.29,293.0,421.95,555.35,65.93,10.99,2.23,5,Persistent Hotspot (Chronic Sink),#d90429
+site_111,"Sector - 62, Noida - IMD",Noida,Uttar Pradesh,28.6245479,77.3577104,91,133.79,140.49,299.39,342.78,464.09,65.93,8.79,2.13,6,Persistent Hotspot (Chronic Sink),#d90429
+site_5262,"Rajbansi Nagar, Patna - BSPCB",Patna,Bihar,25.599486,85.113666,91,87.0,101.95,164.49,182.8,187.02,65.93,0.0,1.61,0,Persistent Hotspot (Chronic Sink),#d90429
+site_1396,"Shastri Nagar, Jaipur - RSPCB",Jaipur,Rajasthan,26.9502929,75.730943,91,75.18,80.68,125.95,140.61,149.55,65.93,0.0,1.56,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5722,"Radhakishan Pura, Sikar - RSPCB",Sikar,Rajasthan,27.608912,75.153302,88,79.49,87.29,150.95,193.2,367.53,65.91,1.14,1.73,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5109,"Jai Bhim Nagar, Meerut - UPPCB",Meerut,Uttar Pradesh,28.9535882,77.7622941,88,91.52,90.78,201.43,253.53,311.0,65.91,1.14,2.22,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5060,"Nathu Colony, Ballabgarh - HSPCB",Ballabgarh,Haryana,28.3419248,77.319699,88,94.89,98.87,168.66,254.85,259.78,65.91,2.27,1.71,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5485,"Dada Peer, Sasaram - BSPCB",Sasaram,Bihar,24.952822,84.002396,79,69.55,75.48,112.69,125.95,135.62,65.82,0.0,1.49,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5717,"Indra Nagar, Jhunjhunu - RSPCB",Jhunjhunu,Rajasthan,28.108988,75.386577,90,79.98,80.84,172.63,220.31,454.1,65.56,1.11,2.14,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5339,"Mini Secretariat, Charkhi Dadri - HSPCB",Charkhi Dadri,Haryana,28.593883,76.270653,87,88.04,81.05,184.32,232.05,293.15,65.52,1.15,2.27,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5582,"Sector-53, Chandigarh - CPCC",Chandigarh,Chandigarh,30.719859,76.738637,87,115.16,114.98,243.57,310.84,343.28,65.52,3.45,2.12,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5702,"Shastri Nagar, Tonk - RSPCB",Tonk,Rajasthan,26.159933,75.780517,84,71.94,81.39,139.88,152.2,161.02,65.48,0.0,1.72,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5812,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",Ulhasnagar,Maharashtra,19.235581,73.159121,92,62.89,71.66,104.67,113.1,123.23,65.22,0.0,1.46,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5248,"Chhoti Gwaltoli, Indore - MPPCB",Indore,Madhya Pradesh,22.431,75.5213,92,69.45,75.98,120.11,137.52,263.27,65.22,1.09,1.58,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5798,"Katrap, Badlapur - MPCB",Badlapur,Maharashtra,19.16485,73.23409,89,61.45,75.37,97.92,101.4,102.15,65.17,0.0,1.3,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5765,"Thergaon, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,18.616318,73.765797,91,74.54,90.42,142.05,161.3,170.67,64.84,0.0,1.57,1,Persistent Hotspot (Chronic Sink),#d90429
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,Delhi,28.570173,76.933762,88,139.96,141.29,300.89,499.9,638.09,64.77,9.09,2.13,5,Persistent Hotspot (Chronic Sink),#d90429
+site_5939,"Hakimapada, Angul - OSPCB",Angul,Odisha,20.832874,85.104082,87,88.6,86.65,188.89,207.75,208.5,64.37,0.0,2.18,0,Persistent Hotspot (Chronic Sink),#d90429
+site_157,"IGSC Planetarium Complex, Patna - BSPCB",Patna,Bihar,25.610369,85.132568,87,86.06,76.67,180.17,288.33,437.11,64.37,3.45,2.35,1,Persistent Hotspot (Chronic Sink),#d90429
+site_253,"Punjab Agricultural University, Ludhiana - PPCB",Ludhiana,Punjab,30.9028,75.8086,92,78.21,70.46,137.86,177.18,249.23,64.13,0.0,1.96,6,Persistent Hotspot (Chronic Sink),#d90429
+site_5261,"Muradpur, Patna - BSPCB",Patna,Bihar,25.619651,85.147382,89,81.36,63.72,156.62,179.83,185.66,64.04,0.0,2.46,0,Persistent Hotspot (Chronic Sink),#d90429
+site_297,"Talkatora District Industries Center, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.83399722,80.8917361,89,93.96,106.33,161.23,181.94,194.55,64.04,0.0,1.52,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5763,"Gavalinagar, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,18.63673,73.82487,87,64.62,78.07,115.43,131.15,145.1,63.22,0.0,1.48,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5274,GIDC Nandesari Nandesari Ind.,,,,,19,70.8,79.53,97.19,101.2,102.2,63.16,0.0,1.22,0,Persistent Hotspot (Chronic Sink),#d90429
+site_1418,"Asansol Court Area, Asansol - WBPCB",Asansol,West Bengal,23.685297,86.945968,92,83.03,83.82,145.58,169.5,184.93,63.04,0.0,1.74,0,Persistent Hotspot (Chronic Sink),#d90429
+site_1416,"Padmapukur, Howrah - WBPCB",Howrah,West Bengal,22.5687319,88.2797276,92,78.74,89.72,141.94,197.51,199.3,63.04,0.0,1.58,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5701,"Nayapura, Kota - RSPCB",Kota,Rajasthan,25.196024,75.855668,92,77.47,82.58,143.21,165.56,166.17,63.04,0.0,1.73,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5696,"MM Ground, Bikaner - RSPCB",Bikaner,Rajasthan,28.018792,73.292658,92,90.13,85.44,180.42,251.85,397.14,63.04,1.09,2.11,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,Gujarat,22.977134,72.553024,91,69.8,69.2,126.9,138.33,139.2,62.64,0.0,1.83,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5273,"City Center, Gwalior - MPPCB",Gwalior,Madhya Pradesh,26.203442,78.193251,91,74.34,77.46,160.36,204.13,303.01,62.64,1.1,2.07,3,Persistent Hotspot (Chronic Sink),#d90429
+site_158,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,26.1209,85.3647,91,74.08,83.71,131.43,158.09,161.14,62.64,0.0,1.57,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5940,"Lingraj Mandir, Bhubaneswar - OSPCB",Bhubaneswar,Odisha,20.24079,85.836784,77,81.33,78.69,156.19,175.41,178.29,62.34,0.0,1.98,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5661,"Maharaj Bada, Gwalior - MPPCB",Gwalior,Madhya Pradesh,26.200388,78.147714,90,74.24,85.06,143.39,197.8,224.04,62.22,0.0,1.69,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5039,"Sector-2 IMT, Manesar - HSPCB",Manesar,Haryana,28.360699,76.93609,87,78.41,75.94,152.38,170.22,189.94,62.07,0.0,2.01,2,Persistent Hotspot (Chronic Sink),#d90429
+site_5048,"Sector-18, Panipat - HSPCB",Panipat,Haryana,29.432304,76.972765,81,73.72,67.81,144.26,169.71,193.6,61.73,0.0,2.13,5,Persistent Hotspot (Chronic Sink),#d90429
+site_5699,"Subash Chowk, Churu - RSPCB",Churu,Rajasthan,28.296139,74.961696,91,77.36,79.15,142.52,253.94,501.16,61.54,1.1,1.8,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5047,"H.B. Colony, Bhiwani - HSPCB",Bhiwani,Haryana,28.806223,76.141105,91,82.29,78.02,177.71,265.57,462.59,61.54,1.1,2.28,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5552,"DM Office_Kasipur, Samastipur - BSPCB",Samastipur,Bihar,25.859655,85.77944,83,73.64,72.74,139.56,183.95,188.67,61.45,0.0,1.92,3,Persistent Hotspot (Chronic Sink),#d90429
+DS1010003,US Embassy - Kolkata,Kolkata,West Bengal,22.56263,88.36304,90,107.4,112.56,226.12,254.07,262.71,61.11,2.22,2.01,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5337,"Industrial Area, Hajipur - BSPCB",Hajipur,Bihar,25.697189,85.2459,82,94.17,75.76,240.31,290.6,293.1,60.98,2.44,3.17,1,Moderate Hotspot,#fcbf49
+site_5071,"Phase-1 GIDC, Vapi - GPCB",Vapi,Gujarat,20.362421,72.918013,89,61.47,67.63,118.71,121.14,127.51,60.67,0.0,1.76,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5043,"Sector-7, Kurukshetra - HSPCB",Kurukshetra,Haryana,29.966942,76.875879,89,72.57,85.48,126.85,150.01,186.71,60.67,0.0,1.48,1,Persistent Hotspot (Chronic Sink),#d90429
+site_5794,"Masoom Colony, Parbhani - MPCB",Parbhani,Maharashtra,19.265594,76.761463,61,69.56,65.88,123.5,132.57,136.0,60.66,0.0,1.87,0,Persistent Hotspot (Chronic Sink),#d90429
+site_276,"Nehru Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,26.4703136,80.3229863,91,71.28,72.15,132.96,149.67,204.61,60.44,0.0,1.84,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5792,"Ambazari, Nagpur - MPCB",Nagpur,Maharashtra,21.121801,79.04952,91,58.47,65.97,103.55,107.08,110.88,60.44,0.0,1.57,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5556,"Eco Herbal Park, Moradabad - UPPCB",Moradabad,Uttar Pradesh,28.840739,78.697531,88,64.18,68.43,117.26,132.63,150.55,60.23,0.0,1.71,3,Persistent Hotspot (Chronic Sink),#d90429
+site_5591,Manipur University Imphal Manipur,,,,,25,67.06,66.99,110.35,121.43,124.6,60.0,0.0,1.65,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5937,"Kalidaspur, Balasore - OSPCB",Balasore,Odisha,21.51161,86.89088,90,84.75,74.1,173.66,222.6,248.52,60.0,0.0,2.34,0,Persistent Hotspot (Chronic Sink),#d90429
+site_5449,Sardar Vallabhbhai Patel Stadium Ahmedabad,,,,,92,60.18,63.05,89.95,104.35,120.02,59.78,0.0,1.43,1,Moderate Hotspot,#fcbf49
+site_136,"Collectorate, Jodhpur - RSPCB",Jodhpur,Rajasthan,26.268249,73.0193853,87,78.51,74.07,168.45,243.87,324.01,59.77,1.15,2.27,1,Moderate Hotspot,#fcbf49
+site_5046,"Gobind Pura, Yamuna Nagar - HSPCB",Yamuna Nagar,Haryana,30.1480566,77.2893471,82,67.76,76.19,104.64,123.44,142.52,59.76,0.0,1.37,2,Moderate Hotspot,#fcbf49
+site_153,"Sector - 125, Noida - UPPCB",Noida,Uttar Pradesh,28.5447608,77.3231257,77,97.0,94.23,209.43,357.64,494.96,59.74,3.9,2.22,2,Moderate Hotspot,#fcbf49
+site_5586,"HIMUDA Complex Phase-1, Baddi - HPPCB",Baddi,Himachal Pradesh,30.943887,76.801991,89,101.53,81.64,220.9,306.66,342.71,59.55,3.37,2.71,3,Moderate Hotspot,#fcbf49
+site_5249,"Marhatal, Jabalpur - MPPCB",Jabalpur,Madhya Pradesh,23.168606,79.932247,89,66.86,72.14,131.5,193.8,195.84,59.55,0.0,1.82,0,Moderate Hotspot,#fcbf49
+site_5543,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",Bhagalpur,Bihar,25.251013,86.989001,89,108.33,87.6,231.3,266.3,299.35,59.55,4.49,2.64,3,Moderate Hotspot,#fcbf49
+site_5813,"Gokul Nagar, Bhiwandi - MPCB",Bhiwandi,Maharashtra,19.309073,73.057223,81,63.04,74.98,101.66,112.89,118.21,59.26,0.0,1.36,0,Moderate Hotspot,#fcbf49
+DS1010004,US Embassy - Mumbai,Mumbai,Maharashtra,19.07283,72.88261,90,56.44,64.81,109.54,119.54,121.57,58.89,0.0,1.69,2,Moderate Hotspot,#fcbf49
+site_5056,"Police Lines, Jind - HSPCB",Jind,Haryana,29.307814,76.337619,85,81.02,79.66,192.52,214.42,229.57,58.82,0.0,2.42,2,Moderate Hotspot,#fcbf49
+site_5850,"Bhoiwada, Dungarpur - RSPCB",Dungarpur,Rajasthan,23.837789,73.714926,85,63.84,64.26,92.32,112.69,137.81,58.82,0.0,1.44,1,Moderate Hotspot,#fcbf49
+site_5764,"Park Street Wakad, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,18.59051,73.77946,88,56.05,64.88,104.57,122.05,141.99,57.95,0.0,1.61,1,Moderate Hotspot,#fcbf49
+site_5587,"Bardowali, Agartala - Tripura SPCB",Agartala,Tripura,23.8175497,91.2726974,85,72.69,70.73,149.84,181.73,207.36,57.65,0.0,2.12,0,Moderate Hotspot,#fcbf49
+site_5796,"Mahal, Nagpur - MPCB",Nagpur,Maharashtra,21.14472,79.107595,92,60.09,73.05,105.29,120.92,137.61,57.61,0.0,1.44,0,Moderate Hotspot,#fcbf49
+site_5675,"Raghunathpali, Rourkela - OSPCB",Rourkela,Odisha,22.220833,84.809444,82,64.99,74.71,117.25,126.67,146.18,57.32,0.0,1.57,0,Moderate Hotspot,#fcbf49
+site_5362,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",Gummidipoondi,TamilNadu,13.4127,80.1081,89,73.08,64.56,121.95,148.03,166.34,57.3,0.0,1.89,0,Moderate Hotspot,#fcbf49
+site_1393,"Adarsh Nagar, Jaipur - RSPCB",Jaipur,Rajasthan,26.902909,75.836858,91,61.66,66.54,107.43,115.97,121.6,57.14,0.0,1.61,0,Moderate Hotspot,#fcbf49
+site_1438,"Civil Line, Jalandhar - PPCB",Jalandhar,Punjab,31.321907,75.578914,90,65.92,68.36,110.01,128.21,144.68,56.67,0.0,1.61,1,Moderate Hotspot,#fcbf49
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,West Bengal,22.5367507,88.3638022,92,73.5,90.35,138.68,162.11,194.78,56.52,0.0,1.53,0,Moderate Hotspot,#fcbf49
+site_5700,"Raja Ganj, Dholpur - RSPCB",Dholpur,Rajasthan,26.699557,77.898881,85,92.46,76.5,200.53,236.0,255.17,56.47,1.18,2.62,2,Moderate Hotspot,#fcbf49
+site_5396,"Deonar, Mumbai - IITM",Mumbai,Maharashtra,19.04946,72.923,55,60.23,71.44,126.93,149.85,164.87,56.36,0.0,1.78,0,Moderate Hotspot,#fcbf49
+site_5943,"Patia, Bhubaneswar - OSPCB",Bhubaneswar,Odisha,20.34652,85.8163,89,66.23,66.42,136.84,149.31,166.0,56.18,0.0,2.06,0,Moderate Hotspot,#fcbf49
+site_307,"Sanjay Palace, Agra - UPPCB",Agra,Uttar Pradesh,27.19865833,78.00598056,73,64.28,62.63,106.72,134.61,156.72,56.16,0.0,1.7,2,Moderate Hotspot,#fcbf49
+site_5247,"T T Nagar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,23.233584,77.400574,91,60.82,65.44,127.31,136.33,137.23,56.04,0.0,1.95,0,Moderate Hotspot,#fcbf49
+site_5101,"Belur Math, Howrah - WBPCB",Howrah,West Bengal,22.629801,88.352017,91,62.57,74.8,117.43,135.63,138.5,56.04,0.0,1.57,0,Moderate Hotspot,#fcbf49
+site_5057,"Urban Estate-II, Hisar - HSPCB",Hisar,Haryana,29.14056,75.744941,81,75.39,71.54,149.89,188.06,273.01,55.56,1.23,2.1,0,Moderate Hotspot,#fcbf49
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,Gujarat,23.016834,72.625775,90,62.02,64.21,101.53,108.36,144.91,55.56,0.0,1.58,0,Moderate Hotspot,#fcbf49
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,West Bengal,22.5448082,88.3403691,92,66.35,74.69,122.44,138.79,148.02,55.43,0.0,1.64,0,Moderate Hotspot,#fcbf49
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,West Bengal,22.49929,88.36917,92,65.24,74.29,129.78,151.75,153.7,55.43,0.0,1.75,0,Moderate Hotspot,#fcbf49
+site_5941,"CDA Area, Cuttack - OSPCB",Cuttack,Odisha,20.48891,85.84768,92,70.79,67.7,155.72,170.1,176.78,55.43,0.0,2.3,0,Moderate Hotspot,#fcbf49
+site_303,"Opp GPO Civil Lines, Nagpur - MPCB",Nagpur,Maharashtra,21.152875,79.0517531,92,58.78,65.3,101.94,108.5,119.87,55.43,0.0,1.56,0,Moderate Hotspot,#fcbf49
+site_5942,"Ferro Chrome Colony, Byasanagar - OSPCB",Byasanagar,Odisha,20.94185,86.1151,85,66.02,74.21,124.84,137.69,146.49,55.29,0.0,1.68,0,Moderate Hotspot,#fcbf49
+site_5072,"Rishi Nagar, Kaithal - HSPCB",Kaithal,Haryana,29.8006,76.4155,87,74.45,68.53,148.02,172.88,235.15,55.17,0.0,2.16,1,Moderate Hotspot,#fcbf49
+site_5054,"Huda Sector, Fatehabad - HSPCB",Fatehabad,Haryana,29.503664,75.467934,69,62.61,63.6,131.89,209.5,223.54,55.07,0.0,2.07,2,Moderate Hotspot,#fcbf49
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,West Bengal,22.58157048,88.41002457,91,59.83,65.87,109.15,125.51,156.45,54.95,0.0,1.66,0,Moderate Hotspot,#fcbf49
+site_5938,"Forest Office, Barbil - OSPCB",Barbil,Odisha,22.1166054,85.3945546,92,57.42,64.48,117.95,128.26,128.41,54.35,0.0,1.83,1,Moderate Hotspot,#fcbf49
+site_5809,"Khaira, Boisar - MPCB",Boisar,Maharashtra,19.786089,72.757971,76,59.74,62.89,114.94,129.76,141.61,53.95,0.0,1.83,4,Moderate Hotspot,#fcbf49
+site_5959,"SVSPA Campus, Barrackpore - WBPCB",Barrackpore,West Bengal,22.7605581,88.3617589,80,72.04,74.7,138.45,187.87,195.9,53.75,0.0,1.85,0,Moderate Hotspot,#fcbf49
+site_5620,"Kashiram Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,28.849399,78.742362,86,60.54,62.86,97.52,144.59,255.4,53.49,1.16,1.55,3,Moderate Hotspot,#fcbf49
+site_5771,"New Colony, Bundi - RSPCB",Bundi,Rajasthan,25.435774,75.644272,90,65.06,62.15,120.41,139.01,156.32,53.33,0.0,1.94,1,Moderate Hotspot,#fcbf49
+site_5801,"Deopur, Dhule - MPCB",Dhule,Maharashtra,20.918946,74.776388,92,58.17,62.58,103.48,118.97,136.31,53.26,0.0,1.65,0,Moderate Hotspot,#fcbf49
+site_1437,"Model Town, Patiala - PPCB",Patiala,Punjab,30.349388,76.366642,92,62.44,63.43,108.72,123.1,138.12,53.26,0.0,1.71,1,Moderate Hotspot,#fcbf49
+site_293,Alandur Bus Depot Chennai,,,,,92,70.94,62.87,154.32,167.21,169.53,53.26,0.0,2.45,6,Moderate Hotspot,#fcbf49
+site_5708,"Idgah Hills, Bhopal - MPPCB",Bhopal,Madhya Pradesh,23.264759,77.381568,79,64.27,64.77,122.7,144.52,144.72,53.16,0.0,1.89,1,Moderate Hotspot,#fcbf49
+site_5816,"Suhagi, Jabalpur - JMC",Jabalpur,Madhya Pradesh,23.218135,79.95777,89,59.26,66.56,123.25,146.75,208.22,52.81,0.0,1.85,1,Moderate Hotspot,#fcbf49
+site_5073,"Railway Colony, Guwahati - PCBA",Guwahati,Assam,26.181742,91.78063,89,75.65,61.91,179.32,224.98,322.68,52.81,1.12,2.9,0,Moderate Hotspot,#fcbf49
+site_1395,"Indira Colony Vistar, Pali - RSPCB",Pali,Rajasthan,25.771061,73.340227,91,67.93,66.1,110.26,130.16,152.52,52.75,0.0,1.67,0,Moderate Hotspot,#fcbf49
+site_5402,"Malad West, Mumbai - IITM",Mumbai,Maharashtra,19.19709,72.82204,82,56.28,63.87,110.75,165.16,194.54,52.44,0.0,1.73,0,Moderate Hotspot,#fcbf49
+site_1400,Mahakaleshwar Temple Ujjain,,,,,84,62.04,60.63,112.48,161.2,174.11,52.38,0.0,1.86,2,Moderate Hotspot,#fcbf49
+site_5724,"Rajlaxmi Nagar, Jhalawar - RSPCB",Jhalawar,Rajasthan,24.588397,76.172782,90,63.08,62.71,116.97,136.96,145.96,52.22,0.0,1.87,0,Moderate Hotspot,#fcbf49
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,West Bengal,22.55664,88.342674,90,63.41,62.0,131.12,148.09,159.65,52.22,0.0,2.11,0,Moderate Hotspot,#fcbf49
+site_5793,"Ram Nagar, Nagpur - MPCB",Nagpur,Maharashtra,21.143383,79.048912,92,57.83,63.66,103.74,127.7,163.53,52.17,0.0,1.63,0,Moderate Hotspot,#fcbf49
+site_5065,"GIDC, Ankleshwar - GPCB",Ankleshwar,Gujarat,21.613267,73.010555,85,53.49,61.05,89.38,100.82,105.58,51.76,0.0,1.46,0,Moderate Hotspot,#fcbf49
+site_1538,"Ratanpura, Rupnagar - Ambuja Cements",Rupnagar,Punjab,31.0325454,76.5623046,87,64.78,60.95,120.13,165.93,166.45,51.72,0.0,1.97,3,Moderate Hotspot,#fcbf49
+site_5770,"Pratap Nagar, Bhilwara - RSPCB",Bhilwara,Rajasthan,25.339605,74.618883,91,58.79,61.26,101.62,109.9,130.09,51.65,0.0,1.66,1,Moderate Hotspot,#fcbf49
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,Maharashtra,19.065931,72.862131,91,54.83,62.2,98.72,109.87,149.69,51.65,0.0,1.59,0,Moderate Hotspot,#fcbf49
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,Maharashtra,19.0364585,72.8954371,88,53.61,60.7,104.14,117.7,129.2,51.14,0.0,1.72,0,Moderate Hotspot,#fcbf49
+site_5983,"PCBL Residential Complex, Durgapur - WBPCB",Durgapur,West Bengal,23.508764,87.35444,59,86.44,60.19,184.11,229.72,238.6,50.85,0.0,3.06,0,Moderate Hotspot,#fcbf49
+site_5805,"Kopripada-Vashi, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,19.090337,73.014232,85,52.97,62.07,102.54,137.2,149.99,50.59,0.0,1.65,0,Moderate Hotspot,#fcbf49
+site_5791,"Old MIDC, Jalna - MPCB",Jalna,Maharashtra,19.854616,75.905894,85,60.11,60.09,95.27,105.51,110.65,50.59,0.0,1.59,0,Moderate Hotspot,#fcbf49
+site_5775,"Bamboliya, Baran - RSPCB",Baran,Rajasthan,25.106006,76.469948,87,56.92,60.09,105.83,127.63,137.27,50.57,0.0,1.76,1,Moderate Hotspot,#fcbf49
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,West Bengal,22.627847,88.380669,91,55.36,61.03,110.08,117.74,132.98,50.55,0.0,1.8,1,Moderate Hotspot,#fcbf49
+site_5779,"Pandav Nagari, Nashik - MPCB",Nashik,Maharashtra,19.9591346,73.7788008,91,54.11,60.03,106.29,135.08,136.86,50.55,0.0,1.77,2,Moderate Hotspot,#fcbf49
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,West Bengal,22.51106,88.35142,91,56.81,61.8,108.97,126.96,127.54,50.55,0.0,1.76,0,Moderate Hotspot,#fcbf49
+site_5704,"Govt. Girls Inter College, Kashipur - UKPCB",Kashipur,Uttarakhand,29.2124114,78.9611753,86,58.14,59.81,100.71,122.15,148.43,50.0,0.0,1.68,0,Moderate Hotspot,#fcbf49
+site_5594,"Doon University, Dehradun - UKPCB",Dehradun,Uttarakhand,30.269444,78.044167,90,66.83,60.82,140.08,154.76,155.33,50.0,0.0,2.3,0,Moderate Hotspot,#fcbf49
+site_5982,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",Bhiwadi,Rajasthan,28.207266,76.829265,58,80.37,57.32,182.31,241.46,257.56,50.0,1.72,3.18,2,Moderate Hotspot,#fcbf49
+site_5676,OMC Colony Suakati,,,,,88,55.15,59.55,102.67,123.37,128.23,50.0,0.0,1.72,0,Moderate Hotspot,#fcbf49
+site_5460,"B R Ambedkar University, Lucknow - UPPCB",Lucknow,Uttar Pradesh,26.766433,80.927299,88,60.74,59.94,105.88,142.17,148.24,50.0,0.0,1.77,2,Moderate Hotspot,#fcbf49
+site_5767,Savitribai Phule Pune University Pune,,,,,86,58.17,59.5,111.79,144.33,263.38,50.0,1.16,1.88,0,Moderate Hotspot,#fcbf49
+DS1010005,US Embassy - Hyderabad,Hyderabad,Telangana,17.38405,78.45636,80,57.29,61.17,112.38,124.82,132.0,50.0,0.0,1.84,0,Moderate Hotspot,#fcbf49
+site_300,"Priyambada Housing Estate, Haldia - WBPCB",Haldia,West Bengal,22.06047,88.109737,89,52.94,59.62,106.71,128.21,139.55,49.44,0.0,1.79,0,Moderate Hotspot,#fcbf49
+site_5780,"Sawe Wadi, Latur - MPCB",Latur,Maharashtra,18.39963,76.57452,89,49.99,59.62,87.91,102.93,113.02,49.44,0.0,1.47,0,Moderate Hotspot,#fcbf49
+site_260,"GVM Corporation, Visakhapatnam - APPCB",Visakhapatnam,Andhra Pradesh,17.72,83.3,85,62.7,58.7,132.32,138.65,156.16,49.41,0.0,2.25,0,Moderate Hotspot,#fcbf49
+site_1403,"Sector-D Industrial Area, Mandideep - MPPCB",Mandideep,Madhya Pradesh,23.10844,77.511428,81,70.06,59.57,178.18,193.72,202.49,49.38,0.0,2.99,1,Occasional Spike Zone (Episodic),#f77f00
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,Maharashtra,18.60577,73.749976,61,48.94,19.28,100.98,109.87,110.86,49.18,0.0,5.24,0,Occasional Spike Zone (Episodic),#f77f00
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,Telangana,17.5316895,78.218939,55,43.89,59.17,79.54,80.19,80.73,49.09,0.0,1.34,0,Moderate Hotspot,#fcbf49
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,Telangana,17.4559458,78.4332152,92,71.38,59.2,166.85,451.48,541.11,48.91,3.26,2.82,3,Occasional Spike Zone (Episodic),#f77f00
+site_5613,"Transport Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,28.802625,78.753728,88,51.95,59.03,85.82,114.15,137.82,48.86,0.0,1.45,2,Moderate Hotspot,#fcbf49
+site_5335,"Govt. High School Shikarpur, Patna - BSPCB",Patna,Bihar,25.592539,85.227158,88,66.04,57.22,134.69,175.01,175.63,48.86,0.0,2.35,0,Moderate Hotspot,#fcbf49
+site_5711,"Rati Talai, Banswara - RSPCB",Banswara,Rajasthan,23.55519,74.44001,91,52.44,58.73,86.52,115.83,118.05,48.35,0.0,1.47,0,Moderate Hotspot,#fcbf49
+site_5778,"Karni Colony, Nagaur - RSPCB",Nagaur,Rajasthan,27.213494,73.734444,91,58.13,59.44,110.73,149.93,247.43,48.35,0.0,1.86,4,Moderate Hotspot,#fcbf49
+site_1397,"Ashok Nagar, Udaipur - RSPCB",Udaipur,Rajasthan,24.5886166,73.6321397,91,56.13,57.42,91.37,100.83,128.71,48.35,0.0,1.59,0,Moderate Hotspot,#fcbf49
+site_5963,"Sewri, Mumbai - BMC",Mumbai,Maharashtra,19.000084,72.85673,89,51.88,58.99,105.08,169.89,184.44,48.31,0.0,1.78,0,Moderate Hotspot,#fcbf49
+site_271,"Chauhan Colony, Chandrapur - MPCB",Chandrapur,Maharashtra,19.9629,79.298714,85,53.77,56.27,97.39,103.13,111.43,48.24,0.0,1.73,0,Moderate Hotspot,#fcbf49
+site_5985,"Evelyn Lodge, Asansol - WBPCB",Asansol,West Bengal,23.697936,86.944395,56,64.47,44.58,146.03,159.97,163.69,48.21,0.0,3.28,0,Occasional Spike Zone (Episodic),#f77f00
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,Maharashtra,19.215859,72.831718,73,50.3,49.29,116.33,154.29,160.15,47.95,0.0,2.36,0,Moderate Hotspot,#fcbf49
+site_1402,"Sector-2 Industrial Area, Pithampur - MPPCB",Pithampur,Madhya Pradesh,22.624758,75.675238,92,55.85,59.06,99.28,109.5,118.9,47.83,0.0,1.68,0,Moderate Hotspot,#fcbf49
+site_5797,"Kasarvadavali, Thane - MPCB",Thane,Maharashtra,19.26777,72.97182,90,52.6,52.05,97.19,105.53,112.78,47.78,0.0,1.87,4,Moderate Hotspot,#fcbf49
+site_5052,Patti Mehar Ambala,,,,,80,60.78,59.31,99.3,127.3,180.8,47.5,0.0,1.67,0,Moderate Hotspot,#fcbf49
+site_5683,"LGBI Airport, Guwahati - PCBA",Guwahati,Assam,26.10887,91.589544,91,71.48,58.0,149.05,193.07,200.01,47.25,0.0,2.57,4,Occasional Spike Zone (Episodic),#f77f00
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,Gujarat,23.076793,72.627874,89,54.88,58.89,85.54,104.96,123.92,47.19,0.0,1.45,0,Moderate Hotspot,#fcbf49
+site_5799,"Sector-2E Kalamboli, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,19.02579,73.10297,85,56.01,58.18,95.75,110.36,117.2,47.06,0.0,1.65,0,Moderate Hotspot,#fcbf49
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,Maharashtra,18.530085,73.849598,83,52.8,57.52,87.16,106.77,134.35,46.99,0.0,1.52,0,Moderate Hotspot,#fcbf49
+site_5695,"Krishna Nagar, Bharatpur - RSPCB",Bharatpur,Rajasthan,27.215415,77.50873,82,59.41,55.51,157.51,209.12,215.81,46.34,0.0,2.84,0,Occasional Spike Zone (Episodic),#f77f00
+site_1404,"Bhopal Chauraha, Dewas - MPPCB",Dewas,Madhya Pradesh,22.9682591,76.064118,83,54.5,56.93,97.9,123.29,129.98,45.78,0.0,1.72,1,Moderate Hotspot,#fcbf49
+site_5051,"F-Block, Sirsa - HSPCB",Sirsa,Haryana,29.5364,75.0158,81,62.9,56.98,157.04,187.94,201.47,45.68,0.0,2.76,0,Occasional Spike Zone (Episodic),#f77f00
+site_5462,"Kukrail Picnic Spot-1, Lucknow - UPPCB",Lucknow,Uttar Pradesh,26.90723,80.98579,90,53.55,55.43,98.0,127.41,166.15,45.56,0.0,1.77,0,Moderate Hotspot,#fcbf49
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,Maharashtra,19.083694,72.920967,88,48.22,55.83,104.49,120.36,120.99,45.45,0.0,1.87,0,Moderate Hotspot,#fcbf49
+site_5053,"Shastri Nagar, Narnaul - HSPCB",Narnaul,Haryana,28.060249,76.113115,73,61.66,57.43,120.87,169.79,195.64,45.21,0.0,2.1,1,Moderate Hotspot,#fcbf49
+site_5776,"Ratandeep Housing Society, Solapur - MPCB",Solapur,Maharashtra,17.65439,75.90649,91,48.85,58.4,84.1,95.26,100.06,45.05,0.0,1.44,0,Moderate Hotspot,#fcbf49
+site_5800,"Upvan Fort, Thane - MPCB",Thane,Maharashtra,19.222279,72.957979,91,55.37,56.32,124.09,165.72,223.59,45.05,0.0,2.2,0,Moderate Hotspot,#fcbf49
+site_5851,"Mudtra Sili, Jalore - RSPCB",Jalore,Rajasthan,25.344694,72.626208,91,54.63,55.66,89.52,111.19,161.55,45.05,0.0,1.61,3,Moderate Hotspot,#fcbf49
+site_5659,"Hathkhoj, Bhilai - CECB",Bhilai,Chhattisgarh,21.224231,81.40835,89,50.1,57.29,91.56,105.24,109.24,44.94,0.0,1.6,0,Moderate Hotspot,#fcbf49
+site_5603,"Kalindi Kunj, Khurja - UPPCB",Khurja,Uttar Pradesh,28.2348927,77.8683002,85,61.7,51.76,121.99,161.21,187.44,44.71,0.0,2.36,2,Moderate Hotspot,#fcbf49
+site_5716,"Sahu Nagar, Sawai Madhopur - RSPCB",Sawai Madhopur,Rajasthan,26.031443,76.359327,85,55.25,56.7,116.77,129.72,146.17,44.71,0.0,2.06,0,Moderate Hotspot,#fcbf49
+site_1447,Deshpande Nagar Hubballi,,,,,47,59.26,57.94,90.77,103.19,103.96,44.68,0.0,1.57,0,Moderate Hotspot,#fcbf49
+site_5720,"Jhalamand, Jodhpur - RSPCB",Jodhpur,Rajasthan,26.215415,73.070156,92,52.69,57.04,100.84,144.47,159.54,44.57,0.0,1.77,2,Moderate Hotspot,#fcbf49
+site_5250,"Gole Bazar, Katni - MPPCB",Katni,Madhya Pradesh,23.50016,80.23284,92,51.35,51.99,94.0,103.23,109.7,44.57,0.0,1.81,1,Moderate Hotspot,#fcbf49
+site_5802,"Mahesh Nagar, Malegaon - MPCB",Malegaon,Maharashtra,20.555712,74.529236,88,59.77,56.38,124.37,141.12,141.84,44.32,0.0,2.21,0,Moderate Hotspot,#fcbf49
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,Maharashtra,18.897756,72.81332,84,49.31,54.76,94.13,106.49,123.94,44.05,0.0,1.72,0,Moderate Hotspot,#fcbf49
+site_5651,IITG Guwahati,,,,,66,68.68,52.16,149.88,166.57,168.19,43.94,0.0,2.87,1,Occasional Spike Zone (Episodic),#f77f00
+site_5713,"Khatikan Mohalla, Dausa - RSPCB",Dausa,Rajasthan,26.895552,76.334753,90,59.36,56.45,110.93,123.69,125.25,43.33,0.0,1.97,3,Moderate Hotspot,#fcbf49
+site_5672,"Divisional Forest Office, Rairangpur - OSPCB",Rairangpur,Odisha,22.265816,86.174829,89,55.72,57.83,112.84,141.78,162.14,42.7,0.0,1.95,0,Moderate Hotspot,#fcbf49
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,Gujarat,23.107969,72.574648,89,53.99,56.74,93.64,111.22,134.93,42.7,0.0,1.65,0,Moderate Hotspot,#fcbf49
+site_5817,"Gupteshwar, Jabalpur - JMC",Jabalpur,Madhya Pradesh,23.142888,79.916147,82,59.12,54.3,123.92,158.4,191.0,42.68,0.0,2.28,1,Moderate Hotspot,#fcbf49
+site_5544,"Gurdeo Nagar, Aurangabad - BSPCB",Aurangabad,Bihar,24.75746,84.366208,61,65.17,53.15,138.13,166.12,177.73,42.62,0.0,2.6,7,Occasional Spike Zone (Episodic),#f77f00
+site_304,"Gangapur Road, Nashik - MPCB",Nashik,Maharashtra,20.0073285,73.7762427,87,59.25,52.06,142.03,191.4,192.56,42.53,0.0,2.73,0,Occasional Spike Zone (Episodic),#f77f00
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,Telangana,17.5184,78.278777,90,44.9,50.87,79.9,80.94,81.83,42.22,0.0,1.57,0,Moderate Hotspot,#fcbf49
+site_5049,"Sector-12, Karnal - HSPCB",Karnal,Haryana,29.6953,77.0027,90,58.23,57.19,135.49,168.71,183.12,42.22,0.0,2.37,0,Moderate Hotspot,#fcbf49
+site_5781,"MIDC Ambad, Nashik - MPCB",Nashik,Maharashtra,19.95022,73.73148,83,52.01,52.52,100.03,123.7,156.44,42.17,0.0,1.9,0,Moderate Hotspot,#fcbf49
+site_1450,"Kalal Majra, Khanna - PPCB",Khanna,Punjab,30.736056,76.209694,88,56.9,50.75,105.44,124.68,148.15,42.05,0.0,2.08,0,Moderate Hotspot,#fcbf49
+site_5538,"New DM Office, Arrah - BSPCB",Arrah,Bihar,25.5626095,84.663264,74,79.0,51.5,175.5,192.82,211.94,41.89,0.0,3.41,0,Occasional Spike Zone (Episodic),#f77f00
+site_5668,"Bata Chowk, Nalbari - PCBA",Nalbari,Assam,26.446912,91.439057,84,75.19,41.5,189.01,232.18,238.15,41.67,0.0,4.55,1,Occasional Spike Zone (Episodic),#f77f00
+site_5501,"Shahjahan Garden, Agra - UPPCB",Agra,Uttar Pradesh,27.169338,78.03582,77,49.87,53.38,84.04,112.51,181.8,41.56,0.0,1.57,1,Moderate Hotspot,#fcbf49
+site_5694,"Samrat Ashok Udhyan, Jodhpur - RSPCB",Jodhpur,Rajasthan,26.253384,72.976571,92,58.05,56.84,121.09,263.12,265.14,41.3,2.17,2.13,3,Moderate Hotspot,#fcbf49
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,Telangana,17.349694,78.451437,80,45.22,53.14,80.26,81.01,82.21,41.25,0.0,1.51,0,Moderate Hotspot,#fcbf49
+site_5472,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",Gorakhpur,Uttar Pradesh,26.730136,83.433859,80,55.02,55.7,90.53,152.85,174.51,41.25,0.0,1.63,0,Moderate Hotspot,#fcbf49
+site_5803,"Tondare-Taloja, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,19.063,73.1209,68,56.05,53.53,91.52,95.04,97.5,41.18,0.0,1.71,1,Moderate Hotspot,#fcbf49
+site_5338,"SFTI Kusdihra, Gaya - BSPCB",Gaya,Bihar,24.762518,84.982348,85,53.6,53.58,106.04,114.19,120.44,41.18,0.0,1.98,0,Moderate Hotspot,#fcbf49
+site_5452,"Raikhad, Ahmedabad - IITM",Ahmedabad,Gujarat,23.020509,72.579261,85,57.49,54.93,107.01,120.39,138.16,41.18,0.0,1.95,3,Moderate Hotspot,#fcbf49
+site_5783,"Kamble Tarf Birwadi, Mahad - MPCB",Mahad,Maharashtra,18.1023399,73.4783687,90,51.1,54.57,95.4,99.68,104.84,41.11,0.0,1.75,0,Moderate Hotspot,#fcbf49
+site_5726,"Digari Kalan, Jodhpur - RSPCB",Jodhpur,Rajasthan,26.29581,73.082283,90,52.47,50.77,109.15,154.82,165.66,41.11,0.0,2.15,2,Moderate Hotspot,#fcbf49
+site_5662,"Civil Lines, Sagar - MPPCB",Sagar,Madhya Pradesh,23.838586,78.759431,81,57.9,55.42,127.89,169.43,199.43,40.74,0.0,2.31,1,Moderate Hotspot,#fcbf49
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,Maharashtra,19.0632143,72.8456324,89,49.87,53.31,92.61,118.1,144.7,40.45,0.0,1.74,0,Moderate Hotspot,#fcbf49
+site_5806,"Bhayandar West, Mira-Bhayandar - MPCB",Mira-Bhayandar,Maharashtra,19.296481,72.840923,89,50.06,52.87,93.67,105.46,118.76,40.45,0.0,1.77,0,Moderate Hotspot,#fcbf49
+site_5537,"Employment Office, Moradabad - UPPCB",Moradabad,Uttar Pradesh,28.88528,78.7388,89,51.95,55.89,85.37,116.97,213.15,40.45,0.0,1.53,2,Moderate Hotspot,#fcbf49
+site_5795,"Sneh Nagar, Nanded - MPCB",Nanded,Maharashtra,19.173852,77.296291,77,51.6,53.71,105.8,115.94,129.9,40.26,0.0,1.97,0,Moderate Hotspot,#fcbf49
+site_5463,"Shastripuram, Agra - UPPCB",Agra,Uttar Pradesh,27.19862,77.92066,87,47.26,50.52,85.87,99.38,159.38,40.23,0.0,1.7,1,Moderate Hotspot,#fcbf49
+site_5484,"Nagar Nigam, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,25.44919916,81.82735986,87,51.04,49.39,88.0,99.64,100.74,40.23,0.0,1.78,0,Moderate Hotspot,#fcbf49
+site_5687,"Fertilizer Township, Rourkela - OSPCB",Rourkela,Odisha,22.18972222,84.86277778,78,54.08,47.48,108.58,113.66,117.3,39.74,0.0,2.29,0,Compliant / Low Exposure,#2b9348
+site_5777,"Dnyaneshwar Nagar, Solapur - MPCB",Solapur,Maharashtra,17.6336264,75.9132495,78,45.66,56.4,80.38,92.91,98.55,39.74,0.0,1.43,1,Compliant / Low Exposure,#2b9348
+site_5548,"Kareemganj, Gaya - BSPCB",Gaya,Bihar,24.792403,84.992416,68,67.24,46.92,138.77,144.03,148.24,39.71,0.0,2.96,0,Occasional Spike Zone (Episodic),#f77f00
+site_5772,"Sadar Bazar, Jaisalmer - RSPCB",Jaisalmer,Rajasthan,26.912329,70.909168,91,57.48,51.4,129.33,160.29,163.3,39.56,0.0,2.52,1,Occasional Spike Zone (Episodic),#f77f00
+site_5768,"Shivaji University, Kolhapur - MPCB",Kolhapur,Maharashtra,16.6870449,74.2505872,89,56.47,55.2,115.45,139.23,152.61,39.33,0.0,2.09,1,Compliant / Low Exposure,#2b9348
+site_5275,Phool Bagh Gwalior Mondelez Ind.,,,,,51,51.28,48.48,96.96,106.18,109.49,39.22,0.0,2.0,0,Compliant / Low Exposure,#2b9348
+site_1399,"Anand Kala Kshetram, Rajamahendravaram - APPCB",Rajamahendravaram,Andhra Pradesh,16.9872867,81.7363176,83,48.74,43.26,126.1,136.86,143.02,38.55,0.0,2.91,0,Occasional Spike Zone (Episodic),#f77f00
+site_5670,"Meher Colony, Baripada - OSPCB",Baripada,Odisha,21.941841,86.728318,86,58.72,50.02,140.35,186.63,242.54,38.37,0.0,2.81,2,Occasional Spike Zone (Episodic),#f77f00
+site_5405,Alandi Pune,,,,,78,49.85,47.82,103.43,115.57,117.51,37.18,0.0,2.16,0,Compliant / Low Exposure,#2b9348
+site_5808,"Bolinj, Virar - MPCB",Virar,Maharashtra,19.445821,72.7988231,89,50.7,51.47,94.28,108.78,120.1,37.08,0.0,1.83,0,Compliant / Low Exposure,#2b9348
+site_5458,"GIFT City, Gandhinagar - IITM",Gandhinagar,Gujarat,23.163798,72.677768,81,48.81,45.14,81.22,91.1,99.41,37.04,0.0,1.8,3,Compliant / Low Exposure,#2b9348
+site_5986,"Mahabir Colliery, Asansol - WBPCB",Asansol,West Bengal,23.618183,87.105718,60,55.5,42.15,130.52,153.12,155.74,36.67,0.0,3.1,2,Occasional Spike Zone (Episodic),#f77f00
+site_5790,"Prabhat Colony, Jalgaon - MPCB",Jalgaon,Maharashtra,21.001264,75.565602,90,56.84,49.92,135.91,164.83,222.08,36.67,0.0,2.72,1,Occasional Spike Zone (Episodic),#f77f00
+site_5688,"Sector-2, Rourkela - OSPCB",Rourkela,Odisha,22.245,84.88111111,74,47.61,46.2,83.12,89.15,89.58,36.49,0.0,1.8,0,Compliant / Low Exposure,#2b9348
+site_5481,"D M Colony, Bihar Sharif - BSPCB",Bihar Sharif,Bihar,25.204762,85.51496,74,52.39,36.5,127.09,153.83,164.74,36.49,0.0,3.48,3,Occasional Spike Zone (Episodic),#f77f00
+site_5815,"Sanpada, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,19.0575752,73.0151367,88,49.46,49.39,98.12,171.3,172.51,36.36,0.0,1.99,0,Compliant / Low Exposure,#2b9348
+site_5960,"Byculla, Mumbai - BMC",Mumbai,Maharashtra,18.9767,72.838,91,43.81,48.57,89.38,98.13,105.67,36.26,0.0,1.84,0,Compliant / Low Exposure,#2b9348
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,Gujarat,23.023389,72.515201,58,58.62,56.41,75.91,96.66,99.12,36.21,0.0,1.35,1,Compliant / Low Exposure,#2b9348
+site_5482,"Rohta, Agra - UPPCB",Agra,Uttar Pradesh,27.106972,78.000111,83,49.42,54.24,93.14,108.47,148.22,36.14,0.0,1.72,1,Compliant / Low Exposure,#2b9348
+site_5989,"Botanical Garden, Howrah - WBPCB",Howrah,West Bengal,22.554954,88.292568,50,59.18,34.41,145.22,172.61,191.22,36.0,0.0,4.22,0,Occasional Spike Zone (Episodic),#f77f00
+site_1390,"Moti Doongri, Alwar - RSPCB",Alwar,Rajasthan,27.554793,76.611536,92,50.96,51.19,78.85,90.23,116.98,35.87,0.0,1.54,0,Compliant / Low Exposure,#2b9348
+site_5417,"Pan Bazaar, Guwahati - PCBA",Guwahati,Assam,26.1875,91.744194,87,58.07,35.97,152.6,172.89,209.24,35.63,0.0,4.24,1,Occasional Spike Zone (Episodic),#f77f00
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra,19.23241,72.86895,87,47.85,45.94,96.55,108.54,116.06,35.63,0.0,2.1,1,Compliant / Low Exposure,#2b9348
+site_5554,"Buddhi Vihar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,28.83526,78.7446,88,50.3,51.27,84.94,117.61,227.07,35.23,0.0,1.66,2,Compliant / Low Exposure,#2b9348
+site_5465,"Sector-3B Avas Vikas Colony, Agra - UPPCB",Agra,Uttar Pradesh,27.19412,77.96237,88,44.99,48.79,88.89,128.54,160.61,35.23,0.0,1.82,1,Compliant / Low Exposure,#2b9348
+site_5804,"CBD Belapur, Belapur - MPCB",Belapur,Maharashtra,19.0243902,73.0406721,90,45.88,51.76,74.56,88.19,90.09,34.44,0.0,1.44,0,Compliant / Low Exposure,#2b9348
+site_5128,"Gomti Nagar, Lucknow - UPPCB",Lucknow,Uttar Pradesh,26.86812,81.005119,90,55.66,48.43,107.68,141.93,225.81,34.44,0.0,2.22,1,Compliant / Low Exposure,#2b9348
+site_5418,Naubad Bidar,,,,,44,50.77,55.43,87.23,91.55,92.61,34.09,0.0,1.57,0,Compliant / Low Exposure,#2b9348
+site_5788,"MIDC Chilkalthana, Aurangabad - MPCB",Aurangabad,Maharashtra,19.87562,75.38731,92,50.41,48.2,110.66,133.6,134.82,33.7,0.0,2.3,0,Compliant / Low Exposure,#2b9348
+site_5782,"Hirawadi, Nashik - MPCB",Nashik,Maharashtra,20.021503,73.813844,81,44.26,44.03,91.01,100.12,120.39,33.33,0.0,2.07,0,Compliant / Low Exposure,#2b9348
+site_5474,"NSI Kalyanpur, Kanpur - UPPCB",Kanpur,Uttar Pradesh,26.509954,80.249612,87,48.65,49.9,92.73,111.41,120.81,33.33,0.0,1.86,0,Compliant / Low Exposure,#2b9348
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,Maharashtra,19.1878657,72.8304069,91,46.88,44.36,93.54,150.77,196.73,32.97,0.0,2.11,0,Compliant / Low Exposure,#2b9348
+site_5476,"Kamalnath Nagar, Bettiah - BSPCB",Bettiah,Bihar,26.80365,84.51954,40,58.72,50.21,133.29,164.13,177.26,32.5,0.0,2.65,2,Occasional Spike Zone (Episodic),#f77f00
+site_5404,"Mhada Colony, Pune - IITM",Pune,Maharashtra,18.57304,73.927715,90,45.34,51.15,76.86,85.07,92.3,32.22,0.0,1.5,0,Compliant / Low Exposure,#2b9348
+site_5500,"FTI Kidwai Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,26.428282,80.327067,87,47.04,47.4,93.47,118.81,211.88,32.18,0.0,1.97,3,Compliant / Low Exposure,#2b9348
+site_5617,VOC Nagar SIPCOT Ranipet,,,,,22,43.72,45.15,70.36,74.48,75.55,31.82,0.0,1.56,0,Compliant / Low Exposure,#2b9348
+DS1010002,US Embassy - Chennai,Chennai,Tamil Nadu,13.08784,80.278475,63,48.43,43.95,80.13,135.48,155.5,31.75,0.0,1.82,1,Compliant / Low Exposure,#2b9348
+site_5677,"Barsua Iron Ore Mines, Tensa - OSPCB",Tensa,Odisha,21.869985,85.167016,76,43.82,44.77,82.09,91.83,104.52,31.58,0.0,1.83,0,Compliant / Low Exposure,#2b9348
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,Maharashtra,18.45445,73.854155,77,46.13,45.0,92.1,107.66,109.43,31.17,0.0,2.05,1,Compliant / Low Exposure,#2b9348
+site_5718,"Dhoinda, Rajsamand - RSPCB",Rajsamand,Rajasthan,25.03636,73.883502,90,48.24,45.82,96.42,115.2,124.91,31.11,0.0,2.1,1,Compliant / Low Exposure,#2b9348
+site_5856,"Maguda Nagar, Indore - IMC",Indore,Madhya Pradesh,22.7524,75.8872,74,58.4,46.87,162.62,246.58,263.62,31.08,1.35,3.47,0,Occasional Spike Zone (Episodic),#f77f00
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,Maharashtra,19.11074,72.86084,29,46.08,36.1,88.53,94.04,95.36,31.03,0.0,2.45,2,Compliant / Low Exposure,#2b9348
+site_5965,"Govindh Bhavan Colony, Jabalpur - JMC",Jabalpur,Madhya Pradesh,23.163174,79.973061,68,50.98,47.17,89.69,131.33,148.12,30.88,0.0,1.9,2,Compliant / Low Exposure,#2b9348
+site_5480,"Nagla Bhau, Firozabad - UPPCB",Firozabad,Uttar Pradesh,27.168897,78.37696,82,44.42,49.02,88.57,107.46,108.53,30.49,0.0,1.81,2,Compliant / Low Exposure,#2b9348
+site_5653,"Siltara Phase-II, Raipur - CECB",Raipur,Chhattisgarh,21.371751,81.664929,69,51.24,51.38,85.24,97.75,102.13,30.43,0.0,1.66,1,Compliant / Low Exposure,#2b9348
+site_5671,"Jagamohanpur, Keonjhar - OSPCB",Keonjhar,Odisha,21.6439,85.599355,86,50.93,39.6,139.46,161.71,165.29,30.23,0.0,3.52,0,Occasional Spike Zone (Episodic),#f77f00
+site_5703,"Shivaji Nagar, Rishikesh - UKPCB",Rishikesh,Uttarakhand,30.075911,78.2859547,87,44.57,41.46,82.95,86.78,89.76,29.89,0.0,2.0,0,Compliant / Low Exposure,#2b9348
+site_5786,"Shivneri Colony, Amravati - MPCB",Amravati,Maharashtra,20.9402359,77.7895248,87,44.84,49.22,79.47,88.01,95.13,29.89,0.0,1.61,0,Compliant / Low Exposure,#2b9348
+site_5773,"Mandor, Jodhpur - RSPCB",Jodhpur,Rajasthan,26.358805,73.047444,92,44.28,43.82,88.78,105.29,132.27,29.35,0.0,2.03,1,Compliant / Low Exposure,#2b9348
+site_5769,"Sinchan Bhavan, Kolhapur - MPCB",Kolhapur,Maharashtra,16.7143745,74.2426398,79,48.28,52.5,81.09,102.03,115.61,29.11,0.0,1.54,2,Compliant / Low Exposure,#2b9348
+site_5721,"Pragati Nagar, Pratapgarh - RSPCB",Pratapgarh,Rajasthan,24.041198,74.780702,92,45.2,45.72,87.03,99.17,122.92,28.26,0.0,1.9,2,Compliant / Low Exposure,#2b9348
+site_5254,"Collector Office, Yadgir - KSPCB",Yadgir,Karnataka,16.7602,77.1428,82,43.64,45.54,81.13,92.77,105.03,28.05,0.0,1.78,0,Compliant / Low Exposure,#2b9348
+site_5706,"Christianpatty, Nagaon - PCBA",Nagaon,Assam,26.349082,92.68449,82,45.87,18.32,129.63,171.83,191.36,28.05,0.0,7.08,1,Occasional Spike Zone (Episodic),#f77f00
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,Maharashtra,19.060498,72.923356,50,40.17,22.48,98.86,112.96,123.47,28.0,0.0,4.4,0,Occasional Spike Zone (Episodic),#f77f00
+site_5674,"Dabuna, Nayagarh - OSPCB",Nayagarh,Odisha,21.847279,85.416905,79,45.59,39.76,95.63,106.14,113.68,27.85,0.0,2.4,0,Compliant / Low Exposure,#2b9348
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,Karnataka,12.920984,77.584908,90,40.32,41.76,77.19,94.86,126.05,27.78,0.0,1.85,1,Compliant / Low Exposure,#2b9348
+site_5103,"Nerul, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,19.008751,73.01662,92,42.69,47.15,77.77,93.67,97.31,27.17,0.0,1.65,1,Compliant / Low Exposure,#2b9348
+site_5550,"Forest Rest House, Manguraha - BSPCB",Manguraha,Bihar,27.308328,84.531742,52,49.54,44.98,89.86,101.42,101.62,26.92,0.0,2.0,1,Compliant / Low Exposure,#2b9348
+site_5627,Kamadenu Nagar Karur,,,,,30,41.65,46.19,67.06,67.33,67.36,26.67,0.0,1.45,0,Compliant / Low Exposure,#2b9348
+site_1419,"Ward-32 Bapupara, Siliguri - WBPCB",Siliguri,West Bengal,26.6879226,88.4152495,87,40.4,29.63,80.18,90.48,96.14,26.44,0.0,2.71,0,Occasional Spike Zone (Episodic),#f77f00
+site_5774,"Vijay Nagar, Sangli - MPCB",Sangli,Maharashtra,16.5038,74.3623,84,41.54,40.98,84.08,87.45,96.09,26.19,0.0,2.05,0,Compliant / Low Exposure,#2b9348
+site_5584,"Vibhab Nagar, Firozabad - UPPCB",Firozabad,Uttar Pradesh,27.1594,78.3953,65,46.85,46.34,78.58,107.54,137.31,26.15,0.0,1.7,0,Compliant / Low Exposure,#2b9348
+site_5042,"Shasthri Nagar, Ratlam - IPCA Lab",Ratlam,Madhya Pradesh,23.331731,75.045981,92,44.31,47.7,76.59,86.84,119.65,26.09,0.0,1.61,0,Compliant / Low Exposure,#2b9348
+site_5608,Mendonsa Colony Dindigul,,,,,31,40.51,39.52,67.68,70.11,70.78,25.81,0.0,1.71,0,Compliant / Low Exposure,#2b9348
+site_1406,"Secretariat, Amaravati - APPCB",Amaravati,Andhra Pradesh,16.5150833,80.5181667,80,38.81,29.34,99.18,106.76,108.92,25.0,0.0,3.38,0,Occasional Spike Zone (Episodic),#f77f00
+site_5623,"PSG College of Arts and Science, Coimbatore - TNPCB",Coimbatore,TamilNadu,11.0328,77.0349,72,42.55,44.87,74.72,82.85,86.89,25.0,0.0,1.67,0,Compliant / Low Exposure,#2b9348
+site_5664,"Science Center, Surat - SMC",Surat,Gujarat,21.170046,72.795405,72,42.72,33.68,85.49,176.37,224.03,23.61,0.0,2.54,2,Occasional Spike Zone (Episodic),#f77f00
+site_5459,"Motilal Nehru NIT, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,25.494,81.863,85,39.07,44.52,72.35,81.2,84.44,23.53,0.0,1.63,1,Compliant / Low Exposure,#2b9348
+site_5334,"Polayathode, Kollam - Kerala PCB",Kollam,Kerala,8.8787,76.6073,62,43.3,44.01,76.48,100.7,103.07,22.58,0.0,1.74,2,Compliant / Low Exposure,#2b9348
+site_5408,"Transport Nagar-Nigdi, Pune - IITM",Pune,Maharashtra,18.664282,73.763966,71,43.96,48.69,74.65,77.43,80.65,22.54,0.0,1.53,0,Compliant / Low Exposure,#2b9348
+site_5547,"SDM Office_Khagra, Kishanganj - BSPCB",Kishanganj,Bihar,26.0881305,87.93840336,73,41.22,34.6,94.57,109.31,133.16,21.92,0.0,2.73,8,Occasional Spike Zone (Episodic),#f77f00
+site_1549,"Hardev Nagar, Bathinda - PPCB",Bathinda,Punjab,30.233011,74.907758,83,49.3,50.96,68.0,103.36,132.8,21.69,0.0,1.33,0,Compliant / Low Exposure,#2b9348
+site_5978,"SIPCOT Nathampannai, Pudukottai - TNPCB",Pudukottai,TamilNadu,10.423417,78.784889,28,41.16,39.24,64.7,69.14,70.73,21.43,0.0,1.65,0,Compliant / Low Exposure,#2b9348
+site_5784,"Ramdaspeth, Akola - MPCB",Akola,Maharashtra,20.719516,77.000253,92,45.2,50.94,79.0,96.63,136.33,20.65,0.0,1.55,1,Compliant / Low Exposure,#2b9348
+site_5660,"32Bungalows, Bhilai - CECB",Bhilai,Chhattisgarh,21.194815,81.31477,88,41.67,46.0,76.1,82.48,87.07,20.45,0.0,1.65,0,Compliant / Low Exposure,#2b9348
+site_5406,"Bhosari, Pune - IITM",Pune,Maharashtra,18.640051,73.848956,55,35.04,32.85,69.44,77.97,81.96,20.0,0.0,2.11,2,Compliant / Low Exposure,#2b9348
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,TamilNadu,13.0664,80.2112,86,34.36,29.8,75.03,89.13,126.28,19.77,0.0,2.52,1,Occasional Spike Zone (Episodic),#f77f00
+site_5583,"Shivaji Nagar, Jhansi - UPPCB",Jhansi,Uttar Pradesh,25.4547,78.6039,87,44.93,47.32,72.44,88.59,90.81,19.54,0.0,1.53,0,Compliant / Low Exposure,#2b9348
+site_5050,"Shyam Nagar, Palwal - HSPCB",Palwal,Haryana,28.1485564,77.3320667,87,40.81,32.95,91.18,112.21,147.81,19.54,0.0,2.77,2,Occasional Spike Zone (Episodic),#f77f00
+site_5119,"Sion, Mumbai - MPCB",Mumbai,Maharashtra,19.047,72.8746,89,43.67,46.92,68.87,72.72,72.8,19.1,0.0,1.47,0,Compliant / Low Exposure,#2b9348
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,Maharashtra,19.175,72.9419,81,37.89,41.86,66.77,82.91,87.99,18.52,0.0,1.6,0,Compliant / Low Exposure,#2b9348
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,TamilNadu,12.9533,80.2357,90,35.73,29.6,79.72,111.29,185.58,17.78,0.0,2.69,1,Occasional Spike Zone (Episodic),#f77f00
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,Gujarat,23.002657,72.591912,86,49.87,48.4,80.32,158.51,170.5,17.44,0.0,1.66,2,Compliant / Low Exposure,#2b9348
+site_5997,"SIPCOT Industrial Park, Perundurai - TNPCB",Perundurai,TamilNadu,11.258242,77.552761,29,40.89,41.71,66.12,69.21,70.05,17.24,0.0,1.59,0,Compliant / Low Exposure,#2b9348
+site_5040,"Shrivastav Colony, Damoh - MPPCB",Damoh,Madhya Pradesh,23.81748678,79.446246,64,31.94,22.57,89.55,100.37,106.17,17.19,0.0,3.97,4,Occasional Spike Zone (Episodic),#f77f00
+site_5618,Gandhi Nagar Ennore Chennai,,,,,24,46.12,40.49,75.81,118.34,130.81,16.67,0.0,1.87,1,Compliant / Low Exposure,#2b9348
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,Telangana,17.540891,78.358528,67,38.15,43.76,72.04,72.71,73.21,16.42,0.0,1.65,0,Compliant / Low Exposure,#2b9348
+site_1392,"Civil Lines,  Ajmer - RSPCB",Ajmer,Rajasthan,26.470859,74.646594,92,45.01,45.31,67.95,76.21,136.33,16.3,0.0,1.5,0,Compliant / Low Exposure,#2b9348
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,13.003872,77.664217,88,37.27,34.03,69.33,79.31,88.67,15.91,0.0,2.04,0,Compliant / Low Exposure,#2b9348
+site_5464,"Manoharpur, Agra - UPPCB",Agra,Uttar Pradesh,27.23711,78.01936,89,40.32,38.64,86.04,98.34,126.82,15.73,0.0,2.23,0,Compliant / Low Exposure,#2b9348
+site_5785,"Tarakpur, Ahmednagar - MPCB",Ahmednagar,Maharashtra,19.10122,74.73339,78,43.49,44.15,71.2,89.13,120.47,15.38,0.0,1.61,0,Compliant / Low Exposure,#2b9348
+site_5665,"Gangineni Cheruvu, Chittoor - APPCB",Chittoor,Andhra Pradesh,13.20488,79.097889,72,39.25,33.85,70.79,90.74,98.62,15.28,0.0,2.09,1,Compliant / Low Exposure,#2b9348
+site_5601,"Rajendra Nagar, Bareilly - UPPCB",Bareilly,Uttar Pradesh,28.38910936,79.42963708,87,35.48,35.81,79.04,96.86,133.44,14.94,0.0,2.21,0,Compliant / Low Exposure,#2b9348
+site_5692,"OP Jindal Industrial Park, Tumidih - CECB",Tumidih,Chhattisgarh,22.06631475,83.33820077,35,35.64,35.66,65.83,73.14,76.43,14.29,0.0,1.85,0,Compliant / Low Exposure,#2b9348
+site_5555,"Jigar Colony, Moradabad - UPPCB",Moradabad,Uttar Pradesh,28.856664,78.772638,92,41.26,40.03,77.17,85.2,150.92,14.13,0.0,1.93,2,Compliant / Low Exposure,#2b9348
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,Maharashtra,19.0863,72.8888,79,38.36,43.6,67.04,71.84,75.75,13.92,0.0,1.54,0,Compliant / Low Exposure,#2b9348
+site_5622,Sona College of Technology Salem,,,,,29,39.47,39.43,61.68,77.41,83.53,13.79,0.0,1.56,0,Compliant / Low Exposure,#2b9348
+site_5422,Devaraj Urs Badavane Davanagere,,,,,82,33.56,30.57,65.17,69.73,71.91,13.41,0.0,2.13,0,Compliant / Low Exposure,#2b9348
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,TamilNadu,13.1036,80.2909,83,32.56,26.03,68.64,96.35,157.42,13.25,0.0,2.64,1,Occasional Spike Zone (Episodic),#f77f00
+site_5420,Ashwini Nagar Haveri,,,,,76,34.46,33.24,71.56,82.8,108.46,13.16,0.0,2.15,0,Compliant / Low Exposure,#2b9348
+site_1557,"Chikkaballapur Rural, Chikkaballapur - KSPCB",Chikkaballapur,Karnataka,13.428828,77.731418,85,34.82,37.9,69.1,78.5,83.29,12.94,0.0,1.82,0,Compliant / Low Exposure,#2b9348
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,Karnataka,13.029152,77.585901,78,36.19,36.17,75.74,91.17,108.05,12.82,0.0,2.09,0,Compliant / Low Exposure,#2b9348
+site_5615,Vasanthapuram Vellore,,,,,40,33.85,28.9,63.39,99.17,112.82,12.5,0.0,2.19,0,Compliant / Low Exposure,#2b9348
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,12.951913,77.539784,89,36.73,38.77,68.07,77.49,79.59,12.36,0.0,1.76,0,Compliant / Low Exposure,#2b9348
+site_5714,"Railway Colony, Barmer - RSPCB",Barmer,Rajasthan,25.747299,71.393989,90,38.72,33.51,76.71,92.41,99.74,12.22,0.0,2.29,3,Compliant / Low Exposure,#2b9348
+site_5475,"Maldahiya, Varanasi - UPPCB",Varanasi,Uttar Pradesh,25.32393,82.99687,82,36.19,31.1,74.64,76.78,79.13,12.2,0.0,2.4,0,Compliant / Low Exposure,#2b9348
+site_5102,"Malad West, Mumbai - IITM",Mumbai,Maharashtra,19.19709,72.82204,76,36.45,32.04,69.27,81.62,85.16,11.84,0.0,2.16,0,Compliant / Low Exposure,#2b9348
+site_1565,Lal Bahadur Shastri Nagar Kalaburagi,,,,,51,33.72,22.65,65.72,80.06,89.52,11.76,0.0,2.9,0,Occasional Spike Zone (Episodic),#f77f00
+site_5678,"RVCE-Mailasandra, Bengaluru - KSPCB",Bengaluru,Karnataka,12.921418,77.502466,85,42.69,40.1,61.61,65.95,73.76,11.76,0.0,1.54,0,Compliant / Low Exposure,#2b9348
+site_5705,"Vedhaynath Colony, Sirohi - RSPCB",Sirohi,Rajasthan,24.885261,72.857549,85,37.26,36.79,71.27,83.08,99.01,11.76,0.0,1.94,1,Compliant / Low Exposure,#2b9348
+site_5536,"Civic Center, Bhilai - Bhilai Steel Plant",Bhilai,Chhattisgarh,21.185571,81.343175,79,34.19,35.27,64.98,79.03,94.39,11.39,0.0,1.84,0,Compliant / Low Exposure,#2b9348
+site_306,"Manali, Chennai - CPCB",Chennai,TamilNadu,13.164544,80.26285,80,40.06,36.12,76.23,123.2,133.66,11.25,0.0,2.11,3,Compliant / Low Exposure,#2b9348
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,Karnataka,12.7816279,77.6299145,89,39.38,38.25,67.16,76.44,79.08,11.24,0.0,1.76,0,Compliant / Low Exposure,#2b9348
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,Maharashtra,19.10861,72.83622,84,33.14,31.13,65.59,76.3,110.03,10.71,0.0,2.11,0,Compliant / Low Exposure,#2b9348
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,Maharashtra,18.91,72.82,78,34.61,38.62,64.34,73.15,73.26,10.26,0.0,1.67,0,Compliant / Low Exposure,#2b9348
+site_5255,"Vijay Nagar, Ramanagara - KSPCB",Ramanagara,Karnataka,12.733409,77.298051,88,30.52,31.6,62.0,74.7,74.96,10.23,0.0,1.96,3,Compliant / Low Exposure,#2b9348
+site_273,"Ardhali Bazar, Varanasi - UPPCB",Varanasi,Uttar Pradesh,25.3505986,82.9083074,92,35.51,31.82,69.42,81.17,85.05,9.78,0.0,2.18,0,Compliant / Low Exposure,#2b9348
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,Maharashtra,19.1653323,72.922099,88,34.38,35.13,63.0,67.16,72.5,9.09,0.0,1.79,0,Compliant / Low Exposure,#2b9348
+site_5503,"Mangala, Bilaspur - NTPC",Bilaspur,Chhattisgarh,22.08815,82.13737,78,37.1,40.5,66.31,77.37,106.01,8.97,0.0,1.64,0,Compliant / Low Exposure,#2b9348
+site_5854,"Residency Area, Indore - IMC",Indore,Madhya Pradesh,22.7084,75.8815,69,35.03,35.48,64.14,85.31,115.13,8.7,0.0,1.81,0,Compliant / Low Exposure,#2b9348
+site_5855,"Regional Park, Indore - IMC",Indore,Madhya Pradesh,22.678,75.8559,58,37.15,41.67,63.5,72.2,74.91,8.62,0.0,1.52,0,Compliant / Low Exposure,#2b9348
+site_5131,"Lumpyngngad, Shillong - Meghalaya PCB",Shillong,Meghalaya,25.5586,91.8985,48,30.95,27.29,71.43,94.82,106.51,8.33,0.0,2.62,0,Occasional Spike Zone (Episodic),#f77f00
+site_5423,"Jawahar Nagar, Puducherry - PPCC",Puducherry,Puducherry,11.9309,79.8027,85,29.73,21.55,66.35,81.91,112.77,8.24,0.0,3.08,0,Occasional Spike Zone (Episodic),#f77f00
+site_5611,Semmandalam Cuddalore,,,,,61,30.78,22.77,79.47,120.58,129.03,8.2,0.0,3.49,0,Occasional Spike Zone (Episodic),#f77f00
+site_5605,Crescent University Chengalpattu,,,,,38,41.49,40.72,67.64,93.73,105.0,7.89,0.0,1.66,0,Compliant / Low Exposure,#2b9348
+site_5407,"Hadapsar, Pune - IITM",Pune,Maharashtra,18.501793,73.927532,51,30.26,16.09,61.53,90.56,116.27,7.84,0.0,3.83,0,Occasional Spike Zone (Episodic),#f77f00
+site_5691,"Govt. Higher Secondary School, Milupara - CECB",Milupara,Chhattisgarh,22.1910172,83.5197009,52,33.82,34.99,60.8,62.63,63.39,7.69,0.0,1.74,0,Compliant / Low Exposure,#2b9348
+site_5685,"Kanuru, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,16.486692,80.699436,66,35.4,31.22,66.58,86.06,117.81,7.58,0.0,2.13,0,Compliant / Low Exposure,#2b9348
+site_5655,"Bhatagaon New ISBT, Raipur - CECB",Raipur,Chhattisgarh,21.219665,81.630094,82,33.66,39.1,62.79,77.64,104.61,7.32,0.0,1.61,0,Compliant / Low Exposure,#2b9348
+site_5652,"AIIMS, Raipur - CECB",Raipur,Chhattisgarh,21.258815,81.578979,83,35.58,42.16,61.62,69.03,72.14,7.23,0.0,1.46,0,Compliant / Low Exposure,#2b9348
+site_5666,"Vaikuntapuram, Tirupati - APPCB",Tirupati,Andhra Pradesh,13.615387,79.40923,56,34.59,31.28,62.3,83.54,89.35,7.14,0.0,1.99,0,Compliant / Low Exposure,#2b9348
+site_5689,"Nawapara SECL Colony, Chhal - CECB",Chhal,Chhattisgarh,22.118125,83.140608,85,34.24,36.03,60.65,70.34,71.97,7.06,0.0,1.68,0,Compliant / Low Exposure,#2b9348
+site_5068,Sahilara Maihar KJS,,,,,73,33.1,28.03,62.58,73.26,78.24,6.85,0.0,2.23,0,Compliant / Low Exposure,#2b9348
+site_5067,"Phase-4 GIDC, Vatva - GPCB",Vatva,Gujarat,22.969611,72.6435,88,35.46,32.92,62.14,69.77,75.3,6.82,0.0,1.89,0,Compliant / Low Exposure,#2b9348
+site_5621,Kudikadu Cuddalore,,,,,44,31.0,27.33,69.59,88.61,98.79,6.82,0.0,2.55,0,Occasional Spike Zone (Episodic),#f77f00
+site_5446,"Naharlagun, Naharlagun - APSPCB",Naharlagun,Arunachal Pradesh,27.103358,93.679645,63,30.89,27.43,62.66,63.84,64.9,6.35,0.0,2.28,0,Compliant / Low Exposure,#2b9348
+site_252,"Plammoodu, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,8.5149093,76.9435879,50,39.11,26.72,63.6,327.82,572.66,6.0,2.0,2.38,0,Compliant / Low Exposure,#2b9348
+site_292,Karve Road Pune,,,,,86,39.74,42.74,64.86,111.15,236.13,5.81,0.0,1.52,2,Compliant / Low Exposure,#2b9348
+site_5469,"Bhelupur, Varanasi - UPPCB",Varanasi,Uttar Pradesh,25.301778,82.996789,88,26.81,22.74,60.17,68.92,69.49,5.68,0.0,2.65,0,Occasional Spike Zone (Episodic),#f77f00
+site_5979,Collectorate Office Virudhunagar,,,,,53,31.17,27.53,61.7,69.56,72.8,5.66,0.0,2.24,0,Compliant / Low Exposure,#2b9348
+site_5632,"Gulzarpet, Anantapur - APPCB",Anantapur,Andhra Pradesh,14.675886,77.593027,77,31.81,28.05,59.67,69.03,69.77,5.19,0.0,2.13,0,Compliant / Low Exposure,#2b9348
+site_5115,Worli Mumbai,Mumbai,Maharashtra,19.000083,72.813993,78,29.38,30.96,56.4,74.28,81.33,5.13,0.0,1.82,0,Compliant / Low Exposure,#2b9348
+site_5690,"OP Jindal School, Kunjemura - CECB",Kunjemura,Chhattisgarh,22.12665,83.483212,87,29.12,30.27,57.89,70.1,81.11,4.6,0.0,1.91,0,Compliant / Low Exposure,#2b9348
+site_5682,"Thimmalapura, Tumakuru - KSPCB",Tumakuru,Karnataka,13.377516,77.099072,73,37.52,40.41,57.98,64.87,65.47,4.11,0.0,1.43,1,Compliant / Low Exposure,#2b9348
+site_5448,B.Katihalli Hassan,,,,,49,30.32,26.99,55.45,61.84,63.41,4.08,0.0,2.05,0,Compliant / Low Exposure,#2b9348
+site_5092,"Manali Village, Chennai - TNPCB",Chennai,TamilNadu,13.1662,80.2584,26,37.2,37.53,59.69,65.98,68.05,3.85,0.0,1.59,0,Compliant / Low Exposure,#2b9348
+site_5114,"Mahape, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,19.1135051,73.008978,79,33.7,35.15,59.32,64.93,69.27,3.8,0.0,1.69,0,Compliant / Low Exposure,#2b9348
+site_5625,"Chalai Bazaar, Ramanathapuram - TNPCB",Ramanathapuram,TamilNadu,9.36399,78.831977,53,27.07,25.98,45.27,70.26,73.38,3.77,0.0,1.74,1,Compliant / Low Exposure,#2b9348
+site_1410,"GM Office, Brajrajnagar - OSPCB",Brajrajnagar,Odisha,21.8004996,83.8396977,80,33.32,34.99,58.51,62.84,64.33,3.75,0.0,1.67,2,Compliant / Low Exposure,#2b9348
+site_5483,"Omex Eternity, Vrindavan - UPPCB",Vrindavan,Uttar Pradesh,27.571409,77.655757,81,32.51,35.35,55.82,69.91,91.55,3.7,0.0,1.58,1,Compliant / Low Exposure,#2b9348
+site_5112,"Powai, Mumbai - MPCB",Mumbai,Maharashtra,19.1375,72.915056,83,33.29,37.43,58.61,65.29,79.41,3.61,0.0,1.57,0,Compliant / Low Exposure,#2b9348
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,Maharashtra,18.536457,73.805454,28,27.69,33.29,38.57,63.68,72.9,3.57,0.0,1.16,0,Compliant / Low Exposure,#2b9348
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,Telangana,17.460103,78.334361,85,30.1,34.0,56.91,69.89,71.43,3.53,0.0,1.67,0,Compliant / Low Exposure,#2b9348
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,Karnataka,12.917348,77.622813,90,41.76,28.07,55.77,595.32,605.62,3.33,2.22,1.99,2,Compliant / Low Exposure,#2b9348
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,Karnataka,13.0246342,77.5080115,71,26.28,25.0,36.93,63.04,65.24,2.82,0.0,1.48,0,Compliant / Low Exposure,#2b9348
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,Karnataka,13.0270199,77.494094,79,32.47,28.52,59.73,65.61,69.42,2.53,0.0,2.09,0,Compliant / Low Exposure,#2b9348
+site_5066,"Sector-10, Gandhinagar - GPCB",Gandhinagar,Gujarat,23.221714,72.654328,83,34.43,31.95,54.58,78.31,109.64,2.41,0.0,1.71,0,Compliant / Low Exposure,#2b9348
+site_5598,"Somajiguda, Hyderabad - TSPCB",Hyderabad,Telangana,17.417094,78.457437,42,38.37,36.27,53.82,60.18,61.74,2.38,0.0,1.48,0,Compliant / Low Exposure,#2b9348
+site_5118,"Khadakpada, Kalyan - MPCB",Kalyan,Maharashtra,19.25292,73.142019,85,33.66,38.77,57.65,64.63,67.77,2.35,0.0,1.49,0,Compliant / Low Exposure,#2b9348
+site_302,Solapur Solapur,Solapur,Maharashtra,17.6336264,75.9132495,86,36.04,34.67,46.08,69.27,100.42,2.33,0.0,1.33,0,Compliant / Low Exposure,#2b9348
+site_5421,"Kadri, Mangalore - KSPCB",Mangalore,Karnataka,12.88925,74.853,86,26.53,23.45,53.61,64.63,71.05,2.33,0.0,2.29,0,Compliant / Low Exposure,#2b9348
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,Maharashtra,19.2058,72.8682,87,30.61,30.79,56.74,60.64,62.72,2.3,0.0,1.84,0,Compliant / Low Exposure,#2b9348
+site_5624,Bombay Castel Ooty,,,,,55,31.88,27.63,59.56,64.62,70.09,1.82,0.0,2.16,0,Compliant / Low Exposure,#2b9348
+site_5981,"Rajiv Nagar, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,16.554731,80.64911,61,28.9,29.52,38.42,56.2,72.18,1.64,0.0,1.3,0,Compliant / Low Exposure,#2b9348
+site_5693,"Yerramukkapalli, Kadapa - APPCB",Kadapa,Andhra Pradesh,14.465052,78.824187,70,30.78,28.57,46.05,58.36,61.56,1.43,0.0,1.61,0,Compliant / Low Exposure,#2b9348
+site_5656,"Rampur, Korba - CECB",Korba,Chhattisgarh,22.368195,82.746431,73,28.79,29.42,50.78,61.39,68.55,1.37,0.0,1.73,0,Compliant / Low Exposure,#2b9348
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,Telangana,17.429398,78.569354,80,31.96,30.24,44.97,57.24,72.45,1.25,0.0,1.49,0,Compliant / Low Exposure,#2b9348
+site_5628,"Civil Lines, Bareilly - UPPCB",Bareilly,Uttar Pradesh,28.359581,79.414455,81,20.96,19.76,51.34,58.6,66.59,1.23,0.0,2.6,0,Occasional Spike Zone (Episodic),#f77f00
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,TamilNadu,13.0052189,80.2398125,82,28.53,27.01,48.44,54.51,62.89,1.22,0.0,1.79,0,Compliant / Low Exposure,#2b9348
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,Karnataka,12.9135218,77.5950804,82,21.21,18.72,42.35,55.2,71.39,1.22,0.0,2.26,0,Compliant / Low Exposure,#2b9348
+site_5468,"IESD Banaras Hindu University, Varanasi - UPPCB",Varanasi,Uttar Pradesh,25.262326,82.995408,90,21.53,19.73,40.32,52.62,61.37,1.11,0.0,2.04,0,Compliant / Low Exposure,#2b9348
+site_5461,"Jhunsi, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,25.425602,81.917152,92,31.65,33.57,56.18,58.63,60.45,1.09,0.0,1.67,0,Compliant / Low Exposure,#2b9348
+site_5269,"Deen Dayal Nagar, Sagar - MPPCB",Sagar,Madhya Pradesh,23.8640158,78.80289321,92,22.73,21.29,42.72,59.21,67.85,1.09,0.0,2.01,0,Compliant / Low Exposure,#2b9348
+site_5433,Brahmagiri Udupi,,,,,43,25.79,24.39,50.85,54.94,56.55,0.0,0.0,2.08,0,Compliant / Low Exposure,#2b9348
+site_1433,"Bandhavgar Colony, Satna - Birla Cement",Satna,Madhya Pradesh,24.58434363,80.8549414,85,14.24,11.93,23.53,36.84,36.86,0.0,0.0,1.97,0,Compliant / Low Exposure,#2b9348
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,12.938539,77.5901,91,21.65,22.23,43.7,45.92,53.42,0.0,0.0,1.97,0,Compliant / Low Exposure,#2b9348
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra,19.23241,72.86895,86,26.98,31.78,50.34,54.3,58.28,0.0,0.0,1.58,0,Compliant / Low Exposure,#2b9348
+site_5276,"Thavakkara, Kannur - Kerala PCB",Kannur,Kerala,11.875,75.3732,59,25.89,26.87,28.52,28.78,28.92,0.0,0.0,1.06,0,Compliant / Low Exposure,#2b9348
+site_5331,"Kariavattom, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,8.5637,76.8865,92,27.96,23.93,46.27,46.71,46.74,0.0,0.0,1.93,0,Compliant / Low Exposure,#2b9348
+site_5679,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",Kalaburagi,Karnataka,17.336318,76.847397,88,13.89,12.68,24.78,27.8,28.95,0.0,0.0,1.95,0,Compliant / Low Exposure,#2b9348
+site_5684,"Tarapur, Silchar - PCBA",Silchar,Assam,24.82827,92.79525,91,23.07,21.86,30.77,32.19,35.27,0.0,0.0,1.41,0,Compliant / Low Exposure,#2b9348
+site_5658,"Girls College, Sivasagar - PCBA",Sivasagar,Assam,26.987634,94.636574,92,24.14,23.52,31.64,33.38,35.8,0.0,0.0,1.35,0,Compliant / Low Exposure,#2b9348
+site_5680,"Lingaraj Nagar, Hubballi - KSPCB",Hubballi,Karnataka,15.3714823,75.1160168,88,22.03,21.85,29.08,39.01,39.1,0.0,0.0,1.33,0,Compliant / Low Exposure,#2b9348
+site_5853,KHB Colony Karwar,,,,,75,31.79,36.52,54.04,59.03,59.96,0.0,0.0,1.48,0,Compliant / Low Exposure,#2b9348
+site_5125,"Hebbal 1st Stage, Mysuru - KSPCB",Mysuru,Karnataka,12.21041,76.37376,92,21.93,23.1,34.31,37.12,37.22,0.0,0.0,1.49,0,Compliant / Low Exposure,#2b9348
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,Maharashtra,19.10078,72.87462,88,24.81,24.52,36.42,41.4,41.42,0.0,0.0,1.49,0,Compliant / Low Exposure,#2b9348
+site_5654,"Krishak Nagar, Raipur - CECB",Raipur,Chhattisgarh,21.237755,81.705301,84,27.84,31.05,48.15,52.56,55.15,0.0,0.0,1.55,0,Compliant / Low Exposure,#2b9348
+site_5638,"Kalabhavan, Dharwad - KSPCB",Dharwad,Karnataka,15.459706,75.008381,83,32.81,33.47,42.06,52.96,55.8,0.0,0.0,1.26,0,Compliant / Low Exposure,#2b9348
+site_5124,"Urban, Chamarajanagar - KSPCB",Chamarajanagar,Karnataka,11.55358,76.55521,88,18.52,18.34,21.2,24.89,28.2,0.0,0.0,1.16,0,Compliant / Low Exposure,#2b9348
+site_5657,"Urja Nagar, Korba - CECB",Korba,Chhattisgarh,22.348441,82.549611,82,14.88,15.34,28.23,31.96,33.17,0.0,0.0,1.84,0,Compliant / Low Exposure,#2b9348
+site_5264,"Vidayagiri, Bagalkot - KSPCB",Bagalkot,Karnataka,16.172806,75.659694,92,22.39,22.16,25.87,37.6,40.45,0.0,0.0,1.17,0,Compliant / Low Exposure,#2b9348
+site_5265,"Kalyana Nagara, Chikkamagaluru - KSPCB",Chikkamagaluru,Karnataka,13.328028,75.797056,82,21.39,20.99,37.66,41.32,42.42,0.0,0.0,1.79,0,Compliant / Low Exposure,#2b9348
+site_5266,"Vinoba Nagara, Shivamogga - KSPCB",Shivamogga,Karnataka,13.94,75.555917,87,21.85,21.41,28.15,32.42,33.3,0.0,0.0,1.32,0,Compliant / Low Exposure,#2b9348
+site_5267,"Ibrahimpur, Vijayapura - KSPCB",Vijayapura,Karnataka,16.802639,75.722694,88,19.43,18.12,22.89,32.48,35.18,0.0,0.0,1.26,0,Compliant / Low Exposure,#2b9348
+site_5626,Bharathidasan University Palkalaiperur,,,,,66,20.49,18.72,40.72,46.59,50.5,0.0,0.0,2.18,0,Compliant / Low Exposure,#2b9348
+site_5619,Kilambi Kanchipuram,,,,,20,25.3,21.99,46.66,56.9,59.46,0.0,0.0,2.12,0,Compliant / Low Exposure,#2b9348
+site_5709,Vijay Nagar Scheme-78 Indore,,,,,21,31.01,30.99,31.19,31.26,31.27,0.0,0.0,1.01,0,Compliant / Low Exposure,#2b9348
+site_5614,"Uchapatti, Madurai - TNPCB",Madurai,TamilNadu,9.865935,78.022669,29,26.24,24.86,40.53,46.27,47.94,0.0,0.0,1.63,0,Compliant / Low Exposure,#2b9348
+site_5105,"Udyogamandal, Eloor - Kerala PCB",Eloor,Kerala,10.073232,76.302765,74,33.78,31.71,50.16,52.48,52.78,0.0,0.0,1.58,0,Compliant / Low Exposure,#2b9348
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,TamilNadu,13.1278,80.2642,92,14.48,12.55,27.87,35.86,59.6,0.0,0.0,2.22,0,Compliant / Low Exposure,#2b9348
+site_5390,"Corporation Ground, Thrissur - Kerala PCB",Thrissur,Kerala,10.5324,76.2159,69,26.78,28.15,30.74,31.61,33.05,0.0,0.0,1.09,0,Compliant / Low Exposure,#2b9348
+site_5592,DM College of Science Imphal Manipur,,,,,55,14.93,16.69,28.32,32.58,33.66,0.0,0.0,1.7,0,Compliant / Low Exposure,#2b9348
+site_5597,"IITH Kandi, Hyderabad - TSPCB",Hyderabad,Telangana,17.585705,78.126199,47,29.2,31.15,46.14,50.81,53.37,0.0,0.0,1.48,0,Compliant / Low Exposure,#2b9348
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,Telangana,17.470431,78.566959,75,29.81,29.38,40.75,42.82,43.4,0.0,0.0,1.39,0,Compliant / Low Exposure,#2b9348
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,Telangana,17.37206,78.50864,81,25.0,21.28,46.63,55.26,56.53,0.0,0.0,2.19,0,Compliant / Low Exposure,#2b9348
+site_295,"MIDC Khutala, Chandrapur - MPCB",Chandrapur,Maharashtra,19.9775302,79.2337086,21,14.53,14.49,19.3,34.13,37.83,0.0,0.0,1.33,0,Compliant / Low Exposure,#2b9348
+site_5599,"Kompally Municipal Office, Hyderabad - TSPCB",Hyderabad,Telangana,17.544899,78.486949,68,31.68,31.48,44.11,51.81,57.07,0.0,0.0,1.4,0,Compliant / Low Exposure,#2b9348
+site_5602,"Ramachandrapuram, Hyderabad - TSPCB",Hyderabad,Telangana,17.528544,78.286195,64,23.61,23.11,27.76,34.07,40.45,0.0,0.0,1.2,0,Compliant / Low Exposure,#2b9348
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,Telangana,17.393559,78.339194,76,35.99,33.9,51.78,56.27,56.63,0.0,0.0,1.53,0,Compliant / Low Exposure,#2b9348
+site_5606,Keelapalur Ariyalur,,,,,73,17.75,13.36,39.71,45.7,52.64,0.0,0.0,2.97,0,Occasional Spike Zone (Episodic),#f77f00
+site_5094,"SIDCO Kurichi, Coimbatore - TNPCB",Coimbatore,TamilNadu,10.942451,76.978996,30,36.64,38.6,55.89,57.08,57.34,0.0,0.0,1.45,0,Compliant / Low Exposure,#2b9348
+site_5630,St Joseph College Tiruchirappalli,,,,,44,28.32,31.83,42.43,52.58,59.19,0.0,0.0,1.33,0,Compliant / Low Exposure,#2b9348
+site_5607,Kumaran College Tirupur,,,,,65,20.95,21.84,39.93,43.84,46.56,0.0,0.0,1.83,0,Compliant / Low Exposure,#2b9348
+site_5609,Municipal Corporation Office Tirunelveli,,,,,27,15.68,14.96,18.46,25.02,27.23,0.0,0.0,1.23,0,Compliant / Low Exposure,#2b9348
+site_5346,"Sikulpuikawn, Aizawl - Mizoram PCB",Aizawl,Mizoram,23.7176342,92.7192841,50,14.45,10.48,35.67,47.98,56.02,0.0,0.0,3.4,0,Occasional Spike Zone (Episodic),#f77f00
+site_5610,"Parisutham Nagar, Thanjavur - TNPCB",Thanjavur,TamilNadu,10.7654824,79.1389968,27,21.2,20.39,26.11,36.56,40.22,0.0,0.0,1.28,0,Compliant / Low Exposure,#2b9348
+site_5590,"Zero Point GICI, Gangtok - SSPCB",Gangtok,Sikkim,27.33853,88.614099,74,12.81,9.67,37.68,40.11,41.74,0.0,0.0,3.77,0,Occasional Spike Zone (Episodic),#f77f00
+site_5391,"Stuart Hill, Madikeri - KSPCB",Madikeri,Karnataka,12.415911,75.73505,89,19.07,17.72,37.14,40.16,43.11,0.0,0.0,2.1,0,Compliant / Low Exposure,#2b9348
+site_5419,Panchal Nagar Gadag,,,,,83,19.86,22.16,37.84,49.44,58.48,0.0,0.0,1.71,0,Compliant / Low Exposure,#2b9348
+site_5415,Diwator Nagar Koppal,,,,,66,19.02,19.31,37.68,41.81,42.48,0.0,0.0,1.95,0,Compliant / Low Exposure,#2b9348
+site_5414,Haji Colony Raichur,,,,,57,15.54,16.6,30.4,35.28,37.67,0.0,0.0,1.83,0,Compliant / Low Exposure,#2b9348
+site_5432,Ramteerth Nagar Belgaum,,,,,81,27.43,28.17,44.78,47.56,53.66,0.0,0.0,1.59,0,Compliant / Low Exposure,#2b9348
+site_5832,Mohalbani Ghat Pathardih,,,,,15,32.51,45.78,50.57,55.36,56.56,0.0,0.0,1.1,0,Compliant / Low Exposure,#2b9348
+site_5848,"HB Colony, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,16.536107,80.594233,90,31.57,31.9,40.9,42.96,43.43,0.0,0.0,1.28,0,Compliant / Low Exposure,#2b9348
+site_5849,"Rajiv Gandhi Park, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,16.509717,80.612222,89,36.31,34.07,52.76,58.86,59.85,0.0,0.0,1.55,0,Compliant / Low Exposure,#2b9348
+site_1551,Tamaka Ind. Area Kolar,,,,,24,28.35,28.2,39.76,45.41,47.09,0.0,0.0,1.41,0,Compliant / Low Exposure,#2b9348

@@ -1,0 +1,26 @@
+station_id,station_name,city_name,state_name,reading_count,mean_pm25,median_pm25,p95_pm25,max_pm25
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,Delhi,2050,211.4,196.75,497.0,998.0
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,Delhi,2072,208.21,201.67,458.5,968.0
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,Delhi,2161,205.62,196.0,464.0,980.0
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,Delhi,2173,197.75,191.0,473.0,994.0
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,Delhi,2196,194.99,182.25,492.0,998.0
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,Delhi,2194,194.02,186.25,436.0,995.0
+site_124,"R K Puram, Delhi - DPCC",Delhi,Delhi,2107,189.55,181.25,433.75,975.0
+site_1561,"Mundka, Delhi - DPCC",Delhi,Delhi,2175,188.69,179.75,441.25,936.0
+site_1430,"Rohini, Delhi - DPCC",Delhi,Delhi,2148,188.3,177.0,443.0,919.0
+site_1560,"Bawana, Delhi - DPCC",Delhi,Delhi,2145,185.47,168.25,432.75,975.0
+site_1431,"Patparganj, Delhi - DPCC",Delhi,Delhi,2170,184.97,175.0,448.0,937.0
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,Delhi,2041,183.88,166.0,406.0,959.0
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,Delhi,2203,179.88,173.0,407.25,929.0
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,Delhi,1905,177.85,174.0,405.0,996.0
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,Delhi,2194,174.08,156.0,431.5,965.0
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,Delhi,2155,171.27,162.5,398.0,929.75
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,Delhi,2192,171.2,168.0,402.25,904.0
+site_113,"Shadipur, Delhi - CPCB",Delhi,Delhi,2163,171.04,168.58,398.07,793.7
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,Delhi,2137,169.69,161.25,400.0,969.0
+DS1010001,US Embassy - New Delhi,New Delhi,Delhi,2206,169.29,164.0,405.0,1000.0
+site_1426,"Narela, Delhi - DPCC",Delhi,Delhi,2202,168.2,153.0,395.25,932.25
+site_5025,"NISE Gwal Pahari, Gurugram - IMD",Gurugram,Haryana,1304,167.27,150.43,347.74,948.33
+site_119,"Sirifort, Delhi - CPCB",Delhi,Delhi,2067,164.67,160.58,355.36,935.48
+site_105,"North Campus, DU, Delhi - IMD",Delhi,Delhi,2189,161.37,154.61,365.08,957.9
+site_5024,"Alipur, Delhi - DPCC",Delhi,Delhi,2188,159.48,139.0,390.0,922.0

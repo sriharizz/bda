@@ -1,0 +1,77 @@
+=== SPARK SQL PHYSICAL PLAN FOR EXCEEDANCE QUERY ===
+== Parsed Logical Plan ==
+CTE [daily_averages]
+:  +- 'SubqueryAlias daily_averages
+:     +- 'UnresolvedHaving ('valid_hours >= 16)
+:        +- 'Aggregate ['station_id, 'station_name, 'city_name, 'state_name, 'parameter_name, 'year, 'month, 'day], ['station_id, 'station_name, 'city_name, 'state_name, 'parameter_name, 'year, 'month, 'day, 'COUNT(1) AS valid_hours#459, 'AVG('value) AS daily_avg#460]
+:           +- 'Filter 'parameter_name IN (PM2.5,PM10)
+:              +- 'UnresolvedRelation [curated_air_quality], [], false
++- 'Sort ['exceedance_percentage DESC NULLS LAST, 'overall_mean_concentration DESC NULLS LAST], true
+   +- 'UnresolvedHaving ('total_monitored_days >= 10)
+      +- 'Aggregate ['station_id, 'station_name, 'city_name, 'state_name, 'parameter_name], ['station_id, 'station_name, 'city_name, 'state_name, 'parameter_name, 'COUNT(1) AS total_monitored_days#453, 'ROUND('AVG('daily_avg), 2) AS overall_mean_concentration#454, 'ROUND('PERCENTILE_APPROX('daily_avg, 0.50), 2) AS median_concentration#455, 'ROUND('PERCENTILE_APPROX('daily_avg, 0.95), 2) AS p95_concentration#456, 'SUM(CASE WHEN (('parameter_name = PM2.5) AND ('daily_avg > 60.0)) THEN 1 WHEN (('parameter_name = PM10) AND ('daily_avg > 100.0)) THEN 1 ELSE 0 END) AS naaqs_exceedance_days#457, 'ROUND((('SUM(CASE WHEN (('parameter_name = PM2.5) AND ('daily_avg > 60.0)) THEN 1 WHEN (('parameter_name = PM10) AND ('daily_avg > 100.0)) THEN 1 ELSE 0 END) * 100.0) / 'COUNT(1)), 2) AS exceedance_percentage#458]
+         +- 'UnresolvedRelation [daily_averages], [], false
+
+== Analyzed Logical Plan ==
+station_id: string, station_name: string, city_name: string, state_name: string, parameter_name: string, total_monitored_days: bigint, overall_mean_concentration: double, median_concentration: double, p95_concentration: double, naaqs_exceedance_days: bigint, exceedance_percentage: decimal(27,2)
+WithCTE
+:- CTERelationDef 0, false
+:  +- SubqueryAlias daily_averages
+:     +- Filter (valid_hours#459L >= cast(16 as bigint))
+:        +- Aggregate [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9], [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9, count(1) AS valid_hours#459L, avg(value#7) AS daily_avg#460]
+:           +- Filter parameter_name#4 IN (PM2.5,PM10)
+:              +- SubqueryAlias curated_air_quality
+:                 +- View (`curated_air_quality`, [station_id#0,station_name#1,state_name#2,city_name#3,parameter_name#4,unit#5,collected_at#6,value#7,source#8,day#9,hour#10,latitude#11,longitude#12,is_physical_valid#13,year#14,month#15])
+:                    +- Relation [station_id#0,station_name#1,state_name#2,city_name#3,parameter_name#4,unit#5,collected_at#6,value#7,source#8,day#9,hour#10,latitude#11,longitude#12,is_physical_valid#13,year#14,month#15] parquet
++- Sort [exceedance_percentage#458 DESC NULLS LAST, overall_mean_concentration#454 DESC NULLS LAST], true
+   +- Filter (total_monitored_days#453L >= cast(10 as bigint))
+      +- Aggregate [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4], [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, count(1) AS total_monitored_days#453L, round(avg(daily_avg#460), 2) AS overall_mean_concentration#454, round(percentile_approx(daily_avg#460, cast(0.50 as double), 10000, 0, 0), 2) AS median_concentration#455, round(percentile_approx(daily_avg#460, cast(0.95 as double), 10000, 0, 0), 2) AS p95_concentration#456, sum(CASE WHEN ((parameter_name#4 = PM2.5) AND (daily_avg#460 > cast(60.0 as double))) THEN 1 WHEN ((parameter_name#4 = PM10) AND (daily_avg#460 > cast(100.0 as double))) THEN 1 ELSE 0 END) AS naaqs_exceedance_days#457L, round(((cast(sum(CASE WHEN ((parameter_name#4 = PM2.5) AND (daily_avg#460 > cast(60.0 as double))) THEN 1 WHEN ((parameter_name#4 = PM10) AND (daily_avg#460 > cast(100.0 as double))) THEN 1 ELSE 0 END) as decimal(20,0)) * 100.0) / cast(count(1) as decimal(20,0))), 2) AS exceedance_percentage#458]
+         +- SubqueryAlias daily_averages
+            +- CTERelationRef 0, true, [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9, valid_hours#459L, daily_avg#460], false
+
+== Optimized Logical Plan ==
+Sort [exceedance_percentage#458 DESC NULLS LAST, overall_mean_concentration#454 DESC NULLS LAST], true
++- Filter (total_monitored_days#453L >= 10)
+   +- Aggregate [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4], [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, count(1) AS total_monitored_days#453L, round(avg(daily_avg#460), 2) AS overall_mean_concentration#454, round(percentile_approx(daily_avg#460, 0.5, 10000, 0, 0), 2) AS median_concentration#455, round(percentile_approx(daily_avg#460, 0.95, 10000, 0, 0), 2) AS p95_concentration#456, sum(CASE WHEN ((parameter_name#4 = PM2.5) AND (daily_avg#460 > 60.0)) THEN 1 WHEN ((parameter_name#4 = PM10) AND (daily_avg#460 > 100.0)) THEN 1 ELSE 0 END) AS naaqs_exceedance_days#457L, round(((cast(sum(CASE WHEN ((parameter_name#4 = PM2.5) AND (daily_avg#460 > 60.0)) THEN 1 WHEN ((parameter_name#4 = PM10) AND (daily_avg#460 > 100.0)) THEN 1 ELSE 0 END) as decimal(20,0)) * 100.0) / cast(count(1) as decimal(20,0))), 2) AS exceedance_percentage#458]
+      +- Project [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, daily_avg#460]
+         +- Filter (valid_hours#459L >= 16)
+            +- Aggregate [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9], [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, count(1) AS valid_hours#459L, avg(value#7) AS daily_avg#460]
+               +- Project [station_id#0, station_name#1, state_name#2, city_name#3, parameter_name#4, value#7, day#9, year#14, month#15]
+                  +- Filter parameter_name#4 IN (PM2.5,PM10)
+                     +- Relation [station_id#0,station_name#1,state_name#2,city_name#3,parameter_name#4,unit#5,collected_at#6,value#7,source#8,day#9,hour#10,latitude#11,longitude#12,is_physical_valid#13,year#14,month#15] parquet
+
+== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=true
++- == Final Plan ==
+   *(4) Sort [exceedance_percentage#458 DESC NULLS LAST, overall_mean_concentration#454 DESC NULLS LAST], true, 0
+   +- AQEShuffleRead coalesced
+      +- ShuffleQueryStage 2
+         +- Exchange rangepartitioning(exceedance_percentage#458 DESC NULLS LAST, overall_mean_concentration#454 DESC NULLS LAST, 8), ENSURE_REQUIREMENTS, [plan_id=375]
+            +- *(3) Filter (total_monitored_days#453L >= 10)
+               +- ObjectHashAggregate(keys=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4], functions=[count(1), avg(daily_avg#460), percentile_approx(daily_avg#460, 0.5, 10000, 0, 0), percentile_approx(daily_avg#460, 0.95, 10000, 0, 0), sum(CASE WHEN ((parameter_name#4 = PM2.5) AND (daily_avg#460 > 60.0)) THEN 1 WHEN ((parameter_name#4 = PM10) AND (daily_avg#460 > 100.0)) THEN 1 ELSE 0 END)], output=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, total_monitored_days#453L, overall_mean_concentration#454, median_concentration#455, p95_concentration#456, naaqs_exceedance_days#457L, exceedance_percentage#458])
+                  +- AQEShuffleRead coalesced
+                     +- ShuffleQueryStage 1
+                        +- Exchange hashpartitioning(station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, 8), ENSURE_REQUIREMENTS, [plan_id=335]
+                           +- ObjectHashAggregate(keys=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4], functions=[partial_count(1), partial_avg(daily_avg#460), partial_percentile_approx(daily_avg#460, 0.5, 10000, 0, 0), partial_percentile_approx(daily_avg#460, 0.95, 10000, 0, 0), partial_sum(CASE WHEN ((parameter_name#4 = PM2.5) AND (daily_avg#460 > 60.0)) THEN 1 WHEN ((parameter_name#4 = PM10) AND (daily_avg#460 > 100.0)) THEN 1 ELSE 0 END)], output=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, count#487L, sum#488, count#489L, buf#490, buf#491, sum#492L])
+                              +- *(2) Project [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, daily_avg#460]
+                                 +- *(2) Filter (valid_hours#459L >= 16)
+                                    +- *(2) HashAggregate(keys=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9], functions=[count(1), avg(value#7)], output=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, valid_hours#459L, daily_avg#460])
+                                       +- ShuffleQueryStage 0
+                                          +- Exchange hashpartitioning(station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9, 8), ENSURE_REQUIREMENTS, [plan_id=269]
+                                             +- *(1) HashAggregate(keys=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9], functions=[partial_count(1), partial_avg(value#7)], output=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9, count#496L, sum#497, count#498L])
+                                                +- *(1) Filter parameter_name#4 IN (PM2.5,PM10)
+                                                   +- *(1) ColumnarToRow
+                                                      +- FileScan parquet [station_id#0,station_name#1,state_name#2,city_name#3,parameter_name#4,value#7,day#9,year#14,month#15] Batched: true, DataFilters: [parameter_name#4 IN (PM2.5,PM10)], Format: Parquet, Location: InMemoryFileIndex(1 paths)[file:/C:/projects/bda/data/hdfs_storage/airpulse/curated/measurements], PartitionFilters: [], PushedFilters: [In(parameter_name, [PM10,PM2.5])], ReadSchema: struct<station_id:string,station_name:string,state_name:string,city_name:string,parameter_name:st...
++- == Initial Plan ==
+   Sort [exceedance_percentage#458 DESC NULLS LAST, overall_mean_concentration#454 DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(exceedance_percentage#458 DESC NULLS LAST, overall_mean_concentration#454 DESC NULLS LAST, 8), ENSURE_REQUIREMENTS, [plan_id=235]
+      +- Filter (total_monitored_days#453L >= 10)
+         +- ObjectHashAggregate(keys=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4], functions=[count(1), avg(daily_avg#460), percentile_approx(daily_avg#460, 0.5, 10000, 0, 0), percentile_approx(daily_avg#460, 0.95, 10000, 0, 0), sum(CASE WHEN ((parameter_name#4 = PM2.5) AND (daily_avg#460 > 60.0)) THEN 1 WHEN ((parameter_name#4 = PM10) AND (daily_avg#460 > 100.0)) THEN 1 ELSE 0 END)], output=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, total_monitored_days#453L, overall_mean_concentration#454, median_concentration#455, p95_concentration#456, naaqs_exceedance_days#457L, exceedance_percentage#458])
+            +- Exchange hashpartitioning(station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, 8), ENSURE_REQUIREMENTS, [plan_id=231]
+               +- ObjectHashAggregate(keys=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4], functions=[partial_count(1), partial_avg(daily_avg#460), partial_percentile_approx(daily_avg#460, 0.5, 10000, 0, 0), partial_percentile_approx(daily_avg#460, 0.95, 10000, 0, 0), partial_sum(CASE WHEN ((parameter_name#4 = PM2.5) AND (daily_avg#460 > 60.0)) THEN 1 WHEN ((parameter_name#4 = PM10) AND (daily_avg#460 > 100.0)) THEN 1 ELSE 0 END)], output=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, count#487L, sum#488, count#489L, buf#490, buf#491, sum#492L])
+                  +- Project [station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, daily_avg#460]
+                     +- Filter (valid_hours#459L >= 16)
+                        +- HashAggregate(keys=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9], functions=[count(1), avg(value#7)], output=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, valid_hours#459L, daily_avg#460])
+                           +- Exchange hashpartitioning(station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9, 8), ENSURE_REQUIREMENTS, [plan_id=225]
+                              +- HashAggregate(keys=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9], functions=[partial_count(1), partial_avg(value#7)], output=[station_id#0, station_name#1, city_name#3, state_name#2, parameter_name#4, year#14, month#15, day#9, count#496L, sum#497, count#498L])
+                                 +- Filter parameter_name#4 IN (PM2.5,PM10)
+                                    +- FileScan parquet [station_id#0,station_name#1,state_name#2,city_name#3,parameter_name#4,value#7,day#9,year#14,month#15] Batched: true, DataFilters: [parameter_name#4 IN (PM2.5,PM10)], Format: Parquet, Location: InMemoryFileIndex(1 paths)[file:/C:/projects/bda/data/hdfs_storage/airpulse/curated/measurements], PartitionFilters: [], PushedFilters: [In(parameter_name, [PM10,PM2.5])], ReadSchema: struct<station_id:string,station_name:string,state_name:string,city_name:string,parameter_name:st...

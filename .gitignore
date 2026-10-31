@@ -1,0 +1,32 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+
+# Frontend Node modules & build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Raw Parquet Data Slices (Reproducible via scripts/00_fetch_xkdr_slice.py)
+data/raw/measurements_year_2024_*.parquet
+data/hdfs_storage/airpulse/raw/measurements/*.parquet
+data/hdfs_storage/airpulse/curated/measurements/

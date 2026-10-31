@@ -1,0 +1,4862 @@
+{
+  "Pimpri-Chinchwad": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "station_count": 4,
+    "mean_pm25": 72.9,
+    "cleanest_station": {
+      "name": "Park Street Wakad",
+      "mean_pm25": 56.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Savta Mali Nagar",
+      "mean_pm25": 96.2,
+      "chronic_exceedance_pct": 100.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Gurugram": {
+    "city": "Gurugram",
+    "state": "Haryana",
+    "station_count": 4,
+    "mean_pm25": 123.5,
+    "cleanest_station": {
+      "name": "Vikas Sadan",
+      "mean_pm25": 98.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "NISE Gwal Pahari",
+      "mean_pm25": 163.5,
+      "chronic_exceedance_pct": 96.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 4,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Howrah": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "station_count": 4,
+    "mean_pm25": 79.4,
+    "cleanest_station": {
+      "name": "Botanical Garden",
+      "mean_pm25": 59.2,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Dasnagar",
+      "mean_pm25": 117.2,
+      "chronic_exceedance_pct": 93.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 2,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Byrnihat": {
+    "city": "Byrnihat",
+    "state": "Assam",
+    "station_count": 1,
+    "mean_pm25": 144.8,
+    "cleanest_station": {
+      "name": "Central Academy for SFS",
+      "mean_pm25": 144.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Central Academy for SFS",
+      "mean_pm25": 144.8,
+      "chronic_exceedance_pct": 92.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Durgapur": {
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "station_count": 2,
+    "mean_pm25": 106.0,
+    "cleanest_station": {
+      "name": "PCBL Residential Complex",
+      "mean_pm25": 86.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Mahishkapur Road_B-Zone",
+      "mean_pm25": 125.7,
+      "chronic_exceedance_pct": 92.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Aurangabad": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "station_count": 3,
+    "mean_pm25": 64.9,
+    "cleanest_station": {
+      "name": "MIDC Chilkalthana",
+      "mean_pm25": 50.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Rachnakar Colony",
+      "mean_pm25": 79.2,
+      "chronic_exceedance_pct": 91.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 1,
+    "compliant_count": 1
+  },
+  "Muzaffarpur": {
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "station_count": 3,
+    "mean_pm25": 96.6,
+    "cleanest_station": {
+      "name": "Muzaffarpur Collectorate",
+      "mean_pm25": 74.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Buddha Colony",
+      "mean_pm25": 110.7,
+      "chronic_exceedance_pct": 66.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Ahmedabad": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "station_count": 8,
+    "mean_pm25": 61.1,
+    "cleanest_station": {
+      "name": "Maninagar",
+      "mean_pm25": 49.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "SAC ISRO Bopal",
+      "mean_pm25": 82.1,
+      "chronic_exceedance_pct": 88.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 2,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Araria": {
+    "city": "Araria",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 114.3,
+    "cleanest_station": {
+      "name": "Kharahiya Basti",
+      "mean_pm25": 114.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Kharahiya Basti",
+      "mean_pm25": 114.3,
+      "chronic_exceedance_pct": 87.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Dhanbad": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "station_count": 1,
+    "mean_pm25": 82.9,
+    "cleanest_station": {
+      "name": "Sardar Patel Nagar",
+      "mean_pm25": 82.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sardar Patel Nagar",
+      "mean_pm25": 82.9,
+      "chronic_exceedance_pct": 84.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Delhi": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "station_count": 38,
+    "mean_pm25": 164.4,
+    "cleanest_station": {
+      "name": "DTU",
+      "mean_pm25": 87.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Jahangirpuri",
+      "mean_pm25": 212.6,
+      "chronic_exceedance_pct": 74.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 38,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Mandi Gobindgarh": {
+    "city": "Mandi Gobindgarh",
+    "state": "Punjab",
+    "station_count": 1,
+    "mean_pm25": 86.1,
+    "cleanest_station": {
+      "name": "RIMT University",
+      "mean_pm25": 86.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "RIMT University",
+      "mean_pm25": 86.1,
+      "chronic_exceedance_pct": 80.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Faridabad": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "station_count": 4,
+    "mean_pm25": 111.0,
+    "cleanest_station": {
+      "name": "Sector 30",
+      "mean_pm25": 80.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sector 11",
+      "mean_pm25": 142.5,
+      "chronic_exceedance_pct": 74.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 4,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Sri Ganganagar": {
+    "city": "Sri Ganganagar",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 114.7,
+    "cleanest_station": {
+      "name": "Old City",
+      "mean_pm25": 114.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Old City",
+      "mean_pm25": 114.7,
+      "chronic_exceedance_pct": 78.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Ghaziabad": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "station_count": 3,
+    "mean_pm25": 119.3,
+    "cleanest_station": {
+      "name": "Indirapuram",
+      "mean_pm25": 103.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Loni",
+      "mean_pm25": 139.7,
+      "chronic_exceedance_pct": 78.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bhiwadi": {
+    "city": "Bhiwadi",
+    "state": "Rajasthan",
+    "station_count": 2,
+    "mean_pm25": 94.3,
+    "cleanest_station": {
+      "name": "Vasundhara Nagar_UIT",
+      "mean_pm25": 80.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "RIICO Ind. Area III",
+      "mean_pm25": 108.2,
+      "chronic_exceedance_pct": 78.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Muzaffarnagar": {
+    "city": "Muzaffarnagar",
+    "state": "Uttar Pradesh",
+    "station_count": 1,
+    "mean_pm25": 100.3,
+    "cleanest_station": {
+      "name": "New Mandi",
+      "mean_pm25": 100.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "New Mandi",
+      "mean_pm25": 100.3,
+      "chronic_exceedance_pct": 78.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Hanumangarh": {
+    "city": "Hanumangarh",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 121.2,
+    "cleanest_station": {
+      "name": "Housing Board",
+      "mean_pm25": 121.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Housing Board",
+      "mean_pm25": 121.2,
+      "chronic_exceedance_pct": 77.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Rohtak": {
+    "city": "Rohtak",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 93.7,
+    "cleanest_station": {
+      "name": "MD University",
+      "mean_pm25": 93.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "MD University",
+      "mean_pm25": 93.7,
+      "chronic_exceedance_pct": 74.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Rajgir": {
+    "city": "Rajgir",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 98.9,
+    "cleanest_station": {
+      "name": "Dangi Tola",
+      "mean_pm25": 98.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Dangi Tola",
+      "mean_pm25": 98.9,
+      "chronic_exceedance_pct": 73.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Noida": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "station_count": 4,
+    "mean_pm25": 115.8,
+    "cleanest_station": {
+      "name": "Sector - 125",
+      "mean_pm25": 97.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Sector - 62",
+      "mean_pm25": 133.8,
+      "chronic_exceedance_pct": 65.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Panchkula": {
+    "city": "Panchkula",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 75.5,
+    "cleanest_station": {
+      "name": "Sector-6",
+      "mean_pm25": 75.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sector-6",
+      "mean_pm25": 75.5,
+      "chronic_exceedance_pct": 71.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Meerut": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "station_count": 3,
+    "mean_pm25": 88.0,
+    "cleanest_station": {
+      "name": "Ganga Nagar",
+      "mean_pm25": 81.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Jai Bhim Nagar",
+      "mean_pm25": 91.5,
+      "chronic_exceedance_pct": 65.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Jaipur": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "station_count": 6,
+    "mean_pm25": 79.9,
+    "cleanest_station": {
+      "name": "Adarsh Nagar",
+      "mean_pm25": 61.7,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Mansarovar Sector-12",
+      "mean_pm25": 91.9,
+      "chronic_exceedance_pct": 70.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 5,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Munger": {
+    "city": "Munger",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 83.6,
+    "cleanest_station": {
+      "name": "Town Hall",
+      "mean_pm25": 83.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Town Hall",
+      "mean_pm25": 83.6,
+      "chronic_exceedance_pct": 70.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Mumbai": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "station_count": 29,
+    "mean_pm25": 44.4,
+    "cleanest_station": {
+      "name": "Chhatrapati Shivaji Intl. Airport (T2)",
+      "mean_pm25": 24.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Mazgaon",
+      "mean_pm25": 66.8,
+      "chronic_exceedance_pct": 70.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 2,
+    "occasional_spikes": 1,
+    "compliant_count": 16
+  },
+  "Greater Noida": {
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "station_count": 2,
+    "mean_pm25": 112.9,
+    "cleanest_station": {
+      "name": "Knowledge Park - III",
+      "mean_pm25": 110.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Knowledge Park - V",
+      "mean_pm25": 115.6,
+      "chronic_exceedance_pct": 70.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 2,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Sonipat": {
+    "city": "Sonipat",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 90.8,
+    "cleanest_station": {
+      "name": "Murthal",
+      "mean_pm25": 90.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Murthal",
+      "mean_pm25": 90.8,
+      "chronic_exceedance_pct": 69.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bhopal": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "station_count": 3,
+    "mean_pm25": 66.9,
+    "cleanest_station": {
+      "name": "T T Nagar",
+      "mean_pm25": 60.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Paryavaran Parisar",
+      "mean_pm25": 75.7,
+      "chronic_exceedance_pct": 69.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Saharsa": {
+    "city": "Saharsa",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 113.8,
+    "cleanest_station": {
+      "name": "Police Line",
+      "mean_pm25": 113.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Police Line",
+      "mean_pm25": 113.8,
+      "chronic_exceedance_pct": 69.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bhagalpur": {
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "station_count": 2,
+    "mean_pm25": 114.6,
+    "cleanest_station": {
+      "name": "DM Office_Kachari Chowk",
+      "mean_pm25": 108.3,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Mayaganj",
+      "mean_pm25": 120.9,
+      "chronic_exceedance_pct": 69.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Lucknow": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "station_count": 6,
+    "mean_pm25": 75.7,
+    "cleanest_station": {
+      "name": "Kukrail Picnic Spot-1",
+      "mean_pm25": 53.5,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Lalbagh",
+      "mean_pm25": 104.9,
+      "chronic_exceedance_pct": 69.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Gandhinagar": {
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "station_count": 3,
+    "mean_pm25": 50.4,
+    "cleanest_station": {
+      "name": "Sector-10",
+      "mean_pm25": 34.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "IIPHG Lekawada",
+      "mean_pm25": 67.9,
+      "chronic_exceedance_pct": 69.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Karauli": {
+    "city": "Karauli",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 87.5,
+    "cleanest_station": {
+      "name": "Satyawati Vihar",
+      "mean_pm25": 87.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Satyawati Vihar",
+      "mean_pm25": 87.5,
+      "chronic_exceedance_pct": 69.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bahadurgarh": {
+    "city": "Bahadurgarh",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 106.7,
+    "cleanest_station": {
+      "name": "Arya Nagar",
+      "mean_pm25": 106.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Arya Nagar",
+      "mean_pm25": 106.7,
+      "chronic_exceedance_pct": 68.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Dharuhera": {
+    "city": "Dharuhera",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 90.3,
+    "cleanest_station": {
+      "name": "Municipal Corporation Office",
+      "mean_pm25": 90.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Municipal Corporation Office",
+      "mean_pm25": 90.3,
+      "chronic_exceedance_pct": 68.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Purnia": {
+    "city": "Purnia",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 78.0,
+    "cleanest_station": {
+      "name": "Mariam Nagar",
+      "mean_pm25": 78.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Mariam Nagar",
+      "mean_pm25": 78.0,
+      "chronic_exceedance_pct": 68.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bileipada": {
+    "city": "Bileipada",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 68.2,
+    "cleanest_station": {
+      "name": "Tata Township",
+      "mean_pm25": 68.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Tata Township",
+      "mean_pm25": 68.2,
+      "chronic_exceedance_pct": 67.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Gaya": {
+    "city": "Gaya",
+    "state": "Bihar",
+    "station_count": 3,
+    "mean_pm25": 70.0,
+    "cleanest_station": {
+      "name": "SFTI Kusdihra",
+      "mean_pm25": 53.6,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Collectorate",
+      "mean_pm25": 89.2,
+      "chronic_exceedance_pct": 67.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Asansol": {
+    "city": "Asansol",
+    "state": "West Bengal",
+    "station_count": 4,
+    "mean_pm25": 76.4,
+    "cleanest_station": {
+      "name": "Mahabir Colliery",
+      "mean_pm25": 55.5,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Trivenidevi Bhalotia College",
+      "mean_pm25": 102.8,
+      "chronic_exceedance_pct": 67.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 2,
+    "occasional_spikes": 2,
+    "compliant_count": 0
+  },
+  "Amritsar": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "station_count": 1,
+    "mean_pm25": 74.6,
+    "cleanest_station": {
+      "name": "Golden Temple",
+      "mean_pm25": 74.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Golden Temple",
+      "mean_pm25": 74.6,
+      "chronic_exceedance_pct": 67.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "New Delhi": {
+    "city": "New Delhi",
+    "state": "Delhi",
+    "station_count": 1,
+    "mean_pm25": 169.2,
+    "cleanest_station": {
+      "name": "US Embassy - New Delhi",
+      "mean_pm25": 169.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "US Embassy - New Delhi",
+      "mean_pm25": 169.2,
+      "chronic_exceedance_pct": 67.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Kota": {
+    "city": "Kota",
+    "state": "Rajasthan",
+    "station_count": 3,
+    "mean_pm25": 79.7,
+    "cleanest_station": {
+      "name": "Shrinath Puram",
+      "mean_pm25": 76.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Dhanmandi",
+      "mean_pm25": 84.6,
+      "chronic_exceedance_pct": 66.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Chittorgarh": {
+    "city": "Chittorgarh",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 69.8,
+    "cleanest_station": {
+      "name": "Shastri Nagar",
+      "mean_pm25": 69.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Shastri Nagar",
+      "mean_pm25": 69.8,
+      "chronic_exceedance_pct": 67.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bulandshahr": {
+    "city": "Bulandshahr",
+    "state": "Uttar Pradesh",
+    "station_count": 1,
+    "mean_pm25": 84.2,
+    "cleanest_station": {
+      "name": "Yamunapuram",
+      "mean_pm25": 84.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Yamunapuram",
+      "mean_pm25": 84.2,
+      "chronic_exceedance_pct": 67.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Chandigarh": {
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "station_count": 3,
+    "mean_pm25": 104.5,
+    "cleanest_station": {
+      "name": "Sector-25",
+      "mean_pm25": 88.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sector-53",
+      "mean_pm25": 115.2,
+      "chronic_exceedance_pct": 65.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Patna": {
+    "city": "Patna",
+    "state": "Bihar",
+    "station_count": 6,
+    "mean_pm25": 93.2,
+    "cleanest_station": {
+      "name": "Govt. High School Shikarpur",
+      "mean_pm25": 66.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Samanpura",
+      "mean_pm25": 127.8,
+      "chronic_exceedance_pct": 66.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 5,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Katihar": {
+    "city": "Katihar",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 73.6,
+    "cleanest_station": {
+      "name": "Mirchaibari",
+      "mean_pm25": 73.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Mirchaibari",
+      "mean_pm25": 73.6,
+      "chronic_exceedance_pct": 66.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Singrauli": {
+    "city": "Singrauli",
+    "state": "Madhya Pradesh",
+    "station_count": 1,
+    "mean_pm25": 85.2,
+    "cleanest_station": {
+      "name": "Suryakiran Bhawan NCL",
+      "mean_pm25": 85.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Suryakiran Bhawan NCL",
+      "mean_pm25": 85.2,
+      "chronic_exceedance_pct": 66.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Talcher": {
+    "city": "Talcher",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 85.2,
+    "cleanest_station": {
+      "name": "Talcher Coalfields",
+      "mean_pm25": 85.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Talcher Coalfields",
+      "mean_pm25": 85.2,
+      "chronic_exceedance_pct": 66.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Gwalior": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "station_count": 3,
+    "mean_pm25": 79.6,
+    "cleanest_station": {
+      "name": "Maharaj Bada",
+      "mean_pm25": 74.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Deen Dayal Nagar",
+      "mean_pm25": 90.1,
+      "chronic_exceedance_pct": 66.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 3,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Hapur": {
+    "city": "Hapur",
+    "state": "Uttar Pradesh",
+    "station_count": 1,
+    "mean_pm25": 94.3,
+    "cleanest_station": {
+      "name": "Anand Vihar",
+      "mean_pm25": 94.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Anand Vihar",
+      "mean_pm25": 94.3,
+      "chronic_exceedance_pct": 66.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Baghpat": {
+    "city": "Baghpat",
+    "state": "Uttar Pradesh",
+    "station_count": 1,
+    "mean_pm25": 72.7,
+    "cleanest_station": {
+      "name": "Sardar Patel Inter College",
+      "mean_pm25": 72.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sardar Patel Inter College",
+      "mean_pm25": 72.7,
+      "chronic_exceedance_pct": 66.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Chhapra": {
+    "city": "Chhapra",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 86.8,
+    "cleanest_station": {
+      "name": "Darshan Nagar",
+      "mean_pm25": 86.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Darshan Nagar",
+      "mean_pm25": 86.8,
+      "chronic_exceedance_pct": 66.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Motihari": {
+    "city": "Motihari",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 69.3,
+    "cleanest_station": {
+      "name": "Gandak Colony",
+      "mean_pm25": 69.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Gandak Colony",
+      "mean_pm25": 69.3,
+      "chronic_exceedance_pct": 66.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Siwan": {
+    "city": "Siwan",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 73.7,
+    "cleanest_station": {
+      "name": "Chitragupta Nagar",
+      "mean_pm25": 73.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Chitragupta Nagar",
+      "mean_pm25": 73.7,
+      "chronic_exceedance_pct": 66.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Sikar": {
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 79.5,
+    "cleanest_station": {
+      "name": "Radhakishan Pura",
+      "mean_pm25": 79.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Radhakishan Pura",
+      "mean_pm25": 79.5,
+      "chronic_exceedance_pct": 65.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Ballabgarh": {
+    "city": "Ballabgarh",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 94.9,
+    "cleanest_station": {
+      "name": "Nathu Colony",
+      "mean_pm25": 94.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Nathu Colony",
+      "mean_pm25": 94.9,
+      "chronic_exceedance_pct": 65.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Sasaram": {
+    "city": "Sasaram",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 69.5,
+    "cleanest_station": {
+      "name": "Dada Peer",
+      "mean_pm25": 69.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Dada Peer",
+      "mean_pm25": 69.5,
+      "chronic_exceedance_pct": 65.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Jhunjhunu": {
+    "city": "Jhunjhunu",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 80.0,
+    "cleanest_station": {
+      "name": "Indra Nagar",
+      "mean_pm25": 80.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Indra Nagar",
+      "mean_pm25": 80.0,
+      "chronic_exceedance_pct": 65.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Charkhi Dadri": {
+    "city": "Charkhi Dadri",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 88.0,
+    "cleanest_station": {
+      "name": "Mini Secretariat",
+      "mean_pm25": 88.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Mini Secretariat",
+      "mean_pm25": 88.0,
+      "chronic_exceedance_pct": 65.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Tonk": {
+    "city": "Tonk",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 71.9,
+    "cleanest_station": {
+      "name": "Shastri Nagar",
+      "mean_pm25": 71.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Shastri Nagar",
+      "mean_pm25": 71.9,
+      "chronic_exceedance_pct": 65.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Ulhasnagar": {
+    "city": "Ulhasnagar",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 62.9,
+    "cleanest_station": {
+      "name": "Sidhi Vinayak Nagar",
+      "mean_pm25": 62.9,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sidhi Vinayak Nagar",
+      "mean_pm25": 62.9,
+      "chronic_exceedance_pct": 65.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Indore": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "station_count": 4,
+    "mean_pm25": 50.0,
+    "cleanest_station": {
+      "name": "Residency Area",
+      "mean_pm25": 35.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Chhoti Gwaltoli",
+      "mean_pm25": 69.5,
+      "chronic_exceedance_pct": 65.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 1,
+    "compliant_count": 2
+  },
+  "Badlapur": {
+    "city": "Badlapur",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 61.5,
+    "cleanest_station": {
+      "name": "Katrap",
+      "mean_pm25": 61.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Katrap",
+      "mean_pm25": 61.5,
+      "chronic_exceedance_pct": 65.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Angul": {
+    "city": "Angul",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 88.6,
+    "cleanest_station": {
+      "name": "Hakimapada",
+      "mean_pm25": 88.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Hakimapada",
+      "mean_pm25": 88.6,
+      "chronic_exceedance_pct": 64.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Ludhiana": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "station_count": 1,
+    "mean_pm25": 78.2,
+    "cleanest_station": {
+      "name": "Punjab Agricultural University",
+      "mean_pm25": 78.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Punjab Agricultural University",
+      "mean_pm25": 78.2,
+      "chronic_exceedance_pct": 64.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bikaner": {
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 90.1,
+    "cleanest_station": {
+      "name": "MM Ground",
+      "mean_pm25": 90.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "MM Ground",
+      "mean_pm25": 90.1,
+      "chronic_exceedance_pct": 63.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bhubaneswar": {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "station_count": 2,
+    "mean_pm25": 73.8,
+    "cleanest_station": {
+      "name": "Patia",
+      "mean_pm25": 66.2,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Lingraj Mandir",
+      "mean_pm25": 81.3,
+      "chronic_exceedance_pct": 62.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Manesar": {
+    "city": "Manesar",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 78.4,
+    "cleanest_station": {
+      "name": "Sector-2 IMT",
+      "mean_pm25": 78.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sector-2 IMT",
+      "mean_pm25": 78.4,
+      "chronic_exceedance_pct": 62.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Panipat": {
+    "city": "Panipat",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 73.7,
+    "cleanest_station": {
+      "name": "Sector-18",
+      "mean_pm25": 73.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sector-18",
+      "mean_pm25": 73.7,
+      "chronic_exceedance_pct": 61.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Churu": {
+    "city": "Churu",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 77.4,
+    "cleanest_station": {
+      "name": "Subash Chowk",
+      "mean_pm25": 77.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Subash Chowk",
+      "mean_pm25": 77.4,
+      "chronic_exceedance_pct": 61.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bhiwani": {
+    "city": "Bhiwani",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 82.3,
+    "cleanest_station": {
+      "name": "H.B. Colony",
+      "mean_pm25": 82.3,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "H.B. Colony",
+      "mean_pm25": 82.3,
+      "chronic_exceedance_pct": 61.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Samastipur": {
+    "city": "Samastipur",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 73.6,
+    "cleanest_station": {
+      "name": "DM Office_Kasipur",
+      "mean_pm25": 73.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "DM Office_Kasipur",
+      "mean_pm25": 73.6,
+      "chronic_exceedance_pct": 61.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Kolkata": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "station_count": 8,
+    "mean_pm25": 68.5,
+    "cleanest_station": {
+      "name": "Rabindra Bharati University",
+      "mean_pm25": 55.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "US Embassy - Kolkata",
+      "mean_pm25": 107.4,
+      "chronic_exceedance_pct": 61.1,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Hajipur": {
+    "city": "Hajipur",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 94.2,
+    "cleanest_station": {
+      "name": "Industrial Area",
+      "mean_pm25": 94.2,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Industrial Area",
+      "mean_pm25": 94.2,
+      "chronic_exceedance_pct": 61.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Vapi": {
+    "city": "Vapi",
+    "state": "Gujarat",
+    "station_count": 1,
+    "mean_pm25": 61.5,
+    "cleanest_station": {
+      "name": "Phase-1 GIDC",
+      "mean_pm25": 61.5,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Phase-1 GIDC",
+      "mean_pm25": 61.5,
+      "chronic_exceedance_pct": 60.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Kurukshetra": {
+    "city": "Kurukshetra",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 72.6,
+    "cleanest_station": {
+      "name": "Sector-7",
+      "mean_pm25": 72.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Sector-7",
+      "mean_pm25": 72.6,
+      "chronic_exceedance_pct": 60.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Parbhani": {
+    "city": "Parbhani",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 69.6,
+    "cleanest_station": {
+      "name": "Masoom Colony",
+      "mean_pm25": 69.6,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Masoom Colony",
+      "mean_pm25": 69.6,
+      "chronic_exceedance_pct": 60.7,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Kanpur": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "station_count": 3,
+    "mean_pm25": 55.7,
+    "cleanest_station": {
+      "name": "FTI Kidwai Nagar",
+      "mean_pm25": 47.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Nehru Nagar",
+      "mean_pm25": 71.3,
+      "chronic_exceedance_pct": 60.4,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Nagpur": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "station_count": 4,
+    "mean_pm25": 58.8,
+    "cleanest_station": {
+      "name": "Ram Nagar",
+      "mean_pm25": 57.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Mahal",
+      "mean_pm25": 60.1,
+      "chronic_exceedance_pct": 57.6,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Moradabad": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "station_count": 6,
+    "mean_pm25": 53.4,
+    "cleanest_station": {
+      "name": "Jigar Colony",
+      "mean_pm25": 41.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Eco Herbal Park",
+      "mean_pm25": 64.2,
+      "chronic_exceedance_pct": 60.2,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Balasore": {
+    "city": "Balasore",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 84.8,
+    "cleanest_station": {
+      "name": "Kalidaspur",
+      "mean_pm25": 84.8,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "worst_station": {
+      "name": "Kalidaspur",
+      "mean_pm25": 84.8,
+      "chronic_exceedance_pct": 60.0,
+      "class": "Persistent Hotspot (Chronic Sink)"
+    },
+    "persistent_hotspots": 1,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Jodhpur": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "station_count": 5,
+    "mean_pm25": 57.2,
+    "cleanest_station": {
+      "name": "Mandor",
+      "mean_pm25": 44.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Collectorate",
+      "mean_pm25": 78.5,
+      "chronic_exceedance_pct": 59.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Yamuna Nagar": {
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 67.8,
+    "cleanest_station": {
+      "name": "Gobind Pura",
+      "mean_pm25": 67.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Gobind Pura",
+      "mean_pm25": 67.8,
+      "chronic_exceedance_pct": 59.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Baddi": {
+    "city": "Baddi",
+    "state": "Himachal Pradesh",
+    "station_count": 1,
+    "mean_pm25": 101.5,
+    "cleanest_station": {
+      "name": "HIMUDA Complex Phase-1",
+      "mean_pm25": 101.5,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "HIMUDA Complex Phase-1",
+      "mean_pm25": 101.5,
+      "chronic_exceedance_pct": 59.5,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Jabalpur": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "station_count": 4,
+    "mean_pm25": 59.1,
+    "cleanest_station": {
+      "name": "Govindh Bhavan Colony",
+      "mean_pm25": 51.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Marhatal",
+      "mean_pm25": 66.9,
+      "chronic_exceedance_pct": 59.5,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Bhiwandi": {
+    "city": "Bhiwandi",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 63.0,
+    "cleanest_station": {
+      "name": "Gokul Nagar",
+      "mean_pm25": 63.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Gokul Nagar",
+      "mean_pm25": 63.0,
+      "chronic_exceedance_pct": 59.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Jind": {
+    "city": "Jind",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 81.0,
+    "cleanest_station": {
+      "name": "Police Lines",
+      "mean_pm25": 81.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Police Lines",
+      "mean_pm25": 81.0,
+      "chronic_exceedance_pct": 58.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Dungarpur": {
+    "city": "Dungarpur",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 63.8,
+    "cleanest_station": {
+      "name": "Bhoiwada",
+      "mean_pm25": 63.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Bhoiwada",
+      "mean_pm25": 63.8,
+      "chronic_exceedance_pct": 58.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Agartala": {
+    "city": "Agartala",
+    "state": "Tripura",
+    "station_count": 1,
+    "mean_pm25": 72.7,
+    "cleanest_station": {
+      "name": "Bardowali",
+      "mean_pm25": 72.7,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Bardowali",
+      "mean_pm25": 72.7,
+      "chronic_exceedance_pct": 57.6,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Rourkela": {
+    "city": "Rourkela",
+    "state": "Odisha",
+    "station_count": 3,
+    "mean_pm25": 55.6,
+    "cleanest_station": {
+      "name": "Sector-2",
+      "mean_pm25": 47.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Raghunathpali",
+      "mean_pm25": 65.0,
+      "chronic_exceedance_pct": 57.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Gummidipoondi": {
+    "city": "Gummidipoondi",
+    "state": "TamilNadu",
+    "station_count": 1,
+    "mean_pm25": 73.1,
+    "cleanest_station": {
+      "name": "Anthoni Pillai Nagar",
+      "mean_pm25": 73.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Anthoni Pillai Nagar",
+      "mean_pm25": 73.1,
+      "chronic_exceedance_pct": 57.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Jalandhar": {
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "station_count": 1,
+    "mean_pm25": 65.9,
+    "cleanest_station": {
+      "name": "Civil Line",
+      "mean_pm25": 65.9,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Civil Line",
+      "mean_pm25": 65.9,
+      "chronic_exceedance_pct": 56.7,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Dholpur": {
+    "city": "Dholpur",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 92.5,
+    "cleanest_station": {
+      "name": "Raja Ganj",
+      "mean_pm25": 92.5,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Raja Ganj",
+      "mean_pm25": 92.5,
+      "chronic_exceedance_pct": 56.5,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Agra": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "station_count": 6,
+    "mean_pm25": 49.4,
+    "cleanest_station": {
+      "name": "Manoharpur",
+      "mean_pm25": 40.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Sanjay Palace",
+      "mean_pm25": 64.3,
+      "chronic_exceedance_pct": 56.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 3
+  },
+  "Hisar": {
+    "city": "Hisar",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 75.4,
+    "cleanest_station": {
+      "name": "Urban Estate-II",
+      "mean_pm25": 75.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Urban Estate-II",
+      "mean_pm25": 75.4,
+      "chronic_exceedance_pct": 55.6,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Cuttack": {
+    "city": "Cuttack",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 70.8,
+    "cleanest_station": {
+      "name": "CDA Area",
+      "mean_pm25": 70.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "CDA Area",
+      "mean_pm25": 70.8,
+      "chronic_exceedance_pct": 55.4,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Byasanagar": {
+    "city": "Byasanagar",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 66.0,
+    "cleanest_station": {
+      "name": "Ferro Chrome Colony",
+      "mean_pm25": 66.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Ferro Chrome Colony",
+      "mean_pm25": 66.0,
+      "chronic_exceedance_pct": 55.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Kaithal": {
+    "city": "Kaithal",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 74.5,
+    "cleanest_station": {
+      "name": "Rishi Nagar",
+      "mean_pm25": 74.5,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Rishi Nagar",
+      "mean_pm25": 74.5,
+      "chronic_exceedance_pct": 55.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Fatehabad": {
+    "city": "Fatehabad",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 62.6,
+    "cleanest_station": {
+      "name": "Huda Sector",
+      "mean_pm25": 62.6,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Huda Sector",
+      "mean_pm25": 62.6,
+      "chronic_exceedance_pct": 55.1,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Barbil": {
+    "city": "Barbil",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 57.4,
+    "cleanest_station": {
+      "name": "Forest Office",
+      "mean_pm25": 57.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Forest Office",
+      "mean_pm25": 57.4,
+      "chronic_exceedance_pct": 54.4,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Boisar": {
+    "city": "Boisar",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 59.7,
+    "cleanest_station": {
+      "name": "Khaira",
+      "mean_pm25": 59.7,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Khaira",
+      "mean_pm25": 59.7,
+      "chronic_exceedance_pct": 54.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Barrackpore": {
+    "city": "Barrackpore",
+    "state": "West Bengal",
+    "station_count": 1,
+    "mean_pm25": 72.0,
+    "cleanest_station": {
+      "name": "SVSPA Campus",
+      "mean_pm25": 72.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "SVSPA Campus",
+      "mean_pm25": 72.0,
+      "chronic_exceedance_pct": 53.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bundi": {
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 65.1,
+    "cleanest_station": {
+      "name": "New Colony",
+      "mean_pm25": 65.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "New Colony",
+      "mean_pm25": 65.1,
+      "chronic_exceedance_pct": 53.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Dhule": {
+    "city": "Dhule",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 58.2,
+    "cleanest_station": {
+      "name": "Deopur",
+      "mean_pm25": 58.2,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Deopur",
+      "mean_pm25": 58.2,
+      "chronic_exceedance_pct": 53.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Patiala": {
+    "city": "Patiala",
+    "state": "Punjab",
+    "station_count": 1,
+    "mean_pm25": 62.4,
+    "cleanest_station": {
+      "name": "Model Town",
+      "mean_pm25": 62.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Model Town",
+      "mean_pm25": 62.4,
+      "chronic_exceedance_pct": 53.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Guwahati": {
+    "city": "Guwahati",
+    "state": "Assam",
+    "station_count": 3,
+    "mean_pm25": 68.4,
+    "cleanest_station": {
+      "name": "Pan Bazaar",
+      "mean_pm25": 58.1,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Railway Colony",
+      "mean_pm25": 75.7,
+      "chronic_exceedance_pct": 52.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 2,
+    "compliant_count": 0
+  },
+  "Pali": {
+    "city": "Pali",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 67.9,
+    "cleanest_station": {
+      "name": "Indira Colony Vistar",
+      "mean_pm25": 67.9,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Indira Colony Vistar",
+      "mean_pm25": 67.9,
+      "chronic_exceedance_pct": 52.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Jhalawar": {
+    "city": "Jhalawar",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 63.1,
+    "cleanest_station": {
+      "name": "Rajlaxmi Nagar",
+      "mean_pm25": 63.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Rajlaxmi Nagar",
+      "mean_pm25": 63.1,
+      "chronic_exceedance_pct": 52.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Ankleshwar": {
+    "city": "Ankleshwar",
+    "state": "Gujarat",
+    "station_count": 1,
+    "mean_pm25": 53.5,
+    "cleanest_station": {
+      "name": "GIDC",
+      "mean_pm25": 53.5,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "GIDC",
+      "mean_pm25": 53.5,
+      "chronic_exceedance_pct": 51.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Rupnagar": {
+    "city": "Rupnagar",
+    "state": "Punjab",
+    "station_count": 1,
+    "mean_pm25": 64.8,
+    "cleanest_station": {
+      "name": "Ratanpura",
+      "mean_pm25": 64.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Ratanpura",
+      "mean_pm25": 64.8,
+      "chronic_exceedance_pct": 51.7,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bhilwara": {
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 58.8,
+    "cleanest_station": {
+      "name": "Pratap Nagar",
+      "mean_pm25": 58.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Pratap Nagar",
+      "mean_pm25": 58.8,
+      "chronic_exceedance_pct": 51.6,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Navi Mumbai": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "station_count": 6,
+    "mean_pm25": 48.5,
+    "cleanest_station": {
+      "name": "Mahape",
+      "mean_pm25": 33.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Tondare-Taloja",
+      "mean_pm25": 56.0,
+      "chronic_exceedance_pct": 41.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 3
+  },
+  "Jalna": {
+    "city": "Jalna",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 60.1,
+    "cleanest_station": {
+      "name": "Old MIDC",
+      "mean_pm25": 60.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Old MIDC",
+      "mean_pm25": 60.1,
+      "chronic_exceedance_pct": 50.6,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Baran": {
+    "city": "Baran",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 56.9,
+    "cleanest_station": {
+      "name": "Bamboliya",
+      "mean_pm25": 56.9,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Bamboliya",
+      "mean_pm25": 56.9,
+      "chronic_exceedance_pct": 50.6,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Nashik": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "station_count": 4,
+    "mean_pm25": 52.4,
+    "cleanest_station": {
+      "name": "Hirawadi",
+      "mean_pm25": 44.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Gangapur Road",
+      "mean_pm25": 59.2,
+      "chronic_exceedance_pct": 42.5,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 1
+  },
+  "Kashipur": {
+    "city": "Kashipur",
+    "state": "Uttarakhand",
+    "station_count": 1,
+    "mean_pm25": 58.1,
+    "cleanest_station": {
+      "name": "Govt. Girls Inter College",
+      "mean_pm25": 58.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Govt. Girls Inter College",
+      "mean_pm25": 58.1,
+      "chronic_exceedance_pct": 50.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Dehradun": {
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "station_count": 1,
+    "mean_pm25": 66.8,
+    "cleanest_station": {
+      "name": "Doon University",
+      "mean_pm25": 66.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Doon University",
+      "mean_pm25": 66.8,
+      "chronic_exceedance_pct": 50.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Hyderabad": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "station_count": 15,
+    "mean_pm25": 38.4,
+    "cleanest_station": {
+      "name": "Ramachandrapuram",
+      "mean_pm25": 23.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Sanathnagar",
+      "mean_pm25": 71.4,
+      "chronic_exceedance_pct": 48.9,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 10
+  },
+  "Haldia": {
+    "city": "Haldia",
+    "state": "West Bengal",
+    "station_count": 1,
+    "mean_pm25": 52.9,
+    "cleanest_station": {
+      "name": "Priyambada Housing Estate",
+      "mean_pm25": 52.9,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Priyambada Housing Estate",
+      "mean_pm25": 52.9,
+      "chronic_exceedance_pct": 49.4,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Latur": {
+    "city": "Latur",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 50.0,
+    "cleanest_station": {
+      "name": "Sawe Wadi",
+      "mean_pm25": 50.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Sawe Wadi",
+      "mean_pm25": 50.0,
+      "chronic_exceedance_pct": 49.4,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Visakhapatnam": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "station_count": 1,
+    "mean_pm25": 62.7,
+    "cleanest_station": {
+      "name": "GVM Corporation",
+      "mean_pm25": 62.7,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "GVM Corporation",
+      "mean_pm25": 62.7,
+      "chronic_exceedance_pct": 49.4,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Mandideep": {
+    "city": "Mandideep",
+    "state": "Madhya Pradesh",
+    "station_count": 1,
+    "mean_pm25": 70.1,
+    "cleanest_station": {
+      "name": "Sector-D Industrial Area",
+      "mean_pm25": 70.1,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Sector-D Industrial Area",
+      "mean_pm25": 70.1,
+      "chronic_exceedance_pct": 49.4,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Pune": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "station_count": 8,
+    "mean_pm25": 41.3,
+    "cleanest_station": {
+      "name": "Panchawati_Pashan",
+      "mean_pm25": 27.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Revenue Colony-Shivajinagar",
+      "mean_pm25": 52.8,
+      "chronic_exceedance_pct": 47.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 2,
+    "compliant_count": 5
+  },
+  "Banswara": {
+    "city": "Banswara",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 52.4,
+    "cleanest_station": {
+      "name": "Rati Talai",
+      "mean_pm25": 52.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Rati Talai",
+      "mean_pm25": 52.4,
+      "chronic_exceedance_pct": 48.4,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Nagaur": {
+    "city": "Nagaur",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 58.1,
+    "cleanest_station": {
+      "name": "Karni Colony",
+      "mean_pm25": 58.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Karni Colony",
+      "mean_pm25": 58.1,
+      "chronic_exceedance_pct": 48.4,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Udaipur": {
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 56.1,
+    "cleanest_station": {
+      "name": "Ashok Nagar",
+      "mean_pm25": 56.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Ashok Nagar",
+      "mean_pm25": 56.1,
+      "chronic_exceedance_pct": 48.4,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Chandrapur": {
+    "city": "Chandrapur",
+    "state": "Maharashtra",
+    "station_count": 2,
+    "mean_pm25": 34.1,
+    "cleanest_station": {
+      "name": "MIDC Khutala",
+      "mean_pm25": 14.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Chauhan Colony",
+      "mean_pm25": 53.8,
+      "chronic_exceedance_pct": 48.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Pithampur": {
+    "city": "Pithampur",
+    "state": "Madhya Pradesh",
+    "station_count": 1,
+    "mean_pm25": 55.9,
+    "cleanest_station": {
+      "name": "Sector-2 Industrial Area",
+      "mean_pm25": 55.9,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Sector-2 Industrial Area",
+      "mean_pm25": 55.9,
+      "chronic_exceedance_pct": 47.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Thane": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "station_count": 2,
+    "mean_pm25": 54.0,
+    "cleanest_station": {
+      "name": "Kasarvadavali",
+      "mean_pm25": 52.6,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Upvan Fort",
+      "mean_pm25": 55.4,
+      "chronic_exceedance_pct": 45.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bharatpur": {
+    "city": "Bharatpur",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 59.4,
+    "cleanest_station": {
+      "name": "Krishna Nagar",
+      "mean_pm25": 59.4,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Krishna Nagar",
+      "mean_pm25": 59.4,
+      "chronic_exceedance_pct": 46.3,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Dewas": {
+    "city": "Dewas",
+    "state": "Madhya Pradesh",
+    "station_count": 1,
+    "mean_pm25": 54.5,
+    "cleanest_station": {
+      "name": "Bhopal Chauraha",
+      "mean_pm25": 54.5,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Bhopal Chauraha",
+      "mean_pm25": 54.5,
+      "chronic_exceedance_pct": 45.8,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Sirsa": {
+    "city": "Sirsa",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 62.9,
+    "cleanest_station": {
+      "name": "F-Block",
+      "mean_pm25": 62.9,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "F-Block",
+      "mean_pm25": 62.9,
+      "chronic_exceedance_pct": 45.7,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Narnaul": {
+    "city": "Narnaul",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 61.7,
+    "cleanest_station": {
+      "name": "Shastri Nagar",
+      "mean_pm25": 61.7,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Shastri Nagar",
+      "mean_pm25": 61.7,
+      "chronic_exceedance_pct": 45.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Solapur": {
+    "city": "Solapur",
+    "state": "Maharashtra",
+    "station_count": 3,
+    "mean_pm25": 43.5,
+    "cleanest_station": {
+      "name": "Solapur Solapur",
+      "mean_pm25": 36.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Ratandeep Housing Society",
+      "mean_pm25": 48.9,
+      "chronic_exceedance_pct": 45.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Jalore": {
+    "city": "Jalore",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 54.6,
+    "cleanest_station": {
+      "name": "Mudtra Sili",
+      "mean_pm25": 54.6,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Mudtra Sili",
+      "mean_pm25": 54.6,
+      "chronic_exceedance_pct": 45.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Bhilai": {
+    "city": "Bhilai",
+    "state": "Chhattisgarh",
+    "station_count": 3,
+    "mean_pm25": 42.0,
+    "cleanest_station": {
+      "name": "Civic Center",
+      "mean_pm25": 34.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Hathkhoj",
+      "mean_pm25": 50.1,
+      "chronic_exceedance_pct": 44.9,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Khurja": {
+    "city": "Khurja",
+    "state": "Uttar Pradesh",
+    "station_count": 1,
+    "mean_pm25": 61.7,
+    "cleanest_station": {
+      "name": "Kalindi Kunj",
+      "mean_pm25": 61.7,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Kalindi Kunj",
+      "mean_pm25": 61.7,
+      "chronic_exceedance_pct": 44.7,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Sawai Madhopur": {
+    "city": "Sawai Madhopur",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 55.2,
+    "cleanest_station": {
+      "name": "Sahu Nagar",
+      "mean_pm25": 55.2,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Sahu Nagar",
+      "mean_pm25": 55.2,
+      "chronic_exceedance_pct": 44.7,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Katni": {
+    "city": "Katni",
+    "state": "Madhya Pradesh",
+    "station_count": 1,
+    "mean_pm25": 51.4,
+    "cleanest_station": {
+      "name": "Gole Bazar",
+      "mean_pm25": 51.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Gole Bazar",
+      "mean_pm25": 51.4,
+      "chronic_exceedance_pct": 44.6,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Malegaon": {
+    "city": "Malegaon",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 59.8,
+    "cleanest_station": {
+      "name": "Mahesh Nagar",
+      "mean_pm25": 59.8,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Mahesh Nagar",
+      "mean_pm25": 59.8,
+      "chronic_exceedance_pct": 44.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Dausa": {
+    "city": "Dausa",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 59.4,
+    "cleanest_station": {
+      "name": "Khatikan Mohalla",
+      "mean_pm25": 59.4,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Khatikan Mohalla",
+      "mean_pm25": 59.4,
+      "chronic_exceedance_pct": 43.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Rairangpur": {
+    "city": "Rairangpur",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 55.7,
+    "cleanest_station": {
+      "name": "Divisional Forest Office",
+      "mean_pm25": 55.7,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Divisional Forest Office",
+      "mean_pm25": 55.7,
+      "chronic_exceedance_pct": 42.7,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Karnal": {
+    "city": "Karnal",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 58.2,
+    "cleanest_station": {
+      "name": "Sector-12",
+      "mean_pm25": 58.2,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Sector-12",
+      "mean_pm25": 58.2,
+      "chronic_exceedance_pct": 42.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Khanna": {
+    "city": "Khanna",
+    "state": "Punjab",
+    "station_count": 1,
+    "mean_pm25": 56.9,
+    "cleanest_station": {
+      "name": "Kalal Majra",
+      "mean_pm25": 56.9,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Kalal Majra",
+      "mean_pm25": 56.9,
+      "chronic_exceedance_pct": 42.0,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Arrah": {
+    "city": "Arrah",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 79.0,
+    "cleanest_station": {
+      "name": "New DM Office",
+      "mean_pm25": 79.0,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "New DM Office",
+      "mean_pm25": 79.0,
+      "chronic_exceedance_pct": 41.9,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Nalbari": {
+    "city": "Nalbari",
+    "state": "Assam",
+    "station_count": 1,
+    "mean_pm25": 75.2,
+    "cleanest_station": {
+      "name": "Bata Chowk",
+      "mean_pm25": 75.2,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Bata Chowk",
+      "mean_pm25": 75.2,
+      "chronic_exceedance_pct": 41.7,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Gorakhpur": {
+    "city": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "station_count": 1,
+    "mean_pm25": 55.0,
+    "cleanest_station": {
+      "name": "Madan Mohan Malaviya University of Technology",
+      "mean_pm25": 55.0,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Madan Mohan Malaviya University of Technology",
+      "mean_pm25": 55.0,
+      "chronic_exceedance_pct": 41.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Mahad": {
+    "city": "Mahad",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 51.1,
+    "cleanest_station": {
+      "name": "Kamble Tarf Birwadi",
+      "mean_pm25": 51.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Kamble Tarf Birwadi",
+      "mean_pm25": 51.1,
+      "chronic_exceedance_pct": 41.1,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Sagar": {
+    "city": "Sagar",
+    "state": "Madhya Pradesh",
+    "station_count": 2,
+    "mean_pm25": 40.3,
+    "cleanest_station": {
+      "name": "Deen Dayal Nagar",
+      "mean_pm25": 22.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Civil Lines",
+      "mean_pm25": 57.9,
+      "chronic_exceedance_pct": 40.7,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Mira-Bhayandar": {
+    "city": "Mira-Bhayandar",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 50.1,
+    "cleanest_station": {
+      "name": "Bhayandar West",
+      "mean_pm25": 50.1,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Bhayandar West",
+      "mean_pm25": 50.1,
+      "chronic_exceedance_pct": 40.5,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Nanded": {
+    "city": "Nanded",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 51.6,
+    "cleanest_station": {
+      "name": "Sneh Nagar",
+      "mean_pm25": 51.6,
+      "class": "Moderate Hotspot"
+    },
+    "worst_station": {
+      "name": "Sneh Nagar",
+      "mean_pm25": 51.6,
+      "chronic_exceedance_pct": 40.3,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 0
+  },
+  "Prayagraj": {
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "station_count": 3,
+    "mean_pm25": 40.6,
+    "cleanest_station": {
+      "name": "Jhunsi",
+      "mean_pm25": 31.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Nagar Nigam",
+      "mean_pm25": 51.0,
+      "chronic_exceedance_pct": 40.2,
+      "class": "Moderate Hotspot"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Jaisalmer": {
+    "city": "Jaisalmer",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 57.5,
+    "cleanest_station": {
+      "name": "Sadar Bazar",
+      "mean_pm25": 57.5,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Sadar Bazar",
+      "mean_pm25": 57.5,
+      "chronic_exceedance_pct": 39.6,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Kolhapur": {
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "station_count": 2,
+    "mean_pm25": 52.4,
+    "cleanest_station": {
+      "name": "Sinchan Bhavan",
+      "mean_pm25": 48.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Shivaji University",
+      "mean_pm25": 56.5,
+      "chronic_exceedance_pct": 39.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Rajamahendravaram": {
+    "city": "Rajamahendravaram",
+    "state": "Andhra Pradesh",
+    "station_count": 1,
+    "mean_pm25": 48.7,
+    "cleanest_station": {
+      "name": "Anand Kala Kshetram",
+      "mean_pm25": 48.7,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Anand Kala Kshetram",
+      "mean_pm25": 48.7,
+      "chronic_exceedance_pct": 38.5,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Baripada": {
+    "city": "Baripada",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 58.7,
+    "cleanest_station": {
+      "name": "Meher Colony",
+      "mean_pm25": 58.7,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Meher Colony",
+      "mean_pm25": 58.7,
+      "chronic_exceedance_pct": 38.4,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Virar": {
+    "city": "Virar",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 50.7,
+    "cleanest_station": {
+      "name": "Bolinj",
+      "mean_pm25": 50.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Bolinj",
+      "mean_pm25": 50.7,
+      "chronic_exceedance_pct": 37.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Jalgaon": {
+    "city": "Jalgaon",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 56.8,
+    "cleanest_station": {
+      "name": "Prabhat Colony",
+      "mean_pm25": 56.8,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Prabhat Colony",
+      "mean_pm25": 56.8,
+      "chronic_exceedance_pct": 36.7,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Bihar Sharif": {
+    "city": "Bihar Sharif",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 52.4,
+    "cleanest_station": {
+      "name": "D M Colony",
+      "mean_pm25": 52.4,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "D M Colony",
+      "mean_pm25": 52.4,
+      "chronic_exceedance_pct": 36.5,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Alwar": {
+    "city": "Alwar",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 51.0,
+    "cleanest_station": {
+      "name": "Moti Doongri",
+      "mean_pm25": 51.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Moti Doongri",
+      "mean_pm25": 51.0,
+      "chronic_exceedance_pct": 35.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Belapur": {
+    "city": "Belapur",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 45.9,
+    "cleanest_station": {
+      "name": "CBD Belapur",
+      "mean_pm25": 45.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "CBD Belapur",
+      "mean_pm25": 45.9,
+      "chronic_exceedance_pct": 34.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Bettiah": {
+    "city": "Bettiah",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 58.7,
+    "cleanest_station": {
+      "name": "Kamalnath Nagar",
+      "mean_pm25": 58.7,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Kamalnath Nagar",
+      "mean_pm25": 58.7,
+      "chronic_exceedance_pct": 32.5,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Chennai": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "station_count": 8,
+    "mean_pm25": 33.9,
+    "cleanest_station": {
+      "name": "Kodungaiyur",
+      "mean_pm25": 14.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "US Embassy - Chennai",
+      "mean_pm25": 48.4,
+      "chronic_exceedance_pct": 31.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 3,
+    "compliant_count": 5
+  },
+  "Tensa": {
+    "city": "Tensa",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 43.8,
+    "cleanest_station": {
+      "name": "Barsua Iron Ore Mines",
+      "mean_pm25": 43.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Barsua Iron Ore Mines",
+      "mean_pm25": 43.8,
+      "chronic_exceedance_pct": 31.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Rajsamand": {
+    "city": "Rajsamand",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 48.2,
+    "cleanest_station": {
+      "name": "Dhoinda",
+      "mean_pm25": 48.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Dhoinda",
+      "mean_pm25": 48.2,
+      "chronic_exceedance_pct": 31.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Firozabad": {
+    "city": "Firozabad",
+    "state": "Uttar Pradesh",
+    "station_count": 2,
+    "mean_pm25": 45.6,
+    "cleanest_station": {
+      "name": "Nagla Bhau",
+      "mean_pm25": 44.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Vibhab Nagar",
+      "mean_pm25": 46.9,
+      "chronic_exceedance_pct": 26.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Raipur": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "station_count": 4,
+    "mean_pm25": 37.1,
+    "cleanest_station": {
+      "name": "Krishak Nagar",
+      "mean_pm25": 27.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Siltara Phase-II",
+      "mean_pm25": 51.2,
+      "chronic_exceedance_pct": 30.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 4
+  },
+  "Keonjhar": {
+    "city": "Keonjhar",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 50.9,
+    "cleanest_station": {
+      "name": "Jagamohanpur",
+      "mean_pm25": 50.9,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Jagamohanpur",
+      "mean_pm25": 50.9,
+      "chronic_exceedance_pct": 30.2,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Rishikesh": {
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "station_count": 1,
+    "mean_pm25": 44.6,
+    "cleanest_station": {
+      "name": "Shivaji Nagar",
+      "mean_pm25": 44.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Shivaji Nagar",
+      "mean_pm25": 44.6,
+      "chronic_exceedance_pct": 29.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Amravati": {
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 44.8,
+    "cleanest_station": {
+      "name": "Shivneri Colony",
+      "mean_pm25": 44.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Shivneri Colony",
+      "mean_pm25": 44.8,
+      "chronic_exceedance_pct": 29.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Pratapgarh": {
+    "city": "Pratapgarh",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 45.2,
+    "cleanest_station": {
+      "name": "Pragati Nagar",
+      "mean_pm25": 45.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Pragati Nagar",
+      "mean_pm25": 45.2,
+      "chronic_exceedance_pct": 28.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Yadgir": {
+    "city": "Yadgir",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 43.6,
+    "cleanest_station": {
+      "name": "Collector Office",
+      "mean_pm25": 43.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Collector Office",
+      "mean_pm25": 43.6,
+      "chronic_exceedance_pct": 28.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Nagaon": {
+    "city": "Nagaon",
+    "state": "Assam",
+    "station_count": 1,
+    "mean_pm25": 45.9,
+    "cleanest_station": {
+      "name": "Christianpatty",
+      "mean_pm25": 45.9,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Christianpatty",
+      "mean_pm25": 45.9,
+      "chronic_exceedance_pct": 28.1,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Nayagarh": {
+    "city": "Nayagarh",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 45.6,
+    "cleanest_station": {
+      "name": "Dabuna",
+      "mean_pm25": 45.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Dabuna",
+      "mean_pm25": 45.6,
+      "chronic_exceedance_pct": 27.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Bengaluru": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "station_count": 11,
+    "mean_pm25": 34.2,
+    "cleanest_station": {
+      "name": "BTM Layout",
+      "mean_pm25": 21.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "RVCE-Mailasandra",
+      "mean_pm25": 42.7,
+      "chronic_exceedance_pct": 11.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 11
+  },
+  "Manguraha": {
+    "city": "Manguraha",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 49.5,
+    "cleanest_station": {
+      "name": "Forest Rest House",
+      "mean_pm25": 49.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Forest Rest House",
+      "mean_pm25": 49.5,
+      "chronic_exceedance_pct": 26.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Siliguri": {
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "station_count": 1,
+    "mean_pm25": 40.4,
+    "cleanest_station": {
+      "name": "Ward-32 Bapupara",
+      "mean_pm25": 40.4,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Ward-32 Bapupara",
+      "mean_pm25": 40.4,
+      "chronic_exceedance_pct": 26.4,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Sangli": {
+    "city": "Sangli",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 41.5,
+    "cleanest_station": {
+      "name": "Vijay Nagar",
+      "mean_pm25": 41.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Vijay Nagar",
+      "mean_pm25": 41.5,
+      "chronic_exceedance_pct": 26.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Ratlam": {
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "station_count": 1,
+    "mean_pm25": 44.3,
+    "cleanest_station": {
+      "name": "Shasthri Nagar",
+      "mean_pm25": 44.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Shasthri Nagar",
+      "mean_pm25": 44.3,
+      "chronic_exceedance_pct": 26.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Amaravati": {
+    "city": "Amaravati",
+    "state": "Andhra Pradesh",
+    "station_count": 1,
+    "mean_pm25": 38.8,
+    "cleanest_station": {
+      "name": "Secretariat",
+      "mean_pm25": 38.8,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Secretariat",
+      "mean_pm25": 38.8,
+      "chronic_exceedance_pct": 25.0,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Coimbatore": {
+    "city": "Coimbatore",
+    "state": "TamilNadu",
+    "station_count": 2,
+    "mean_pm25": 39.6,
+    "cleanest_station": {
+      "name": "SIDCO Kurichi",
+      "mean_pm25": 36.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "PSG College of Arts and Science",
+      "mean_pm25": 42.5,
+      "chronic_exceedance_pct": 25.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Surat": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "station_count": 1,
+    "mean_pm25": 42.7,
+    "cleanest_station": {
+      "name": "Science Center",
+      "mean_pm25": 42.7,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Science Center",
+      "mean_pm25": 42.7,
+      "chronic_exceedance_pct": 23.6,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Kollam": {
+    "city": "Kollam",
+    "state": "Kerala",
+    "station_count": 1,
+    "mean_pm25": 43.3,
+    "cleanest_station": {
+      "name": "Polayathode",
+      "mean_pm25": 43.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Polayathode",
+      "mean_pm25": 43.3,
+      "chronic_exceedance_pct": 22.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Kishanganj": {
+    "city": "Kishanganj",
+    "state": "Bihar",
+    "station_count": 1,
+    "mean_pm25": 41.2,
+    "cleanest_station": {
+      "name": "SDM Office_Khagra",
+      "mean_pm25": 41.2,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "SDM Office_Khagra",
+      "mean_pm25": 41.2,
+      "chronic_exceedance_pct": 21.9,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Bathinda": {
+    "city": "Bathinda",
+    "state": "Punjab",
+    "station_count": 1,
+    "mean_pm25": 49.3,
+    "cleanest_station": {
+      "name": "Hardev Nagar",
+      "mean_pm25": 49.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Hardev Nagar",
+      "mean_pm25": 49.3,
+      "chronic_exceedance_pct": 21.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Pudukottai": {
+    "city": "Pudukottai",
+    "state": "TamilNadu",
+    "station_count": 1,
+    "mean_pm25": 41.2,
+    "cleanest_station": {
+      "name": "SIPCOT Nathampannai",
+      "mean_pm25": 41.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "SIPCOT Nathampannai",
+      "mean_pm25": 41.2,
+      "chronic_exceedance_pct": 21.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Akola": {
+    "city": "Akola",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 45.2,
+    "cleanest_station": {
+      "name": "Ramdaspeth",
+      "mean_pm25": 45.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Ramdaspeth",
+      "mean_pm25": 45.2,
+      "chronic_exceedance_pct": 20.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Jhansi": {
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "station_count": 1,
+    "mean_pm25": 44.9,
+    "cleanest_station": {
+      "name": "Shivaji Nagar",
+      "mean_pm25": 44.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Shivaji Nagar",
+      "mean_pm25": 44.9,
+      "chronic_exceedance_pct": 19.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Palwal": {
+    "city": "Palwal",
+    "state": "Haryana",
+    "station_count": 1,
+    "mean_pm25": 40.8,
+    "cleanest_station": {
+      "name": "Shyam Nagar",
+      "mean_pm25": 40.8,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Shyam Nagar",
+      "mean_pm25": 40.8,
+      "chronic_exceedance_pct": 19.5,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Perundurai": {
+    "city": "Perundurai",
+    "state": "TamilNadu",
+    "station_count": 1,
+    "mean_pm25": 40.9,
+    "cleanest_station": {
+      "name": "SIPCOT Industrial Park",
+      "mean_pm25": 40.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "SIPCOT Industrial Park",
+      "mean_pm25": 40.9,
+      "chronic_exceedance_pct": 17.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Damoh": {
+    "city": "Damoh",
+    "state": "Madhya Pradesh",
+    "station_count": 1,
+    "mean_pm25": 31.9,
+    "cleanest_station": {
+      "name": "Shrivastav Colony",
+      "mean_pm25": 31.9,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Shrivastav Colony",
+      "mean_pm25": 31.9,
+      "chronic_exceedance_pct": 17.2,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Ajmer": {
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 45.0,
+    "cleanest_station": {
+      "name": "Civil Lines",
+      "mean_pm25": 45.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Civil Lines",
+      "mean_pm25": 45.0,
+      "chronic_exceedance_pct": 16.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Ahmednagar": {
+    "city": "Ahmednagar",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 43.5,
+    "cleanest_station": {
+      "name": "Tarakpur",
+      "mean_pm25": 43.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Tarakpur",
+      "mean_pm25": 43.5,
+      "chronic_exceedance_pct": 15.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Chittoor": {
+    "city": "Chittoor",
+    "state": "Andhra Pradesh",
+    "station_count": 1,
+    "mean_pm25": 39.2,
+    "cleanest_station": {
+      "name": "Gangineni Cheruvu",
+      "mean_pm25": 39.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Gangineni Cheruvu",
+      "mean_pm25": 39.2,
+      "chronic_exceedance_pct": 15.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Bareilly": {
+    "city": "Bareilly",
+    "state": "Uttar Pradesh",
+    "station_count": 2,
+    "mean_pm25": 28.2,
+    "cleanest_station": {
+      "name": "Civil Lines",
+      "mean_pm25": 21.0,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Rajendra Nagar",
+      "mean_pm25": 35.5,
+      "chronic_exceedance_pct": 14.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 1
+  },
+  "Tumidih": {
+    "city": "Tumidih",
+    "state": "Chhattisgarh",
+    "station_count": 1,
+    "mean_pm25": 35.6,
+    "cleanest_station": {
+      "name": "OP Jindal Industrial Park",
+      "mean_pm25": 35.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "OP Jindal Industrial Park",
+      "mean_pm25": 35.6,
+      "chronic_exceedance_pct": 14.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Chikkaballapur": {
+    "city": "Chikkaballapur",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 34.8,
+    "cleanest_station": {
+      "name": "Chikkaballapur Rural",
+      "mean_pm25": 34.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Chikkaballapur Rural",
+      "mean_pm25": 34.8,
+      "chronic_exceedance_pct": 12.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Barmer": {
+    "city": "Barmer",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 38.7,
+    "cleanest_station": {
+      "name": "Railway Colony",
+      "mean_pm25": 38.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Railway Colony",
+      "mean_pm25": 38.7,
+      "chronic_exceedance_pct": 12.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Varanasi": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "station_count": 4,
+    "mean_pm25": 30.0,
+    "cleanest_station": {
+      "name": "IESD Banaras Hindu University",
+      "mean_pm25": 21.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Maldahiya",
+      "mean_pm25": 36.2,
+      "chronic_exceedance_pct": 12.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 3
+  },
+  "Sirohi": {
+    "city": "Sirohi",
+    "state": "Rajasthan",
+    "station_count": 1,
+    "mean_pm25": 37.3,
+    "cleanest_station": {
+      "name": "Vedhaynath Colony",
+      "mean_pm25": 37.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Vedhaynath Colony",
+      "mean_pm25": 37.3,
+      "chronic_exceedance_pct": 11.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Ramanagara": {
+    "city": "Ramanagara",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 30.5,
+    "cleanest_station": {
+      "name": "Vijay Nagar",
+      "mean_pm25": 30.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Vijay Nagar",
+      "mean_pm25": 30.5,
+      "chronic_exceedance_pct": 10.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Bilaspur": {
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "station_count": 1,
+    "mean_pm25": 37.1,
+    "cleanest_station": {
+      "name": "Mangala",
+      "mean_pm25": 37.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Mangala",
+      "mean_pm25": 37.1,
+      "chronic_exceedance_pct": 9.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Shillong": {
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "station_count": 1,
+    "mean_pm25": 30.9,
+    "cleanest_station": {
+      "name": "Lumpyngngad",
+      "mean_pm25": 30.9,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Lumpyngngad",
+      "mean_pm25": 30.9,
+      "chronic_exceedance_pct": 8.3,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Puducherry": {
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "station_count": 1,
+    "mean_pm25": 29.7,
+    "cleanest_station": {
+      "name": "Jawahar Nagar",
+      "mean_pm25": 29.7,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Jawahar Nagar",
+      "mean_pm25": 29.7,
+      "chronic_exceedance_pct": 8.2,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Milupara": {
+    "city": "Milupara",
+    "state": "Chhattisgarh",
+    "station_count": 1,
+    "mean_pm25": 33.8,
+    "cleanest_station": {
+      "name": "Govt. Higher Secondary School",
+      "mean_pm25": 33.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Govt. Higher Secondary School",
+      "mean_pm25": 33.8,
+      "chronic_exceedance_pct": 7.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Vijayawada": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "station_count": 4,
+    "mean_pm25": 33.0,
+    "cleanest_station": {
+      "name": "Rajiv Nagar",
+      "mean_pm25": 28.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Rajiv Gandhi Park",
+      "mean_pm25": 36.3,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 4
+  },
+  "Tirupati": {
+    "city": "Tirupati",
+    "state": "Andhra Pradesh",
+    "station_count": 1,
+    "mean_pm25": 34.6,
+    "cleanest_station": {
+      "name": "Vaikuntapuram",
+      "mean_pm25": 34.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Vaikuntapuram",
+      "mean_pm25": 34.6,
+      "chronic_exceedance_pct": 7.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Chhal": {
+    "city": "Chhal",
+    "state": "Chhattisgarh",
+    "station_count": 1,
+    "mean_pm25": 34.2,
+    "cleanest_station": {
+      "name": "Nawapara SECL Colony",
+      "mean_pm25": 34.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Nawapara SECL Colony",
+      "mean_pm25": 34.2,
+      "chronic_exceedance_pct": 7.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Vatva": {
+    "city": "Vatva",
+    "state": "Gujarat",
+    "station_count": 1,
+    "mean_pm25": 35.5,
+    "cleanest_station": {
+      "name": "Phase-4 GIDC",
+      "mean_pm25": 35.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Phase-4 GIDC",
+      "mean_pm25": 35.5,
+      "chronic_exceedance_pct": 6.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Naharlagun": {
+    "city": "Naharlagun",
+    "state": "Arunachal Pradesh",
+    "station_count": 1,
+    "mean_pm25": 30.9,
+    "cleanest_station": {
+      "name": "Naharlagun",
+      "mean_pm25": 30.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Naharlagun",
+      "mean_pm25": 30.9,
+      "chronic_exceedance_pct": 6.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Thiruvananthapuram": {
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "station_count": 2,
+    "mean_pm25": 33.5,
+    "cleanest_station": {
+      "name": "Kariavattom",
+      "mean_pm25": 28.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Plammoodu",
+      "mean_pm25": 39.1,
+      "chronic_exceedance_pct": 6.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Anantapur": {
+    "city": "Anantapur",
+    "state": "Andhra Pradesh",
+    "station_count": 1,
+    "mean_pm25": 31.8,
+    "cleanest_station": {
+      "name": "Gulzarpet",
+      "mean_pm25": 31.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Gulzarpet",
+      "mean_pm25": 31.8,
+      "chronic_exceedance_pct": 5.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Kunjemura": {
+    "city": "Kunjemura",
+    "state": "Chhattisgarh",
+    "station_count": 1,
+    "mean_pm25": 29.1,
+    "cleanest_station": {
+      "name": "OP Jindal School",
+      "mean_pm25": 29.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "OP Jindal School",
+      "mean_pm25": 29.1,
+      "chronic_exceedance_pct": 4.6,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Tumakuru": {
+    "city": "Tumakuru",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 37.5,
+    "cleanest_station": {
+      "name": "Thimmalapura",
+      "mean_pm25": 37.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Thimmalapura",
+      "mean_pm25": 37.5,
+      "chronic_exceedance_pct": 4.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Ramanathapuram": {
+    "city": "Ramanathapuram",
+    "state": "TamilNadu",
+    "station_count": 1,
+    "mean_pm25": 27.1,
+    "cleanest_station": {
+      "name": "Chalai Bazaar",
+      "mean_pm25": 27.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Chalai Bazaar",
+      "mean_pm25": 27.1,
+      "chronic_exceedance_pct": 3.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Brajrajnagar": {
+    "city": "Brajrajnagar",
+    "state": "Odisha",
+    "station_count": 1,
+    "mean_pm25": 33.3,
+    "cleanest_station": {
+      "name": "GM Office",
+      "mean_pm25": 33.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "GM Office",
+      "mean_pm25": 33.3,
+      "chronic_exceedance_pct": 3.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Vrindavan": {
+    "city": "Vrindavan",
+    "state": "Uttar Pradesh",
+    "station_count": 1,
+    "mean_pm25": 32.5,
+    "cleanest_station": {
+      "name": "Omex Eternity",
+      "mean_pm25": 32.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Omex Eternity",
+      "mean_pm25": 32.5,
+      "chronic_exceedance_pct": 3.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Kalyan": {
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "station_count": 1,
+    "mean_pm25": 33.7,
+    "cleanest_station": {
+      "name": "Khadakpada",
+      "mean_pm25": 33.7,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Khadakpada",
+      "mean_pm25": 33.7,
+      "chronic_exceedance_pct": 2.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Mangalore": {
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 26.5,
+    "cleanest_station": {
+      "name": "Kadri",
+      "mean_pm25": 26.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Kadri",
+      "mean_pm25": 26.5,
+      "chronic_exceedance_pct": 2.3,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Kadapa": {
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "station_count": 1,
+    "mean_pm25": 30.8,
+    "cleanest_station": {
+      "name": "Yerramukkapalli",
+      "mean_pm25": 30.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Yerramukkapalli",
+      "mean_pm25": 30.8,
+      "chronic_exceedance_pct": 1.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Korba": {
+    "city": "Korba",
+    "state": "Chhattisgarh",
+    "station_count": 2,
+    "mean_pm25": 21.8,
+    "cleanest_station": {
+      "name": "Urja Nagar",
+      "mean_pm25": 14.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Rampur",
+      "mean_pm25": 28.8,
+      "chronic_exceedance_pct": 1.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 2
+  },
+  "Satna": {
+    "city": "Satna",
+    "state": "Madhya Pradesh",
+    "station_count": 1,
+    "mean_pm25": 14.2,
+    "cleanest_station": {
+      "name": "Bandhavgar Colony",
+      "mean_pm25": 14.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Bandhavgar Colony",
+      "mean_pm25": 14.2,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Kannur": {
+    "city": "Kannur",
+    "state": "Kerala",
+    "station_count": 1,
+    "mean_pm25": 25.9,
+    "cleanest_station": {
+      "name": "Thavakkara",
+      "mean_pm25": 25.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Thavakkara",
+      "mean_pm25": 25.9,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Kalaburagi": {
+    "city": "Kalaburagi",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 13.9,
+    "cleanest_station": {
+      "name": "Mahatma Basaveswar Colony",
+      "mean_pm25": 13.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Mahatma Basaveswar Colony",
+      "mean_pm25": 13.9,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Silchar": {
+    "city": "Silchar",
+    "state": "Assam",
+    "station_count": 1,
+    "mean_pm25": 23.1,
+    "cleanest_station": {
+      "name": "Tarapur",
+      "mean_pm25": 23.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Tarapur",
+      "mean_pm25": 23.1,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Sivasagar": {
+    "city": "Sivasagar",
+    "state": "Assam",
+    "station_count": 1,
+    "mean_pm25": 24.1,
+    "cleanest_station": {
+      "name": "Girls College",
+      "mean_pm25": 24.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Girls College",
+      "mean_pm25": 24.1,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Hubballi": {
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 22.0,
+    "cleanest_station": {
+      "name": "Lingaraj Nagar",
+      "mean_pm25": 22.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Lingaraj Nagar",
+      "mean_pm25": 22.0,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Mysuru": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 21.9,
+    "cleanest_station": {
+      "name": "Hebbal 1st Stage",
+      "mean_pm25": 21.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Hebbal 1st Stage",
+      "mean_pm25": 21.9,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Dharwad": {
+    "city": "Dharwad",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 32.8,
+    "cleanest_station": {
+      "name": "Kalabhavan",
+      "mean_pm25": 32.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Kalabhavan",
+      "mean_pm25": 32.8,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Chamarajanagar": {
+    "city": "Chamarajanagar",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 18.5,
+    "cleanest_station": {
+      "name": "Urban",
+      "mean_pm25": 18.5,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Urban",
+      "mean_pm25": 18.5,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Bagalkot": {
+    "city": "Bagalkot",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 22.4,
+    "cleanest_station": {
+      "name": "Vidayagiri",
+      "mean_pm25": 22.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Vidayagiri",
+      "mean_pm25": 22.4,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Chikkamagaluru": {
+    "city": "Chikkamagaluru",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 21.4,
+    "cleanest_station": {
+      "name": "Kalyana Nagara",
+      "mean_pm25": 21.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Kalyana Nagara",
+      "mean_pm25": 21.4,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Shivamogga": {
+    "city": "Shivamogga",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 21.9,
+    "cleanest_station": {
+      "name": "Vinoba Nagara",
+      "mean_pm25": 21.9,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Vinoba Nagara",
+      "mean_pm25": 21.9,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Vijayapura": {
+    "city": "Vijayapura",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 19.4,
+    "cleanest_station": {
+      "name": "Ibrahimpur",
+      "mean_pm25": 19.4,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Ibrahimpur",
+      "mean_pm25": 19.4,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Madurai": {
+    "city": "Madurai",
+    "state": "TamilNadu",
+    "station_count": 1,
+    "mean_pm25": 26.2,
+    "cleanest_station": {
+      "name": "Uchapatti",
+      "mean_pm25": 26.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Uchapatti",
+      "mean_pm25": 26.2,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Eloor": {
+    "city": "Eloor",
+    "state": "Kerala",
+    "station_count": 1,
+    "mean_pm25": 33.8,
+    "cleanest_station": {
+      "name": "Udyogamandal",
+      "mean_pm25": 33.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Udyogamandal",
+      "mean_pm25": 33.8,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Thrissur": {
+    "city": "Thrissur",
+    "state": "Kerala",
+    "station_count": 1,
+    "mean_pm25": 26.8,
+    "cleanest_station": {
+      "name": "Corporation Ground",
+      "mean_pm25": 26.8,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Corporation Ground",
+      "mean_pm25": 26.8,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Aizawl": {
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "station_count": 1,
+    "mean_pm25": 14.4,
+    "cleanest_station": {
+      "name": "Sikulpuikawn",
+      "mean_pm25": 14.4,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Sikulpuikawn",
+      "mean_pm25": 14.4,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Thanjavur": {
+    "city": "Thanjavur",
+    "state": "TamilNadu",
+    "station_count": 1,
+    "mean_pm25": 21.2,
+    "cleanest_station": {
+      "name": "Parisutham Nagar",
+      "mean_pm25": 21.2,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Parisutham Nagar",
+      "mean_pm25": 21.2,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  },
+  "Gangtok": {
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "station_count": 1,
+    "mean_pm25": 12.8,
+    "cleanest_station": {
+      "name": "Zero Point GICI",
+      "mean_pm25": 12.8,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "worst_station": {
+      "name": "Zero Point GICI",
+      "mean_pm25": 12.8,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Occasional Spike Zone (Episodic)"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 1,
+    "compliant_count": 0
+  },
+  "Madikeri": {
+    "city": "Madikeri",
+    "state": "Karnataka",
+    "station_count": 1,
+    "mean_pm25": 19.1,
+    "cleanest_station": {
+      "name": "Stuart Hill",
+      "mean_pm25": 19.1,
+      "class": "Compliant / Low Exposure"
+    },
+    "worst_station": {
+      "name": "Stuart Hill",
+      "mean_pm25": 19.1,
+      "chronic_exceedance_pct": 0.0,
+      "class": "Compliant / Low Exposure"
+    },
+    "persistent_hotspots": 0,
+    "occasional_spikes": 0,
+    "compliant_count": 1
+  }
+}

@@ -1,0 +1,1053 @@
+station_id,station_name,city_name,state_name,parameter_name,total_monitored_days,overall_mean_concentration,median_concentration,p95_concentration,naaqs_exceedance_days,exceedance_percentage
+site_5121,"Knowledge Park - V, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh,PM10,92,268.24,269.34,418.07,92,100.00
+site_5345,"Sector-51, Gurugram - HSPCB",Gurugram,Haryana,PM10,77,227.92,219.08,366.29,77,100.00
+site_6009,"Dasnagar, Howrah - WBPCB",Howrah,West Bengal,PM10,29,195.55,194.3,313.08,29,100.00
+site_5998,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",Pimpri-Chinchwad,Maharashtra,PM10,29,173.4,163.23,227.79,29,100.00
+site_5998,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",Pimpri-Chinchwad,Maharashtra,PM2.5,29,96.21,87.28,131.93,29,100.00
+site_1561,"Mundka, Delhi - DPCC",Delhi,Delhi,PM10,88,334.63,324.92,594.08,87,98.86
+site_5789,"Rachnakar Colony, Aurangabad - MPCB",Aurangabad,Maharashtra,PM10,60,171.06,163.61,223.32,59,98.33
+site_5025,"NISE Gwal Pahari, Gurugram - IMD",Gurugram,Haryana,PM10,51,261.56,245.88,473.35,50,98.04
+site_5719,"Old City, Sri Ganganagar - RSPCB",Sri Ganganagar,Rajasthan,PM10,88,259.07,240.91,490.75,86,97.73
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,Delhi,PM10,82,379.01,393.76,639.17,80,97.56
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,Delhi,PM10,91,350.22,380.33,612.18,88,96.70
+site_5025,"NISE Gwal Pahari, Gurugram - IMD",Gurugram,Haryana,PM2.5,55,163.49,148.95,255.35,53,96.36
+site_5669,"Central Academy for SFS, Byrnihat - PCBA",Byrnihat,Assam,PM10,64,225.63,236.32,331.49,61,95.31
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,Delhi,PM10,92,310.4,327.48,605.83,86,93.48
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,Delhi,PM10,88,364.62,373.33,629.04,82,93.18
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,Delhi,PM10,88,282.88,288.3,500.06,82,93.18
+site_6009,"Dasnagar, Howrah - WBPCB",Howrah,West Bengal,PM2.5,29,117.23,113.22,197.55,27,93.10
+site_5669,"Central Academy for SFS, Byrnihat - PCBA",Byrnihat,Assam,PM2.5,69,144.79,155.15,225.37,64,92.75
+site_6008,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",Durgapur,West Bengal,PM10,27,196.57,189.64,310.81,25,92.59
+site_6008,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",Durgapur,West Bengal,PM2.5,27,125.66,124.65,214.54,25,92.59
+site_1430,"Rohini, Delhi - DPCC",Delhi,Delhi,PM10,90,298.09,304.55,538.33,83,92.22
+site_5789,"Rachnakar Colony, Aurangabad - MPCB",Aurangabad,Maharashtra,PM2.5,60,79.19,76.19,106.39,55,91.67
+site_5479,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,PM10,65,168.02,167.73,258.8,59,90.77
+site_1541,"Knowledge Park - III, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh,PM10,81,221.09,225.73,363.56,73,90.12
+site_5479,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,PM2.5,69,104.96,102.02,167.7,62,89.86
+site_1391,"RIICO Ind. Area III, Bhiwadi - RSPCB",Bhiwadi,Rajasthan,PM10,87,181.3,176.25,300.66,78,89.66
+site_5982,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",Bhiwadi,Rajasthan,PM10,57,206.19,188.97,468.77,51,89.47
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,Delhi,PM10,92,290.14,312.56,551.42,82,89.13
+site_5539,"Kharahiya Basti, Araria - BSPCB",Araria,Bihar,PM10,64,221.46,219.69,342.09,57,89.06
+site_5342,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana,PM10,87,192.94,187.66,347.89,77,88.51
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,Gujarat,PM2.5,60,82.11,79.69,114.4,53,88.33
+site_5402,"Malad West, Mumbai - IITM",Mumbai,Maharashtra,PM10,42,150.02,152.63,195.77,37,88.10
+site_5083,"Loni, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,PM10,83,237.09,221.94,436.9,73,87.95
+site_5401,Sector-19A Nerul Navi Mumbai,,,PM2.5,33,100.63,105.13,160.23,29,87.88
+site_5539,"Kharahiya Basti, Araria - BSPCB",Araria,Bihar,PM2.5,65,114.31,106.64,184.02,57,87.69
+site_5712,"Shastri Nagar, Chittorgarh - RSPCB",Chittorgarh,Rajasthan,PM10,92,153.35,161.22,218.57,79,85.87
+site_1431,"Patparganj, Delhi - DPCC",Delhi,Delhi,PM10,91,316.4,346.29,577.86,78,85.71
+site_5715,"Housing Board, Hanumangarh - RSPCB",Hanumangarh,Rajasthan,PM10,77,206.85,199.16,371.38,66,85.71
+site_5481,"D M Colony, Bihar Sharif - BSPCB",Bihar Sharif,Bihar,PM10,70,173.92,168.17,281.19,60,85.71
+site_256,"Golden Temple, Amritsar - PPCB",Amritsar,Punjab,PM10,92,175.77,156.5,318.52,78,84.78
+site_5857,"Airport Area, Indore - IMC",Indore,Madhya Pradesh,PM2.5,13,88.17,85.85,197.27,11,84.62
+site_1560,"Bawana, Delhi - DPCC",Delhi,Delhi,PM10,90,293.6,308.38,513.46,76,84.44
+site_5710,"Sardar Patel Nagar, Dhanbad - JSPCB",Dhanbad,Jharkhand,PM2.5,19,82.88,84.74,147.69,16,84.21
+site_255,"RIMT University, Mandi Gobindgarh - PPCB",Mandi Gobindgarh,Punjab,PM10,82,159.45,157.32,243.3,69,84.15
+site_5341,"Sector 30, Faridabad - HSPCB",Faridabad,Haryana,PM10,75,150.67,153.55,249.75,63,84.00
+site_5082,"Indirapuram, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,PM10,92,225.15,233.3,440.38,77,83.70
+site_5696,"MM Ground, Bikaner - RSPCB",Bikaner,Rajasthan,PM10,92,201.25,202.66,337.23,77,83.70
+site_5489,"Dangi Tola, Rajgir - BSPCB",Rajgir,Bihar,PM10,61,204.91,216.49,330.88,51,83.61
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,Gujarat,PM10,60,140.01,130.56,215.12,50,83.33
+site_119,"Sirifort, Delhi - CPCB",Delhi,Delhi,PM10,92,277.28,303.41,574.3,76,82.61
+site_5710,"Sardar Patel Nagar, Dhanbad - JSPCB",Dhanbad,Jharkhand,PM10,23,168.52,170.5,275.05,19,82.61
+site_5548,"Kareemganj, Gaya - BSPCB",Gaya,Bihar,PM10,63,179.84,188.01,288.75,52,82.54
+site_1426,"Narela, Delhi - DPCC",Delhi,Delhi,PM10,91,274.94,284.48,543.15,75,82.42
+site_1401,"Suryakiran Bhawan NCL, Singrauli - MPPCB",Singrauli,Madhya Pradesh,PM10,85,185.0,209.33,285.28,70,82.35
+site_5340,"New Industrial Town, Faridabad - HSPCB",Faridabad,Haryana,PM10,84,247.51,227.7,484.63,69,82.14
+site_5081,"Sanjay Nagar, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,PM10,88,183.69,171.42,357.09,72,81.82
+site_5261,"Muradpur, Patna - BSPCB",Patna,Bihar,PM10,87,263.25,253.46,509.01,71,81.61
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,Delhi,PM10,92,301.13,336.04,548.58,75,81.52
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,Delhi,PM2.5,91,205.33,221.63,415.58,74,81.32
+site_1563,"Pusa, Delhi - DPCC",Delhi,Delhi,PM10,90,277.79,296.41,529.72,73,81.11
+site_5547,"SDM Office_Khagra, Kishanganj - BSPCB",Kishanganj,Bihar,PM10,74,198.96,197.29,371.11,60,81.08
+site_255,"RIMT University, Mandi Gobindgarh - PPCB",Mandi Gobindgarh,Punjab,PM2.5,82,86.06,85.91,133.48,66,80.49
+site_5794,"Masoom Colony, Parbhani - MPCB",Parbhani,Maharashtra,PM10,61,143.84,147.22,227.75,49,80.33
+site_5342,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana,PM2.5,86,96.85,93.75,188.17,69,80.23
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,Delhi,PM10,91,285.16,319.91,543.0,73,80.22
+site_5024,"Alipur, Delhi - DPCC",Delhi,Delhi,PM10,91,253.78,234.19,575.04,73,80.22
+site_5491,"Sector 22, Chandigarh - CPCC",Chandigarh,Chandigarh,PM10,91,180.41,168.66,354.26,73,80.22
+site_1550,"New Mandi, Muzaffarnagar - UPPCB",Muzaffarnagar,Uttar Pradesh,PM10,90,172.15,161.87,331.52,72,80.00
+site_5700,"Raja Ganj, Dholpur - RSPCB",Dholpur,Rajasthan,PM10,85,167.85,156.16,301.74,68,80.00
+site_5345,"Sector-51, Gurugram - HSPCB",Gurugram,Haryana,PM2.5,80,124.74,117.96,233.78,64,80.00
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,Delhi,PM2.5,84,184.71,191.35,394.92,67,79.76
+site_118,"DTU, Delhi - CPCB",Delhi,Delhi,PM10,88,298.08,318.38,520.55,70,79.55
+site_124,"R K Puram, Delhi - DPCC",Delhi,Delhi,PM10,91,281.91,312.72,557.04,72,79.12
+site_1394,"Shrinath Puram, Kota - RSPCB",Kota,Rajasthan,PM10,86,133.47,134.0,201.16,68,79.07
+site_5544,"Gurdeo Nagar, Aurangabad - BSPCB",Aurangabad,Bihar,PM10,66,160.47,148.87,264.31,52,78.79
+site_5123,"Sector-1, Noida - UPPCB",Noida,Uttar Pradesh,PM10,89,167.19,155.42,343.87,70,78.65
+site_5719,"Old City, Sri Ganganagar - RSPCB",Sri Ganganagar,Rajasthan,PM2.5,89,114.72,112.47,214.89,70,78.65
+site_124,"R K Puram, Delhi - DPCC",Delhi,Delhi,PM2.5,88,187.48,201.32,420.81,69,78.41
+site_5060,"Nathu Colony, Ballabgarh - HSPCB",Ballabgarh,Haryana,PM10,88,186.77,194.97,324.84,69,78.41
+site_5083,"Loni, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,PM2.5,83,139.65,121.02,311.38,65,78.31
+site_1391,"RIICO Ind. Area III, Bhiwadi - RSPCB",Bhiwadi,Rajasthan,PM2.5,87,108.21,109.26,194.64,68,78.16
+site_5395,"Lodhi Road, Delhi - IMD",Delhi,Delhi,PM10,41,189.99,209.83,327.73,32,78.05
+site_1550,"New Mandi, Muzaffarnagar - UPPCB",Muzaffarnagar,Uttar Pradesh,PM2.5,91,100.27,102.64,158.49,71,78.02
+site_5715,"Housing Board, Hanumangarh - RSPCB",Hanumangarh,Rajasthan,PM2.5,77,121.16,122.69,239.18,60,77.92
+site_5044,"Municipal Corporation Office, Dharuhera -  HSPCB",Dharuhera,Haryana,PM10,80,186.07,170.64,354.11,62,77.50
+site_5653,"Siltara Phase-II, Raipur - CECB",Raipur,Chhattisgarh,PM10,66,122.35,124.82,161.3,51,77.27
+site_111,"Sector - 62, Noida - IMD",Noida,Uttar Pradesh,PM10,92,277.78,302.29,514.1,71,77.17
+site_5340,"New Industrial Town, Faridabad - HSPCB",Faridabad,Haryana,PM2.5,83,124.27,110.4,241.82,64,77.11
+site_5393,"Chandni Chowk, Delhi - IITM",Delhi,Delhi,PM10,52,253.79,296.02,533.34,40,76.92
+site_5122,"Sector-116, Noida - UPPCB",Noida,Uttar Pradesh,PM10,91,203.97,218.51,369.27,70,76.92
+site_1395,"Indira Colony Vistar, Pali - RSPCB",Pali,Rajasthan,PM10,91,144.53,154.29,209.63,70,76.92
+site_1538,"Ratanpura, Rupnagar - Ambuja Cements",Rupnagar,Punjab,PM10,86,134.75,125.67,213.98,66,76.74
+site_5586,"HIMUDA Complex Phase-1, Baddi - HPPCB",Baddi,Himachal Pradesh,PM10,81,187.4,178.06,349.99,62,76.54
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,Delhi,PM2.5,80,181.1,181.75,373.83,61,76.25
+site_5263,"Samanpura, Patna - BSPCB",Patna,Bihar,PM10,88,284.01,318.43,512.86,67,76.14
+site_297,"Talkatora District Industries Center, Lucknow - CPCB",Lucknow,Uttar Pradesh,PM10,88,178.47,163.1,321.16,67,76.14
+site_5713,"Khatikan Mohalla, Dausa - RSPCB",Dausa,Rajasthan,PM10,90,159.13,166.12,277.47,68,75.56
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,Delhi,PM10,89,265.27,290.92,486.22,67,75.28
+site_5541,"Mayaganj, Bhagalpur - BSPCB",Bhagalpur,Bihar,PM10,89,187.52,203.19,317.66,67,75.28
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,Delhi,PM2.5,92,150.88,149.15,329.74,69,75.00
+site_5485,"Dada Peer, Sasaram - BSPCB",Sasaram,Bihar,PM10,80,139.05,149.59,261.71,60,75.00
+site_5803,"Tondare-Taloja, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM10,68,121.43,120.35,169.39,51,75.00
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,Delhi,PM2.5,87,209.99,223.3,429.08,65,74.71
+site_5490,"Town Hall, Munger - BSPCB",Munger,Bihar,PM10,83,148.35,153.9,236.88,62,74.70
+site_5585,"Sardar Patel Inter College, Baghpat - UPPCB",Baghpat,Uttar Pradesh,PM10,90,168.14,157.01,333.99,67,74.44
+site_147,"MD University, Rohtak - HSPCB",Rohtak,Haryana,PM2.5,90,93.67,91.22,186.48,67,74.44
+site_5850,"Bhoiwada, Dungarpur - RSPCB",Dungarpur,Rajasthan,PM10,86,115.78,115.61,155.9,64,74.42
+site_5344,"Teri Gram, Gurugram - HSPCB",Gurugram,Haryana,PM2.5,86,107.32,103.93,201.3,64,74.42
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,Delhi,PM2.5,85,212.58,234.14,413.29,63,74.12
+site_263,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana,PM2.5,73,142.51,127.6,300.11,54,73.97
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,Delhi,PM10,87,292.54,336.92,544.0,64,73.56
+site_5489,"Dangi Tola, Rajgir - BSPCB",Rajgir,Bihar,PM2.5,68,98.94,103.61,186.94,50,73.53
+site_5344,"Teri Gram, Gurugram - HSPCB",Gurugram,Haryana,PM10,86,169.61,152.15,307.61,63,73.26
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,Maharashtra,PM10,48,117.19,127.53,174.71,35,72.92
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,Delhi,PM10,92,231.58,246.76,457.6,67,72.83
+site_5716,"Sahu Nagar, Sawai Madhopur - RSPCB",Sawai Madhopur,Rajasthan,PM10,84,142.06,150.0,238.16,61,72.62
+site_5723,"Satyawati Vihar, Karauli - RSPCB",Karauli,Rajasthan,PM10,73,162.13,163.56,334.6,53,72.60
+site_5851,"Mudtra Sili, Jalore - RSPCB",Jalore,Rajasthan,PM10,91,143.6,147.78,239.06,66,72.53
+site_5257,"Pallavpuram Phase 2, Meerut - UPPCB",Meerut,Uttar Pradesh,PM10,90,154.6,156.16,286.04,65,72.22
+site_136,"Collectorate, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM10,86,174.31,173.23,320.08,62,72.09
+site_5650,"Paryavaran Parisar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,PM10,86,149.54,165.54,246.04,62,72.09
+site_5123,"Sector-1, Noida - UPPCB",Noida,Uttar Pradesh,PM2.5,89,110.88,98.61,265.85,64,71.91
+site_5041,"Murthal, Sonipat - HSPCB",Sonipat,Haryana,PM10,78,187.07,195.65,378.76,56,71.79
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,Delhi,PM10,85,220.18,225.58,390.39,61,71.76
+site_105,"North Campus, DU, Delhi - IMD",Delhi,Delhi,PM10,92,268.11,280.67,514.85,66,71.74
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,Delhi,PM10,92,237.25,246.99,512.41,66,71.74
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,Delhi,PM2.5,92,194.02,218.04,406.42,66,71.74
+site_5661,"Maharaj Bada, Gwalior - MPPCB",Gwalior,Madhya Pradesh,PM10,91,189.54,205.49,338.09,65,71.43
+site_5551,"Police Line, Saharsa - BSPCB",Saharsa,Bihar,PM10,80,154.96,168.47,287.8,57,71.25
+site_161,"Sector-6, Panchkula - HSPCB ",Panchkula,Haryana,PM2.5,80,75.55,76.08,128.94,57,71.25
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,Delhi,PM10,90,267.87,278.94,558.59,64,71.11
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,Delhi,PM10,90,258.22,267.64,518.9,64,71.11
+site_1560,"Bawana, Delhi - DPCC",Delhi,Delhi,PM2.5,90,187.53,192.6,406.46,64,71.11
+site_117,"ITO, Delhi - CPCB",Delhi,Delhi,PM2.5,90,148.07,165.88,306.6,64,71.11
+site_5457,"IIPHG Lekawada, Gandhinagar - IITM",Gandhinagar,Gujarat,PM10,55,122.39,114.42,178.29,39,70.91
+site_5673,"Tata Township, Bileipada - OSPCB",Bileipada,Odisha,PM10,79,175.13,195.83,284.92,56,70.89
+site_5258,"Ganga Nagar, Meerut - UPPCB",Meerut,Uttar Pradesh,PM2.5,72,81.68,89.93,160.08,51,70.83
+site_5725,"Mansarovar Sector-12, Jaipur - RSPCB",Jaipur,Rajasthan,PM2.5,89,91.92,90.83,172.09,63,70.79
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,Delhi,PM10,92,298.96,332.15,569.11,65,70.65
+site_1542,"Yamunapuram, Bulandshahr - UPPCB",Bulandshahr,Uttar Pradesh,PM10,92,169.11,177.97,287.28,65,70.65
+site_5772,"Sadar Bazar, Jaisalmer - RSPCB",Jaisalmer,Rajasthan,PM10,92,136.1,135.04,204.82,65,70.65
+site_5081,"Sanjay Nagar, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,PM2.5,92,114.49,112.89,239.11,65,70.65
+site_5490,"Town Hall, Munger - BSPCB",Munger,Bihar,PM2.5,85,83.61,84.97,152.88,60,70.59
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,61,66.8,69.3,100.34,43,70.49
+site_146,"Vikas Sadan, Gurugram - HSPCB",Gurugram,Haryana,PM2.5,88,98.25,87.23,184.31,62,70.45
+site_5478,"Gandak Colony, Motihari - BSPCB",Motihari,Bihar,PM10,71,138.81,142.96,265.15,50,70.42
+site_113,"Shadipur, Delhi - CPCB",Delhi,Delhi,PM10,91,306.34,352.41,573.01,64,70.33
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,Delhi,PM10,91,247.64,266.34,470.33,64,70.33
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,Delhi,PM2.5,91,171.29,181.85,402.17,64,70.33
+site_5024,"Alipur, Delhi - DPCC",Delhi,Delhi,PM2.5,91,160.51,164.65,402.67,64,70.33
+site_253,"Punjab Agricultural University, Ludhiana - PPCB",Ludhiana,Punjab,PM10,91,151.59,144.27,272.34,64,70.33
+site_104,"Burari Crossing, Delhi - IMD",Delhi,Delhi,PM10,90,263.96,291.37,505.21,63,70.00
+site_109,"Lodhi Road, Delhi - IMD",Delhi,Delhi,PM10,90,206.85,213.31,448.08,63,70.00
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,Delhi,PM2.5,90,197.23,214.63,432.41,63,70.00
+site_5274,GIDC Nandesari Nandesari Ind.,,,PM10,20,134.72,132.58,207.65,14,70.00
+site_5121,"Knowledge Park - V, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh,PM2.5,90,115.61,114.89,227.36,63,70.00
+site_5114,"Mahape, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM10,83,115.94,126.5,183.43,58,69.88
+site_5041,"Murthal, Sonipat - HSPCB",Sonipat,Haryana,PM2.5,73,90.77,94.12,193.44,51,69.86
+site_5538,"New DM Office, Arrah - BSPCB",Arrah,Bihar,PM10,63,144.12,118.32,247.68,44,69.84
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,Gujarat,PM10,86,119.04,117.3,218.77,60,69.77
+site_5650,"Paryavaran Parisar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,PM2.5,86,75.73,79.88,141.14,60,69.77
+site_5045,"Arya Nagar, Bahadurgarh - HSPCB",Bahadurgarh,Haryana,PM10,89,179.12,186.86,327.28,62,69.66
+site_5771,"New Colony, Bundi - RSPCB",Bundi,Rajasthan,PM10,89,140.55,147.63,224.82,62,69.66
+site_5551,"Police Line, Saharsa - BSPCB",Saharsa,Bihar,PM2.5,79,113.81,110.3,238.48,55,69.62
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,Delhi,PM2.5,92,174.42,172.31,403.04,64,69.57
+site_1426,"Narela, Delhi - DPCC",Delhi,Delhi,PM2.5,92,168.04,179.58,410.45,64,69.57
+site_5694,"Samrat Ashok Udhyan, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM10,92,141.63,143.09,254.79,64,69.57
+site_107,"Pusa, Delhi - DPCC",Delhi,Delhi,PM2.5,92,140.72,142.59,305.09,64,69.57
+site_5720,"Jhalamand, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM10,92,137.86,150.32,220.4,64,69.57
+site_5046,"Gobind Pura, Yamuna Nagar - HSPCB",Yamuna Nagar,Haryana,PM10,82,133.1,145.53,207.07,57,69.51
+site_260,"GVM Corporation, Visakhapatnam - APPCB",Visakhapatnam,Andhra Pradesh,PM10,88,126.55,123.58,216.21,61,69.32
+site_5541,"Mayaganj, Bhagalpur - BSPCB",Bhagalpur,Bihar,PM2.5,88,120.94,106.88,245.88,61,69.32
+site_277,"Lalbagh, Lucknow - CPCB",Lucknow,Uttar Pradesh,PM2.5,88,104.9,110.21,199.9,61,69.32
+site_118,"DTU, Delhi - CPCB",Delhi,Delhi,PM2.5,88,87.15,90.2,165.67,61,69.32
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,Delhi,PM10,91,233.1,261.29,465.76,63,69.23
+site_1431,"Patparganj, Delhi - DPCC",Delhi,Delhi,PM2.5,91,184.91,200.29,416.83,63,69.23
+site_113,"Shadipur, Delhi - CPCB",Delhi,Delhi,PM2.5,91,170.31,195.15,364.85,63,69.23
+site_5940,"Lingraj Mandir, Bhubaneswar - OSPCB",Bhubaneswar,Odisha,PM10,78,144.97,141.3,274.17,54,69.23
+site_5082,"Indirapuram, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,PM2.5,91,103.68,105.27,225.67,63,69.23
+site_5857,"Airport Area, Indore - IMC",Indore,Madhya Pradesh,PM10,13,102.53,110.74,157.27,9,69.23
+site_5457,"IIPHG Lekawada, Gandhinagar - IITM",Gandhinagar,Gujarat,PM2.5,55,67.92,70.99,92.63,38,69.09
+site_5723,"Satyawati Vihar, Karauli - RSPCB",Karauli,Rajasthan,PM2.5,71,87.53,88.46,183.76,49,69.01
+site_5939,"Hakimapada, Angul - OSPCB",Angul,Odisha,PM10,87,152.82,154.71,306.59,60,68.97
+site_5717,"Indra Nagar, Jhunjhunu - RSPCB",Jhunjhunu,Rajasthan,PM10,90,166.68,178.86,288.95,62,68.89
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,Delhi,PM2.5,90,152.48,159.71,360.85,62,68.89
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,Gujarat,PM10,90,127.1,130.62,208.92,62,68.89
+site_5337,"Industrial Area, Hajipur - BSPCB",Hajipur,Bihar,PM10,83,194.17,217.76,351.08,57,68.67
+site_302,Solapur Solapur,Solapur,Maharashtra,PM10,86,112.87,110.41,140.11,59,68.60
+site_5725,"Mansarovar Sector-12, Jaipur - RSPCB",Jaipur,Rajasthan,PM10,89,180.87,200.67,328.5,61,68.54
+site_5045,"Arya Nagar, Bahadurgarh - HSPCB",Bahadurgarh,Haryana,PM2.5,89,106.72,109.61,262.98,61,68.54
+site_5257,"Pallavpuram Phase 2, Meerut - UPPCB",Meerut,Uttar Pradesh,PM2.5,89,90.9,90.03,191.09,61,68.54
+site_108,"Aya Nagar, Delhi - IMD",Delhi,Delhi,PM10,92,234.17,244.31,491.3,63,68.48
+site_107,"Pusa, Delhi - DPCC",Delhi,Delhi,PM10,92,216.78,221.01,434.04,63,68.48
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,Delhi,PM2.5,92,195.45,217.18,427.73,63,68.48
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,Delhi,PM2.5,92,180.78,202.08,440.5,63,68.48
+site_5667,"Deen Dayal Nagar, Gwalior - MPPCB",Gwalior,Madhya Pradesh,PM10,92,179.81,192.31,319.03,63,68.48
+site_5707,"Dhanmandi, Kota - RSPCB",Kota,Rajasthan,PM10,92,140.71,159.7,259.15,63,68.48
+site_5449,Sardar Vallabhbhai Patel Stadium Ahmedabad,,,PM10,92,119.96,129.14,180.08,63,68.48
+site_5044,"Municipal Corporation Office, Dharuhera -  HSPCB",Dharuhera,Haryana,PM2.5,82,90.34,80.28,164.2,56,68.29
+site_5335,"Govt. High School Shikarpur, Patna - BSPCB",Patna,Bihar,PM10,88,164.08,155.24,294.03,60,68.18
+site_5722,"Radhakishan Pura, Sikar - RSPCB",Sikar,Rajasthan,PM10,88,160.89,179.0,275.53,60,68.18
+site_5603,"Kalindi Kunj, Khurja - UPPCB",Khurja,Uttar Pradesh,PM10,88,147.8,112.17,295.6,60,68.18
+site_5474,"NSI Kalyanpur, Kanpur - UPPCB",Kanpur,Uttar Pradesh,PM10,88,128.59,142.68,211.83,60,68.18
+site_5395,"Lodhi Road, Delhi - IMD",Delhi,Delhi,PM2.5,44,97.68,104.67,187.76,30,68.18
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,Delhi,PM2.5,91,169.38,181.01,386.31,62,68.13
+site_104,"Burari Crossing, Delhi - IMD",Delhi,Delhi,PM2.5,91,154.76,165.3,337.13,62,68.13
+site_5792,"Ambazari, Nagpur - MPCB",Nagpur,Maharashtra,PM10,91,112.67,117.38,176.29,62,68.13
+site_5785,"Tarakpur, Ahmednagar - MPCB",Ahmednagar,Maharashtra,PM10,78,121.86,123.09,217.43,53,67.95
+site_5549,"Mariam Nagar, Purnia - BSPCB",Purnia,Bihar,PM2.5,78,77.98,74.59,159.97,53,67.95
+site_5673,"Tata Township, Bileipada - OSPCB",Bileipada,Odisha,PM2.5,81,68.17,77.09,116.2,55,67.90
+site_5702,"Shastri Nagar, Tonk - RSPCB",Tonk,Rajasthan,PM10,84,170.6,184.67,318.21,57,67.86
+site_159,"Collectorate, Gaya - BSPCB",Gaya,Bihar,PM2.5,84,89.18,85.87,174.92,57,67.86
+site_134,"Police Commissionerate, Jaipur - RSPCB",Jaipur,Rajasthan,PM2.5,84,75.54,87.18,119.61,57,67.86
+site_5727,"Sector-2 Murlipura, Jaipur - RSPCB",Jaipur,Rajasthan,PM2.5,87,84.07,85.27,169.23,59,67.82
+site_1563,"Pusa, Delhi - DPCC",Delhi,Delhi,PM2.5,90,158.85,173.29,351.35,61,67.78
+site_5778,"Karni Colony, Nagaur - RSPCB",Nagaur,Rajasthan,PM10,90,157.31,166.88,303.84,61,67.78
+site_5695,"Krishna Nagar, Bharatpur - RSPCB",Bharatpur,Rajasthan,PM10,90,154.73,140.04,324.17,61,67.78
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,Delhi,PM2.5,90,119.19,113.63,280.16,61,67.78
+site_5995,"Trivenidevi Bhalotia College, Asansol - WBPCB",Asansol,West Bengal,PM10,43,181.81,197.55,339.61,29,67.44
+site_5582,"Sector-53, Chandigarh - CPCC",Chandigarh,Chandigarh,PM10,86,177.32,182.04,339.7,58,67.44
+site_5995,"Trivenidevi Bhalotia College, Asansol - WBPCB",Asansol,West Bengal,PM2.5,43,102.75,110.68,217.25,29,67.44
+site_1430,"Rohini, Delhi - DPCC",Delhi,Delhi,PM2.5,89,188.7,202.59,399.35,60,67.42
+site_5543,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",Bhagalpur,Bihar,PM10,89,168.9,175.78,303.5,60,67.42
+site_134,"Police Commissionerate, Jaipur - RSPCB",Jaipur,Rajasthan,PM10,89,161.95,181.12,267.97,60,67.42
+site_5127,"Sector-25, Chandigarh - CPCC",Chandigarh,Chandigarh,PM10,89,150.8,158.66,264.08,60,67.42
+site_5727,"Sector-2 Murlipura, Jaipur - RSPCB",Jaipur,Rajasthan,PM10,89,149.02,163.08,294.14,60,67.42
+DS1010001,US Embassy - New Delhi,New Delhi,Delhi,PM2.5,92,169.25,185.08,312.71,62,67.39
+site_105,"North Campus, DU, Delhi - IMD",Delhi,Delhi,PM2.5,92,160.44,170.4,335.5,62,67.39
+site_5701,"Nayapura, Kota - RSPCB",Kota,Rajasthan,PM10,92,132.57,144.81,238.65,62,67.39
+site_5122,"Sector-116, Noida - UPPCB",Noida,Uttar Pradesh,PM2.5,92,121.73,137.92,238.51,62,67.39
+site_1397,"Ashok Nagar, Udaipur - RSPCB",Udaipur,Rajasthan,PM10,92,118.02,124.99,177.17,62,67.39
+site_5711,"Rati Talai, Banswara - RSPCB",Banswara,Rajasthan,PM10,92,111.65,124.9,179.83,62,67.39
+site_256,"Golden Temple, Amritsar - PPCB",Amritsar,Punjab,PM2.5,92,74.58,70.6,130.6,62,67.39
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,49,61.87,69.37,98.99,33,67.35
+site_5053,"Shastri Nagar, Narnaul - HSPCB",Narnaul,Haryana,PM10,73,113.68,110.83,197.18,49,67.12
+site_5341,"Sector 30, Faridabad - HSPCB",Faridabad,Haryana,PM2.5,79,80.27,77.62,144.41,53,67.09
+site_5336,"DRM Office Danapur, Patna - BSPCB",Patna,Bihar,PM10,82,225.95,249.66,413.04,55,67.07
+site_5109,"Jai Bhim Nagar, Meerut - UPPCB",Meerut,Uttar Pradesh,PM10,88,160.51,148.04,362.41,59,67.05
+site_1394,"Shrinath Puram, Kota - RSPCB",Kota,Rajasthan,PM2.5,88,76.91,79.43,129.47,59,67.05
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,Delhi,PM10,91,245.06,268.27,525.23,61,67.03
+site_5262,"Rajbansi Nagar, Patna - BSPCB",Patna,Bihar,PM10,91,197.19,221.13,392.48,61,67.03
+site_5728,"RIICO Sitapura, Jaipur - RSPCB",Jaipur,Rajasthan,PM10,91,175.81,207.91,310.46,61,67.03
+site_109,"Lodhi Road, Delhi - IMD",Delhi,Delhi,PM2.5,91,130.25,136.57,289.98,61,67.03
+site_5728,"RIICO Sitapura, Jaipur - RSPCB",Jaipur,Rajasthan,PM2.5,91,90.93,104.17,168.85,61,67.03
+site_5127,"Sector-25, Chandigarh - CPCC",Chandigarh,Chandigarh,PM2.5,91,88.62,89.27,172.71,61,67.03
+site_1542,"Yamunapuram, Bulandshahr - UPPCB",Bulandshahr,Uttar Pradesh,PM2.5,91,84.19,93.52,146.27,61,67.03
+site_5712,"Shastri Nagar, Chittorgarh - RSPCB",Chittorgarh,Rajasthan,PM2.5,91,69.75,69.27,116.51,61,67.03
+site_117,"ITO, Delhi - CPCB",Delhi,Delhi,PM10,90,199.72,219.72,420.75,60,66.67
+site_1561,"Mundka, Delhi - DPCC",Delhi,Delhi,PM2.5,90,188.5,200.07,399.0,60,66.67
+site_5023,"Anand Vihar, Hapur - UPPCB",Hapur,Uttar Pradesh,PM10,87,169.07,180.97,360.07,58,66.67
+site_272,"Kendriya Vidyalaya, Lucknow - CPCB",Lucknow,Uttar Pradesh,PM10,90,165.02,148.05,325.14,60,66.67
+site_119,"Sirifort, Delhi - CPCB",Delhi,Delhi,PM2.5,87,164.06,179.72,319.49,58,66.67
+site_5545,"Darshan Nagar, Chhapra - BSPCB",Chhapra,Bihar,PM10,87,153.66,176.66,312.83,58,66.67
+site_108,"Aya Nagar, Delhi - IMD",Delhi,Delhi,PM2.5,90,135.75,129.07,299.29,60,66.67
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,Delhi,PM2.5,87,135.14,148.92,293.32,58,66.67
+site_5263,"Samanpura, Patna - BSPCB",Patna,Bihar,PM2.5,87,127.85,139.41,262.46,58,66.67
+site_5795,"Sneh Nagar, Nanded - MPCB",Nanded,Maharashtra,PM10,78,116.76,132.84,194.54,52,66.67
+site_5336,"DRM Office Danapur, Patna - BSPCB",Patna,Bihar,PM2.5,81,110.9,114.99,234.06,54,66.67
+site_1401,"Suryakiran Bhawan NCL, Singrauli - MPPCB",Singrauli,Madhya Pradesh,PM2.5,81,85.16,93.65,147.68,54,66.67
+site_1408,"Talcher Coalfields,Talcher - OSPCB",Talcher,Odisha,PM2.5,87,85.15,87.82,179.0,58,66.67
+site_5546,"Mirchaibari, Katihar - BSPCB",Katihar,Bihar,PM2.5,69,73.63,72.66,143.36,46,66.67
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,Delhi,PM2.5,92,172.02,190.63,379.82,61,66.30
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,Delhi,PM2.5,92,148.99,162.06,363.66,61,66.30
+site_5784,"Ramdaspeth, Akola - MPCB",Akola,Maharashtra,PM10,92,113.09,130.49,182.3,61,66.30
+site_5370,"Buddha Colony, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,PM2.5,92,110.72,117.57,226.18,61,66.30
+site_5667,"Deen Dayal Nagar, Gwalior - MPPCB",Gwalior,Madhya Pradesh,PM2.5,92,90.14,97.56,173.93,61,66.30
+site_272,"Kendriya Vidyalaya, Lucknow - CPCB",Lucknow,Uttar Pradesh,PM2.5,92,85.39,85.26,177.37,61,66.30
+site_5707,"Dhanmandi, Kota - RSPCB",Kota,Rajasthan,PM2.5,92,84.58,88.83,172.24,61,66.30
+site_5798,"Katrap, Badlapur - MPCB",Badlapur,Maharashtra,PM10,89,133.04,162.63,208.3,59,66.29
+site_5491,"Sector 22, Chandigarh - CPCC",Chandigarh,Chandigarh,PM2.5,89,109.61,102.33,225.68,59,66.29
+site_5023,"Anand Vihar, Hapur - UPPCB",Hapur,Uttar Pradesh,PM2.5,89,94.29,92.2,215.08,59,66.29
+site_5585,"Sardar Patel Inter College, Baghpat - UPPCB",Baghpat,Uttar Pradesh,PM2.5,89,72.72,80.78,138.83,59,66.29
+site_5545,"Darshan Nagar, Chhapra - BSPCB",Chhapra,Bihar,PM2.5,86,86.8,88.65,192.14,57,66.28
+site_1403,"Sector-D Industrial Area, Mandideep - MPPCB",Mandideep,Madhya Pradesh,PM10,83,151.36,166.94,304.15,55,66.27
+site_1541,"Knowledge Park - III, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh,PM2.5,80,110.1,115.68,234.33,53,66.25
+site_5478,"Gandak Colony, Motihari - BSPCB",Motihari,Bihar,PM2.5,71,69.31,76.22,117.41,47,66.20
+site_5553,"Chitragupta Nagar, Siwan - BSPCB",Siwan,Bihar,PM2.5,65,73.67,73.91,125.36,43,66.15
+site_277,"Lalbagh, Lucknow - CPCB",Lucknow,Uttar Pradesh,PM10,91,217.65,239.22,413.22,60,65.93
+site_5370,"Buddha Colony, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,PM10,91,213.48,244.05,431.42,60,65.93
+site_1418,"Asansol Court Area, Asansol - WBPCB",Asansol,West Bengal,PM10,91,143.39,153.98,249.52,60,65.93
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,Delhi,PM2.5,91,138.53,131.29,297.73,60,65.93
+site_111,"Sector - 62, Noida - IMD",Noida,Uttar Pradesh,PM2.5,91,133.79,140.49,301.14,60,65.93
+site_1396,"Shastri Nagar, Jaipur - RSPCB",Jaipur,Rajasthan,PM10,91,126.23,143.41,194.07,60,65.93
+site_5247,"T T Nagar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,PM10,91,122.37,137.5,227.21,60,65.93
+site_1393,"Adarsh Nagar, Jaipur - RSPCB",Jaipur,Rajasthan,PM10,91,105.01,116.61,169.58,60,65.93
+site_5262,"Rajbansi Nagar, Patna - BSPCB",Patna,Bihar,PM2.5,91,87.0,101.95,168.01,60,65.93
+site_1396,"Shastri Nagar, Jaipur - RSPCB",Jaipur,Rajasthan,PM2.5,91,75.18,80.68,126.35,60,65.93
+site_5620,"Kashiram Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM10,88,107.43,116.59,181.43,58,65.91
+site_5060,"Nathu Colony, Ballabgarh - HSPCB",Ballabgarh,Haryana,PM2.5,88,94.89,97.89,168.73,58,65.91
+site_5109,"Jai Bhim Nagar, Meerut - UPPCB",Meerut,Uttar Pradesh,PM2.5,88,91.52,90.49,216.41,58,65.91
+site_5722,"Radhakishan Pura, Sikar - RSPCB",Sikar,Rajasthan,PM2.5,88,79.49,86.23,151.81,58,65.91
+site_5485,"Dada Peer, Sasaram - BSPCB",Sasaram,Bihar,PM2.5,79,69.55,75.48,114.01,52,65.82
+site_5797,"Kasarvadavali, Thane - MPCB",Thane,Maharashtra,PM10,90,123.02,143.97,202.01,59,65.56
+site_5804,"CBD Belapur, Belapur - MPCB",Belapur,Maharashtra,PM10,90,109.11,129.48,187.52,59,65.56
+site_5717,"Indra Nagar, Jhunjhunu - RSPCB",Jhunjhunu,Rajasthan,PM2.5,90,79.98,80.48,173.75,59,65.56
+site_5582,"Sector-53, Chandigarh - CPCC",Chandigarh,Chandigarh,PM2.5,87,115.16,114.98,244.48,57,65.52
+site_5339,"Mini Secretariat, Charkhi Dadri - HSPCB",Charkhi Dadri,Haryana,PM2.5,87,88.04,81.05,184.68,57,65.52
+site_5702,"Shastri Nagar, Tonk - RSPCB",Tonk,Rajasthan,PM2.5,84,71.94,80.94,140.06,55,65.48
+site_5273,"City Center, Gwalior - MPPCB",Gwalior,Madhya Pradesh,PM10,92,136.74,151.24,240.58,60,65.22
+site_5938,"Forest Office, Barbil - OSPCB",Barbil,Odisha,PM10,92,128.48,126.44,239.26,60,65.22
+site_5248,"Chhoti Gwaltoli, Indore - MPPCB",Indore,Madhya Pradesh,PM10,92,128.46,133.44,214.4,60,65.22
+site_5726,"Digari Kalan, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM10,92,123.7,120.35,214.56,60,65.22
+site_5812,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",Ulhasnagar,Maharashtra,PM10,92,120.39,134.46,176.53,60,65.22
+site_5801,"Deopur, Dhule - MPCB",Dhule,Maharashtra,PM10,92,114.6,124.47,183.85,60,65.22
+site_5796,"Mahal, Nagpur - MPCB",Nagpur,Maharashtra,PM10,92,110.77,128.64,183.48,60,65.22
+site_5248,"Chhoti Gwaltoli, Indore - MPPCB",Indore,Madhya Pradesh,PM2.5,92,69.45,75.11,120.16,60,65.22
+site_5812,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",Ulhasnagar,Maharashtra,PM2.5,92,62.89,70.39,104.71,60,65.22
+site_5806,"Bhayandar West, Mira-Bhayandar - MPCB",Mira-Bhayandar,Maharashtra,PM10,89,111.86,136.08,178.5,58,65.17
+site_5724,"Rajlaxmi Nagar, Jhalawar - RSPCB",Jhalawar,Rajasthan,PM10,89,111.76,113.35,179.19,58,65.17
+site_5798,"Katrap, Badlapur - MPCB",Badlapur,Maharashtra,PM2.5,89,61.45,75.37,98.62,58,65.17
+site_5339,"Mini Secretariat, Charkhi Dadri - HSPCB",Charkhi Dadri,Haryana,PM10,86,144.34,134.78,305.6,56,65.12
+site_5258,"Ganga Nagar, Meerut - UPPCB",Meerut,Uttar Pradesh,PM10,86,136.94,142.32,253.07,56,65.12
+site_5763,"Gavalinagar, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,PM10,86,112.76,130.34,201.47,56,65.12
+site_5463,"Shastripuram, Agra - UPPCB",Agra,Uttar Pradesh,PM10,80,110.56,125.49,182.96,52,65.00
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,Gujarat,PM10,91,117.43,125.45,188.87,59,64.84
+site_5765,"Thergaon, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,PM10,91,114.7,144.73,211.7,59,64.84
+site_5765,"Thergaon, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,PM2.5,91,74.54,90.42,143.76,59,64.84
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,Delhi,PM2.5,88,139.96,140.47,306.7,57,64.77
+site_5802,"Mahesh Nagar, Malegaon - MPCB",Malegaon,Maharashtra,PM10,88,133.23,134.17,252.2,57,64.77
+site_5764,"Park Street Wakad, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,PM10,88,118.34,138.36,200.78,57,64.77
+site_5815,"Sanpada, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM10,88,116.89,131.61,224.37,57,64.77
+site_5119,"Sion, Mumbai - MPCB",Mumbai,Maharashtra,PM10,88,110.97,124.25,165.3,57,64.77
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,Maharashtra,PM10,88,107.55,127.57,183.38,57,64.77
+site_5708,"Idgah Hills, Bhopal - MPPCB",Bhopal,Madhya Pradesh,PM10,85,132.43,129.59,237.57,55,64.71
+site_271,"Chauhan Colony, Chandrapur - MPCB",Chandrapur,Maharashtra,PM10,85,109.84,115.58,212.02,55,64.71
+site_292,Karve Road Pune,,,PM10,85,106.71,118.16,167.0,55,64.71
+site_5699,"Subash Chowk, Churu - RSPCB",Churu,Rajasthan,PM10,90,157.03,145.83,309.29,58,64.44
+site_5793,"Ram Nagar, Nagpur - MPCB",Nagpur,Maharashtra,PM10,90,108.13,122.69,182.44,58,64.44
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,Delhi,PM10,87,195.82,205.25,379.2,56,64.37
+site_5939,"Hakimapada, Angul - OSPCB",Angul,Odisha,PM2.5,87,88.6,86.65,190.07,56,64.37
+site_157,"IGSC Planetarium Complex, Patna - BSPCB",Patna,Bihar,PM2.5,87,86.06,76.67,181.27,56,64.37
+site_5048,"Sector-18, Panipat - HSPCB",Panipat,Haryana,PM10,81,151.21,118.06,286.17,52,64.20
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,West Bengal,PM10,92,135.04,157.18,251.73,59,64.13
+site_1416,"Padmapukur, Howrah - WBPCB",Howrah,West Bengal,PM10,92,134.94,150.12,228.4,59,64.13
+site_5941,"CDA Area, Cuttack - OSPCB",Cuttack,Odisha,PM10,92,126.89,122.85,241.3,59,64.13
+site_5250,"Gole Bazar, Katni - MPPCB",Katni,Madhya Pradesh,PM10,92,126.08,126.88,239.02,59,64.13
+site_253,"Punjab Agricultural University, Ludhiana - PPCB",Ludhiana,Punjab,PM2.5,92,78.21,70.19,140.38,59,64.13
+site_5659,"Hathkhoj, Bhilai - CECB",Bhilai,Chhattisgarh,PM10,89,97.46,111.51,169.78,57,64.04
+site_297,"Talkatora District Industries Center, Lucknow - CPCB",Lucknow,Uttar Pradesh,PM2.5,89,93.96,106.33,162.11,57,64.04
+site_5261,"Muradpur, Patna - BSPCB",Patna,Bihar,PM2.5,89,81.36,63.72,156.74,57,64.04
+site_5687,"Fertilizer Township, Rourkela - OSPCB",Rourkela,Odisha,PM10,72,118.63,114.89,195.56,46,63.89
+site_5813,"Gokul Nagar, Bhiwandi - MPCB",Bhiwandi,Maharashtra,PM10,80,138.54,158.99,214.15,51,63.75
+site_1408,"Talcher Coalfields,Talcher - OSPCB",Talcher,Odisha,PM10,88,138.35,141.64,285.02,56,63.64
+site_5790,"Prabhat Colony, Jalgaon - MPCB",Jalgaon,Maharashtra,PM10,88,119.16,120.62,230.12,56,63.64
+site_5553,"Chitragupta Nagar, Siwan - BSPCB",Siwan,Bihar,PM10,66,115.09,114.47,195.93,42,63.64
+site_5270,Vyttila Kochi Kerala,,,PM10,11,111.84,115.42,135.61,7,63.64
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,Maharashtra,PM10,88,105.48,117.4,158.74,56,63.64
+site_5408,"Transport Nagar-Nigdi, Pune - IITM",Pune,Maharashtra,PM10,63,122.97,119.9,231.02,40,63.49
+site_5983,"PCBL Residential Complex, Durgapur - WBPCB",Durgapur,West Bengal,PM10,60,161.76,112.74,338.89,38,63.33
+site_5763,"Gavalinagar, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,PM2.5,87,64.62,78.07,115.92,55,63.22
+site_5274,GIDC Nandesari Nandesari Ind.,,,PM2.5,19,70.8,79.53,102.2,12,63.16
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,West Bengal,PM10,92,133.69,146.54,221.52,58,63.04
+site_5696,"MM Ground, Bikaner - RSPCB",Bikaner,Rajasthan,PM2.5,92,90.13,84.54,183.0,58,63.04
+site_1418,"Asansol Court Area, Asansol - WBPCB",Asansol,West Bengal,PM2.5,92,83.03,83.2,146.38,58,63.04
+site_1416,"Padmapukur, Howrah - WBPCB",Howrah,West Bengal,PM2.5,92,78.74,89.33,151.61,58,63.04
+site_5701,"Nayapura, Kota - RSPCB",Kota,Rajasthan,PM2.5,92,77.47,81.32,147.12,58,63.04
+site_153,"Sector - 125, Noida - UPPCB",Noida,Uttar Pradesh,PM10,81,155.08,180.15,310.39,51,62.96
+site_5472,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",Gorakhpur,Uttar Pradesh,PM10,81,123.77,122.22,220.61,51,62.96
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,Maharashtra,PM10,91,122.2,135.98,221.49,57,62.64
+site_5273,"City Center, Gwalior - MPPCB",Gwalior,Madhya Pradesh,PM2.5,91,74.34,77.46,160.54,57,62.64
+site_158,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,PM2.5,91,74.08,83.71,132.53,57,62.64
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,Gujarat,PM2.5,91,69.8,69.2,129.52,57,62.64
+site_5775,"Bamboliya, Baran - RSPCB",Baran,Rajasthan,PM10,88,112.18,118.44,192.42,55,62.50
+site_5799,"Sector-2E Kalamboli, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM10,85,116.36,115.52,211.35,53,62.35
+site_5500,"FTI Kidwai Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,PM10,85,110.57,121.68,207.17,53,62.35
+site_5940,"Lingraj Mandir, Bhubaneswar - OSPCB",Bhubaneswar,Odisha,PM2.5,77,81.33,78.69,160.17,48,62.34
+site_5047,"H.B. Colony, Bhiwani - HSPCB",Bhiwani,Haryana,PM10,90,147.45,125.6,315.91,56,62.22
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,West Bengal,PM10,90,131.48,141.8,243.78,56,62.22
+site_5042,"Shasthri Nagar, Ratlam - IPCA Lab",Ratlam,Madhya Pradesh,PM10,90,127.16,140.49,220.07,56,62.22
+site_5418,Naubad Bidar,,,PM10,45,101.5,103.64,163.33,28,62.22
+site_5661,"Maharaj Bada, Gwalior - MPPCB",Gwalior,Madhya Pradesh,PM2.5,90,74.24,84.91,147.2,56,62.22
+site_5552,"DM Office_Kasipur, Samastipur - BSPCB",Samastipur,Bihar,PM10,82,121.31,111.23,231.95,51,62.20
+site_5039,"Sector-2 IMT, Manesar - HSPCB",Manesar,Haryana,PM2.5,87,78.41,75.94,153.29,54,62.07
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,West Bengal,PM10,92,130.12,151.27,240.7,57,61.96
+site_5056,"Police Lines, Jind - HSPCB",Jind,Haryana,PM10,84,153.2,132.69,340.37,52,61.90
+site_5118,"Khadakpada, Kalyan - MPCB",Kalyan,Maharashtra,PM10,84,101.94,120.41,155.56,52,61.90
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,West Bengal,PM10,89,121.37,135.73,222.5,55,61.80
+site_5484,"Nagar Nigam, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,PM10,89,102.55,117.95,163.5,55,61.80
+site_5048,"Sector-18, Panipat - HSPCB",Panipat,Haryana,PM2.5,81,73.72,67.81,144.26,50,61.73
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,Maharashtra,PM10,86,110.11,131.45,184.62,53,61.63
+site_1549,"Hardev Nagar, Bathinda - PPCB",Bathinda,Punjab,PM10,65,123.58,116.1,224.52,40,61.54
+site_5461,"Jhunsi, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,PM10,91,98.65,113.56,160.58,56,61.54
+site_5047,"H.B. Colony, Bhiwani - HSPCB",Bhiwani,Haryana,PM2.5,91,82.29,78.02,185.01,56,61.54
+site_5699,"Subash Chowk, Churu - RSPCB",Churu,Rajasthan,PM2.5,91,77.36,79.15,145.79,56,61.54
+site_5552,"DM Office_Kasipur, Samastipur - BSPCB",Samastipur,Bihar,PM2.5,83,73.64,72.74,139.6,51,61.45
+site_5465,"Sector-3B Avas Vikas Colony, Agra - UPPCB",Agra,Uttar Pradesh,PM10,88,108.98,123.08,194.4,54,61.36
+site_5943,"Patia, Bhubaneswar - OSPCB",Bhubaneswar,Odisha,PM10,90,120.24,114.91,220.06,55,61.11
+site_5770,"Pratap Nagar, Bhilwara - RSPCB",Bhilwara,Rajasthan,PM10,90,113.97,120.69,187.33,55,61.11
+DS1010003,US Embassy - Kolkata,Kolkata,West Bengal,PM2.5,90,107.4,111.92,231.75,55,61.11
+site_5103,"Nerul, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM10,90,104.99,120.33,176.46,55,61.11
+site_5337,"Industrial Area, Hajipur - BSPCB",Hajipur,Bihar,PM2.5,82,94.17,75.07,240.38,50,60.98
+site_5039,"Sector-2 IMT, Manesar - HSPCB",Manesar,Haryana,PM10,87,137.46,125.83,281.42,53,60.92
+site_5805,"Kopripada-Vashi, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM10,87,109.98,117.15,188.34,53,60.92
+site_5937,"Kalidaspur, Balasore - OSPCB",Balasore,Odisha,PM10,92,139.3,137.82,270.84,56,60.87
+site_5043,"Sector-7, Kurukshetra - HSPCB",Kurukshetra,Haryana,PM10,89,137.86,128.66,277.26,54,60.67
+site_5808,"Bolinj, Virar - MPCB",Virar,Maharashtra,PM10,89,110.96,121.29,171.17,54,60.67
+site_5816,"Suhagi, Jabalpur - JMC",Jabalpur,Madhya Pradesh,PM10,89,110.54,125.84,214.58,54,60.67
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,Maharashtra,PM10,89,104.95,115.49,176.94,54,60.67
+site_5043,"Sector-7, Kurukshetra - HSPCB",Kurukshetra,Haryana,PM2.5,89,72.57,85.48,129.43,54,60.67
+site_5071,"Phase-1 GIDC, Vapi - GPCB",Vapi,Gujarat,PM2.5,89,61.47,67.63,119.04,54,60.67
+site_5794,"Masoom Colony, Parbhani - MPCB",Parbhani,Maharashtra,PM2.5,61,69.56,65.88,123.5,37,60.66
+site_276,"Nehru Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,PM2.5,91,71.28,72.15,134.65,55,60.44
+site_5792,"Ambazari, Nagpur - MPCB",Nagpur,Maharashtra,PM2.5,91,58.47,65.97,103.74,55,60.44
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,Gujarat,PM10,58,110.59,105.22,162.08,35,60.34
+site_5675,"Raghunathpali, Rourkela - OSPCB",Rourkela,Odisha,PM10,83,115.23,128.23,194.03,50,60.24
+site_5101,"Belur Math, Howrah - WBPCB",Howrah,West Bengal,PM10,88,123.21,131.83,252.83,53,60.23
+site_5791,"Old MIDC, Jalna - MPCB",Jalna,Maharashtra,PM10,88,122.59,125.15,203.91,53,60.23
+site_5556,"Eco Herbal Park, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM2.5,88,64.18,68.08,117.7,53,60.23
+site_5781,"MIDC Ambad, Nashik - MPCB",Nashik,Maharashtra,PM10,85,117.28,129.34,214.44,51,60.00
+site_5937,"Kalidaspur, Balasore - OSPCB",Balasore,Odisha,PM2.5,90,84.75,73.03,174.14,54,60.00
+site_5591,Manipur University Imphal Manipur,,,PM2.5,25,67.06,66.99,111.4,15,60.00
+site_303,"Opp GPO Civil Lines, Nagpur - MPCB",Nagpur,Maharashtra,PM10,92,103.19,121.15,170.36,55,59.78
+site_5449,Sardar Vallabhbhai Patel Stadium Ahmedabad,,,PM2.5,92,60.18,62.93,90.76,55,59.78
+site_136,"Collectorate, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM2.5,87,78.51,74.07,177.16,52,59.77
+site_5046,"Gobind Pura, Yamuna Nagar - HSPCB",Yamuna Nagar,Haryana,PM2.5,82,67.76,73.89,104.7,49,59.76
+site_153,"Sector - 125, Noida - UPPCB",Noida,Uttar Pradesh,PM2.5,77,97.0,94.23,214.24,46,59.74
+site_5543,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",Bhagalpur,Bihar,PM2.5,89,108.33,87.6,236.95,53,59.55
+site_5586,"HIMUDA Complex Phase-1, Baddi - HPPCB",Baddi,Himachal Pradesh,PM2.5,89,101.53,81.64,222.38,53,59.55
+site_5963,"Sewri, Mumbai - BMC",Mumbai,Maharashtra,PM10,89,100.86,115.51,179.33,53,59.55
+site_5249,"Marhatal, Jabalpur - MPPCB",Jabalpur,Madhya Pradesh,PM2.5,89,66.86,72.14,133.22,53,59.55
+site_5670,"Meher Colony, Baripada - OSPCB",Baripada,Odisha,PM10,84,110.2,112.22,200.11,50,59.52
+site_307,"Sanjay Palace, Agra - UPPCB",Agra,Uttar Pradesh,PM10,84,109.98,114.5,203.82,50,59.52
+site_5779,"Pandav Nagari, Nashik - MPCB",Nashik,Maharashtra,PM10,91,98.62,114.46,173.61,54,59.34
+site_5767,Savitribai Phule Pune University Pune,,,PM10,86,110.11,128.46,171.57,51,59.30
+site_5676,OMC Colony Suakati,,,PM10,86,104.61,110.92,204.8,51,59.30
+site_5769,"Sinchan Bhavan, Kolhapur - MPCB",Kolhapur,Maharashtra,PM10,81,107.9,110.65,190.04,48,59.26
+site_5813,"Gokul Nagar, Bhiwandi - MPCB",Bhiwandi,Maharashtra,PM2.5,81,63.04,74.98,101.66,48,59.26
+site_5809,"Khaira, Boisar - MPCB",Boisar,Maharashtra,PM10,76,111.37,124.85,191.72,45,59.21
+site_5554,"Buddhi Vihar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM10,88,102.98,111.08,176.32,52,59.09
+site_5587,"Bardowali, Agartala - Tripura SPCB",Agartala,Tripura,PM10,83,140.08,141.21,290.34,49,59.04
+site_5112,"Powai, Mumbai - MPCB",Mumbai,Maharashtra,PM10,83,93.75,109.31,158.19,49,59.04
+site_5549,"Mariam Nagar, Purnia - BSPCB",Purnia,Bihar,PM10,78,131.77,121.8,273.1,46,58.97
+site_1438,"Civil Line, Jalandhar - PPCB",Jalandhar,Punjab,PM10,90,131.85,118.68,246.56,53,58.89
+DS1010004,US Embassy - Mumbai,Mumbai,Maharashtra,PM2.5,90,56.44,64.19,110.04,53,58.89
+site_5056,"Police Lines, Jind - HSPCB",Jind,Haryana,PM2.5,85,81.02,79.66,195.96,50,58.82
+site_5850,"Bhoiwada, Dungarpur - RSPCB",Dungarpur,Rajasthan,PM2.5,85,63.84,64.26,93.18,50,58.82
+site_293,Alandur Bus Depot Chennai,,,PM10,92,124.26,109.0,270.4,54,58.70
+site_5768,"Shivaji University, Kolhapur - MPCB",Kolhapur,Maharashtra,PM10,89,113.23,110.28,227.29,52,58.43
+site_5249,"Marhatal, Jabalpur - MPPCB",Jabalpur,Madhya Pradesh,PM10,88,114.37,118.76,209.66,51,57.95
+site_5764,"Park Street Wakad, Pimpri Chinchwad - MPCB",Pimpri-Chinchwad,Maharashtra,PM2.5,88,56.05,64.43,105.0,51,57.95
+site_5587,"Bardowali, Agartala - Tripura SPCB",Agartala,Tripura,PM2.5,85,72.69,70.73,149.88,49,57.65
+site_5796,"Mahal, Nagpur - MPCB",Nagpur,Maharashtra,PM2.5,92,60.09,72.93,106.09,53,57.61
+site_5675,"Raghunathpali, Rourkela - OSPCB",Rourkela,Odisha,PM2.5,82,64.99,74.7,117.3,47,57.32
+site_5362,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",Gummidipoondi,TamilNadu,PM2.5,89,73.08,64.56,123.49,51,57.30
+site_5396,"Deonar, Mumbai - IITM",Mumbai,Maharashtra,PM10,56,129.7,139.5,278.1,32,57.14
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,Maharashtra,PM10,84,110.56,118.57,193.09,48,57.14
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,West Bengal,PM10,91,108.49,125.2,205.33,52,57.14
+site_1393,"Adarsh Nagar, Jaipur - RSPCB",Jaipur,Rajasthan,PM2.5,91,61.66,66.54,107.96,52,57.14
+site_5690,"OP Jindal School, Kunjemura - CECB",Kunjemura,Chhattisgarh,PM10,88,116.66,117.61,249.36,50,56.82
+site_5057,"Urban Estate-II, Hisar - HSPCB",Hisar,Haryana,PM10,81,128.05,112.26,247.24,46,56.79
+site_5800,"Upvan Fort, Thane - MPCB",Thane,Maharashtra,PM10,90,99.04,114.67,192.44,51,56.67
+site_1438,"Civil Line, Jalandhar - PPCB",Jalandhar,Punjab,PM2.5,90,65.92,68.02,111.18,51,56.67
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,Maharashtra,PM10,83,103.07,116.12,177.81,47,56.63
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,West Bengal,PM2.5,92,73.5,89.39,139.82,52,56.52
+site_5700,"Raja Ganj, Dholpur - RSPCB",Dholpur,Rajasthan,PM2.5,85,92.46,76.5,202.24,48,56.47
+site_5777,"Dnyaneshwar Nagar, Solapur - MPCB",Solapur,Maharashtra,PM10,78,98.68,114.26,167.52,44,56.41
+site_5396,"Deonar, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,55,60.23,71.45,128.38,31,56.36
+site_5072,"Rishi Nagar, Kaithal - HSPCB",Kaithal,Haryana,PM10,87,127.0,118.65,230.57,49,56.32
+site_5537,"Employment Office, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM10,87,106.73,110.97,188.54,49,56.32
+site_5959,"SVSPA Campus, Barrackpore - WBPCB",Barrackpore,West Bengal,PM10,80,132.01,139.14,249.2,45,56.25
+site_5073,"Railway Colony, Guwahati - PCBA",Guwahati,Assam,PM10,89,123.23,113.0,286.05,50,56.18
+site_1450,"Kalal Majra, Khanna - PPCB",Khanna,Punjab,PM10,89,114.44,109.18,200.64,50,56.18
+site_5943,"Patia, Bhubaneswar - OSPCB",Bhubaneswar,Odisha,PM2.5,89,66.23,66.42,137.71,50,56.18
+site_307,"Sanjay Palace, Agra - UPPCB",Agra,Uttar Pradesh,PM2.5,73,64.28,62.63,107.4,41,56.16
+site_1404,"Bhopal Chauraha, Dewas - MPPCB",Dewas,Madhya Pradesh,PM10,82,105.16,110.13,173.72,46,56.10
+site_276,"Nehru Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,PM10,91,105.45,104.57,197.21,51,56.04
+site_5101,"Belur Math, Howrah - WBPCB",Howrah,West Bengal,PM2.5,91,62.57,74.8,120.23,51,56.04
+site_5247,"T T Nagar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,PM2.5,91,60.82,65.44,128.91,51,56.04
+site_5546,"Mirchaibari, Katihar - BSPCB",Katihar,Bihar,PM10,75,136.63,133.96,284.5,42,56.00
+site_5115,Worli Mumbai,Mumbai,Maharashtra,PM10,70,91.49,111.6,162.19,39,55.71
+site_5057,"Urban Estate-II, Hisar - HSPCB",Hisar,Haryana,PM2.5,81,75.39,71.54,149.89,45,55.56
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,Gujarat,PM2.5,90,62.02,64.04,101.86,50,55.56
+site_5721,"Pragati Nagar, Pratapgarh - RSPCB",Pratapgarh,Rajasthan,PM10,92,95.52,103.31,165.12,51,55.43
+site_5776,"Ratandeep Housing Society, Solapur - MPCB",Solapur,Maharashtra,PM10,92,91.77,106.81,145.4,51,55.43
+site_5941,"CDA Area, Cuttack - OSPCB",Cuttack,Odisha,PM2.5,92,70.79,65.92,159.36,51,55.43
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,West Bengal,PM2.5,92,66.35,73.38,124.62,51,55.43
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,West Bengal,PM2.5,92,65.24,73.54,131.67,51,55.43
+site_303,"Opp GPO Civil Lines, Nagpur - MPCB",Nagpur,Maharashtra,PM2.5,92,58.78,65.19,102.89,51,55.43
+site_5417,"Pan Bazaar, Guwahati - PCBA",Guwahati,Assam,PM10,56,134.18,159.67,273.86,31,55.36
+site_5942,"Ferro Chrome Colony, Byasanagar - OSPCB",Byasanagar,Odisha,PM2.5,85,66.02,74.21,125.02,47,55.29
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,76,91.61,106.74,144.86,42,55.26
+site_5583,"Shivaji Nagar, Jhansi - UPPCB",Jhansi,Uttar Pradesh,PM10,87,104.51,110.29,177.41,48,55.17
+site_5072,"Rishi Nagar, Kaithal - HSPCB",Kaithal,Haryana,PM2.5,87,74.45,68.53,149.25,48,55.17
+site_5550,"Forest Rest House, Manguraha - BSPCB",Manguraha,Bihar,PM10,49,95.11,102.17,151.35,27,55.10
+site_5054,"Huda Sector, Fatehabad - HSPCB",Fatehabad,Haryana,PM2.5,69,62.61,63.6,133.84,38,55.07
+site_1402,"Sector-2 Industrial Area, Pithampur - MPPCB",Pithampur,Madhya Pradesh,PM10,91,107.25,111.71,189.17,50,54.95
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,West Bengal,PM2.5,91,59.83,65.87,110.87,50,54.95
+site_5052,Patti Mehar Ambala,,,PM10,82,100.7,101.34,167.47,45,54.88
+site_5682,"Thimmalapura, Tumakuru - KSPCB",Tumakuru,Karnataka,PM10,68,109.62,102.21,171.57,37,54.41
+site_1437,"Model Town, Patiala - PPCB",Patiala,Punjab,PM10,92,118.66,111.35,225.8,50,54.35
+site_5714,"Railway Colony, Barmer - RSPCB",Barmer,Rajasthan,PM10,92,104.07,105.46,165.04,50,54.35
+site_1390,"Moti Doongri, Alwar - RSPCB",Alwar,Rajasthan,PM10,92,100.54,103.91,140.41,50,54.35
+site_5938,"Forest Office, Barbil - OSPCB",Barbil,Odisha,PM2.5,92,57.42,64.43,118.19,50,54.35
+site_300,"Priyambada Housing Estate, Haldia - WBPCB",Haldia,West Bengal,PM10,83,105.11,115.35,198.37,45,54.22
+site_5452,"Raikhad, Ahmedabad - IITM",Ahmedabad,Gujarat,PM10,85,105.06,108.91,175.74,46,54.12
+site_5809,"Khaira, Boisar - MPCB",Boisar,Maharashtra,PM2.5,76,59.74,62.69,115.92,41,53.95
+site_5362,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",Gummidipoondi,TamilNadu,PM10,91,112.59,102.01,180.97,49,53.85
+site_5959,"SVSPA Campus, Barrackpore - WBPCB",Barrackpore,West Bengal,PM2.5,80,72.04,74.45,137.62,43,53.75
+site_5620,"Kashiram Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM2.5,86,60.54,62.45,97.8,46,53.49
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,Maharashtra,PM10,90,96.13,104.62,200.05,48,53.33
+site_5771,"New Colony, Bundi - RSPCB",Bundi,Rajasthan,PM2.5,90,65.06,61.68,120.49,48,53.33
+site_5942,"Ferro Chrome Colony, Byasanagar - OSPCB",Byasanagar,Odisha,PM10,92,103.75,102.22,208.35,49,53.26
+site_5773,"Mandor, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM10,92,97.31,100.28,164.22,49,53.26
+site_1392,"Civil Lines,  Ajmer - RSPCB",Ajmer,Rajasthan,PM10,92,95.52,102.85,135.46,49,53.26
+site_293,Alandur Bus Depot Chennai,,,PM2.5,92,70.94,62.21,154.89,49,53.26
+site_1437,"Model Town, Patiala - PPCB",Patiala,Punjab,PM2.5,92,62.44,62.77,109.63,49,53.26
+site_5801,"Deopur, Dhule - MPCB",Dhule,Maharashtra,PM2.5,92,58.17,62.5,104.94,49,53.26
+site_5708,"Idgah Hills, Bhopal - MPPCB",Bhopal,Madhya Pradesh,PM2.5,79,64.27,64.77,132.65,42,53.16
+site_5774,"Vijay Nagar, Sangli - MPCB",Sangli,Maharashtra,PM10,85,86.51,102.65,139.84,45,52.94
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,Gujarat,PM10,89,100.99,101.28,148.34,47,52.81
+site_5073,"Railway Colony, Guwahati - PCBA",Guwahati,Assam,PM2.5,89,75.65,61.91,183.16,47,52.81
+site_5816,"Suhagi, Jabalpur - JMC",Jabalpur,Madhya Pradesh,PM2.5,89,59.26,66.56,126.31,47,52.81
+site_1395,"Indira Colony Vistar, Pali - RSPCB",Pali,Rajasthan,PM2.5,91,67.93,66.1,110.37,48,52.75
+site_5402,"Malad West, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,82,56.28,63.24,110.88,43,52.44
+site_1400,Mahakaleshwar Temple Ujjain,,,PM10,84,109.72,100.19,188.51,44,52.38
+site_1400,Mahakaleshwar Temple Ujjain,,,PM2.5,84,62.04,60.51,112.61,44,52.38
+site_5460,"B R Ambedkar University, Lucknow - UPPCB",Lucknow,Uttar Pradesh,PM10,90,107.33,105.8,183.26,47,52.22
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,West Bengal,PM2.5,90,63.41,60.93,131.44,47,52.22
+site_5724,"Rajlaxmi Nagar, Jhalawar - RSPCB",Jhalawar,Rajasthan,PM2.5,90,63.08,62.2,122.24,47,52.22
+site_5793,"Ram Nagar, Nagpur - MPCB",Nagpur,Maharashtra,PM2.5,92,57.83,63.26,105.16,48,52.17
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,54,99.83,102.84,174.42,28,51.85
+site_5065,"GIDC, Ankleshwar - GPCB",Ankleshwar,Gujarat,PM2.5,85,53.49,61.05,89.44,44,51.76
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,Maharashtra,PM10,87,99.44,102.98,163.77,45,51.72
+site_1538,"Ratanpura, Rupnagar - Ambuja Cements",Rupnagar,Punjab,PM2.5,87,64.78,60.95,120.29,45,51.72
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,Gujarat,PM10,89,102.67,103.14,207.44,46,51.69
+site_5770,"Pratap Nagar, Bhilwara - RSPCB",Bhilwara,Rajasthan,PM2.5,91,58.79,61.26,101.66,47,51.65
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,91,54.83,62.2,100.62,47,51.65
+site_5608,Mendonsa Colony Dindigul,,,PM10,31,102.77,100.81,173.4,16,51.61
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,74,100.51,100.19,178.73,38,51.35
+site_5102,"Malad West, Mumbai - IITM",Mumbai,Maharashtra,PM10,80,110.83,100.51,197.09,41,51.25
+site_5662,"Civil Lines, Sagar - MPPCB",Sagar,Madhya Pradesh,PM10,82,105.28,100.47,216.25,42,51.22
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,88,53.61,60.28,105.35,45,51.14
+site_5983,"PCBL Residential Complex, Durgapur - WBPCB",Durgapur,West Bengal,PM2.5,59,86.44,60.19,201.6,30,50.85
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,Maharashtra,PM10,77,91.51,101.7,156.17,39,50.65
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,Maharashtra,PM10,79,99.93,101.34,141.55,40,50.63
+site_5791,"Old MIDC, Jalna - MPCB",Jalna,Maharashtra,PM2.5,85,60.11,60.09,95.47,43,50.59
+site_5805,"Kopripada-Vashi, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM2.5,85,52.97,62.07,102.76,43,50.59
+site_5786,"Shivneri Colony, Amravati - MPCB",Amravati,Maharashtra,PM10,87,93.14,101.48,149.04,44,50.57
+site_5775,"Bamboliya, Baran - RSPCB",Baran,Rajasthan,PM2.5,87,56.92,60.09,106.67,44,50.57
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,West Bengal,PM10,91,89.41,102.8,161.24,46,50.55
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,West Bengal,PM2.5,91,56.81,61.8,111.94,46,50.55
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,West Bengal,PM2.5,91,55.36,61.03,110.27,46,50.55
+site_5779,"Pandav Nagari, Nashik - MPCB",Nashik,Maharashtra,PM2.5,91,54.11,60.03,108.49,46,50.55
+site_5483,"Omex Eternity, Vrindavan - UPPCB",Vrindavan,Uttar Pradesh,PM10,86,113.25,96.84,193.58,43,50.00
+site_5067,"Phase-4 GIDC, Vatva - GPCB",Vatva,Gujarat,PM10,76,100.61,99.41,156.43,38,50.00
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,Maharashtra,PM10,78,98.48,95.48,176.18,39,50.00
+site_5677,"Barsua Iron Ore Mines, Tensa - OSPCB",Tensa,Odisha,PM10,76,96.48,99.24,157.52,38,50.00
+site_5780,"Sawe Wadi, Latur - MPCB",Latur,Maharashtra,PM10,88,88.04,99.22,145.8,44,50.00
+site_5982,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",Bhiwadi,Rajasthan,PM2.5,58,80.37,53.36,222.99,29,50.00
+site_5594,"Doon University, Dehradun - UKPCB",Dehradun,Uttarakhand,PM2.5,90,66.83,59.9,142.49,45,50.00
+site_5460,"B R Ambedkar University, Lucknow - UPPCB",Lucknow,Uttar Pradesh,PM2.5,88,60.74,59.62,106.74,44,50.00
+site_5767,Savitribai Phule Pune University Pune,,,PM2.5,86,58.17,58.98,113.22,43,50.00
+site_5704,"Govt. Girls Inter College, Kashipur - UKPCB",Kashipur,Uttarakhand,PM2.5,86,58.14,59.28,101.44,43,50.00
+DS1010005,US Embassy - Hyderabad,Hyderabad,Telangana,PM2.5,80,57.29,59.08,112.38,40,50.00
+site_5676,OMC Colony Suakati,,,PM2.5,88,55.15,58.39,102.81,44,50.00
+site_5462,"Kukrail Picnic Spot-1, Lucknow - UPPCB",Lucknow,Uttar Pradesh,PM10,91,89.77,97.42,150.26,45,49.45
+site_5556,"Eco Herbal Park, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM10,89,94.28,99.01,157.4,44,49.44
+site_300,"Priyambada Housing Estate, Haldia - WBPCB",Haldia,West Bengal,PM2.5,89,52.94,59.63,109.27,44,49.44
+site_5780,"Sawe Wadi, Latur - MPCB",Latur,Maharashtra,PM2.5,89,49.99,59.62,88.27,44,49.44
+site_5788,"MIDC Chilkalthana, Aurangabad - MPCB",Aurangabad,Maharashtra,PM10,87,97.35,98.16,173.82,43,49.43
+site_260,"GVM Corporation, Visakhapatnam - APPCB",Visakhapatnam,Andhra Pradesh,PM2.5,85,62.7,58.7,132.51,42,49.41
+site_5652,"AIIMS, Raipur - CECB",Raipur,Chhattisgarh,PM10,83,86.02,98.95,141.73,41,49.40
+site_1403,"Sector-D Industrial Area, Mandideep - MPPCB",Mandideep,Madhya Pradesh,PM2.5,81,70.06,59.57,178.18,40,49.38
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,Maharashtra,PM10,61,91.14,76.12,172.14,30,49.18
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,Maharashtra,PM2.5,61,48.94,19.28,100.98,30,49.18
+site_5071,"Phase-1 GIDC, Vapi - GPCB",Vapi,Gujarat,PM10,59,118.35,73.49,229.7,29,49.15
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,55,43.89,59.17,79.59,27,49.09
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,92,71.38,58.41,167.12,45,48.91
+site_5049,"Sector-12, Karnal - HSPCB",Karnal,Haryana,PM10,90,103.08,93.03,200.18,44,48.89
+site_5335,"Govt. High School Shikarpur, Patna - BSPCB",Patna,Bihar,PM2.5,88,66.04,56.17,135.83,43,48.86
+site_5613,"Transport Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM2.5,88,51.95,58.34,87.21,43,48.86
+site_5401,Sector-19A Nerul Navi Mumbai,,,PM10,64,118.86,84.74,290.6,31,48.44
+site_5683,"LGBI Airport, Guwahati - PCBA",Guwahati,Assam,PM10,91,119.93,95.88,258.66,44,48.35
+site_5778,"Karni Colony, Nagaur - RSPCB",Nagaur,Rajasthan,PM2.5,91,58.13,59.44,112.12,44,48.35
+site_1397,"Ashok Nagar, Udaipur - RSPCB",Udaipur,Rajasthan,PM2.5,91,56.13,57.42,91.92,44,48.35
+site_5711,"Rati Talai, Banswara - RSPCB",Banswara,Rajasthan,PM2.5,91,52.44,58.73,89.22,44,48.35
+site_5986,"Mahabir Colliery, Asansol - WBPCB",Asansol,West Bengal,PM10,60,104.04,81.72,202.62,29,48.33
+site_5963,"Sewri, Mumbai - BMC",Mumbai,Maharashtra,PM2.5,89,51.88,58.99,105.49,43,48.31
+site_271,"Chauhan Colony, Chandrapur - MPCB",Chandrapur,Maharashtra,PM2.5,85,53.77,56.27,97.45,41,48.24
+site_5985,"Evelyn Lodge, Asansol - WBPCB",Asansol,West Bengal,PM2.5,56,64.47,43.94,154.24,27,48.21
+site_5501,"Shahjahan Garden, Agra - UPPCB",Agra,Uttar Pradesh,PM10,81,94.46,97.01,164.63,39,48.15
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,Maharashtra,PM10,81,90.6,99.19,158.22,39,48.15
+site_5674,"Dabuna, Nayagarh - OSPCB",Nayagarh,Odisha,PM10,79,94.39,96.38,190.06,38,48.10
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,Maharashtra,PM2.5,73,50.3,49.29,125.71,35,47.95
+site_1402,"Sector-2 Industrial Area, Pithampur - MPPCB",Pithampur,Madhya Pradesh,PM2.5,92,55.85,58.84,101.72,44,47.83
+site_5797,"Kasarvadavali, Thane - MPCB",Thane,Maharashtra,PM2.5,90,52.6,51.39,98.25,43,47.78
+site_5405,Alandi Pune,,,PM10,80,103.98,94.25,194.66,38,47.50
+site_5052,Patti Mehar Ambala,,,PM2.5,80,60.78,59.31,99.08,38,47.50
+site_5683,"LGBI Airport, Guwahati - PCBA",Guwahati,Assam,PM2.5,91,71.48,58.0,151.18,43,47.25
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,Gujarat,PM2.5,89,54.88,58.89,87.01,42,47.19
+site_5799,"Sector-2E Kalamboli, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM2.5,85,56.01,58.18,95.98,40,47.06
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,Maharashtra,PM2.5,83,52.8,57.52,87.47,39,46.99
+site_5594,"Doon University, Dehradun - UKPCB",Dehradun,Uttarakhand,PM10,90,94.38,84.6,178.96,42,46.67
+site_1447,Deshpande Nagar Hubballi,,,PM10,43,93.51,94.8,114.64,20,46.51
+site_5695,"Krishna Nagar, Bharatpur - RSPCB",Bharatpur,Rajasthan,PM2.5,82,59.41,55.4,157.74,38,46.34
+site_5050,"Shyam Nagar, Palwal - HSPCB",Palwal,Haryana,PM10,87,105.43,97.81,188.39,40,45.98
+site_5704,"Govt. Girls Inter College, Kashipur - UKPCB",Kashipur,Uttarakhand,PM10,87,98.45,97.6,167.9,40,45.98
+site_1404,"Bhopal Chauraha, Dewas - MPPCB",Dewas,Madhya Pradesh,PM2.5,83,54.5,56.93,97.92,38,45.78
+site_5051,"F-Block, Sirsa - HSPCB",Sirsa,Haryana,PM2.5,81,62.9,56.98,157.04,37,45.68
+site_5555,"Jigar Colony, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM10,92,95.87,89.89,178.34,42,45.65
+site_5404,"Mhada Colony, Pune - IITM",Pune,Maharashtra,PM10,90,91.36,92.26,161.1,41,45.56
+site_5462,"Kukrail Picnic Spot-1, Lucknow - UPPCB",Lucknow,Uttar Pradesh,PM2.5,90,53.55,54.89,98.67,41,45.56
+site_5660,"32Bungalows, Bhilai - CECB",Bhilai,Chhattisgarh,PM10,88,84.28,92.68,152.47,40,45.45
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,Maharashtra,PM2.5,88,48.22,54.33,106.07,40,45.45
+site_5406,"Bhosari, Pune - IITM",Pune,Maharashtra,PM10,53,86.34,81.26,171.15,24,45.28
+site_5053,"Shastri Nagar, Narnaul - HSPCB",Narnaul,Haryana,PM2.5,73,61.66,57.43,128.53,33,45.21
+site_5800,"Upvan Fort, Thane - MPCB",Thane,Maharashtra,PM2.5,91,55.37,56.32,124.6,41,45.05
+site_5851,"Mudtra Sili, Jalore - RSPCB",Jalore,Rajasthan,PM2.5,91,54.63,55.66,89.94,41,45.05
+site_5776,"Ratandeep Housing Society, Solapur - MPCB",Solapur,Maharashtra,PM2.5,91,48.85,58.4,84.52,41,45.05
+site_5659,"Hathkhoj, Bhilai - CECB",Bhilai,Chhattisgarh,PM2.5,89,50.1,57.29,93.49,40,44.94
+site_5407,"Hadapsar, Pune - IITM",Pune,Maharashtra,PM10,49,91.93,66.51,198.31,22,44.90
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra,PM10,87,84.35,96.04,139.28,39,44.83
+site_5603,"Kalindi Kunj, Khurja - UPPCB",Khurja,Uttar Pradesh,PM2.5,85,61.7,51.76,124.02,38,44.71
+site_5716,"Sahu Nagar, Sawai Madhopur - RSPCB",Sawai Madhopur,Rajasthan,PM2.5,85,55.25,56.7,119.11,38,44.71
+site_1447,Deshpande Nagar Hubballi,,,PM2.5,47,59.26,57.94,91.23,21,44.68
+site_5985,"Evelyn Lodge, Asansol - WBPCB",Asansol,West Bengal,PM10,56,109.42,72.45,264.31,25,44.64
+site_5720,"Jhalamand, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM2.5,92,52.69,57.0,107.91,41,44.57
+site_5250,"Gole Bazar, Katni - MPPCB",Katni,Madhya Pradesh,PM2.5,92,51.35,51.93,94.66,41,44.57
+site_5783,"Kamble Tarf Birwadi, Mahad - MPCB",Mahad,Maharashtra,PM10,90,94.55,96.01,166.61,40,44.44
+site_304,"Gangapur Road, Nashik - MPCB",Nashik,Maharashtra,PM10,88,100.37,86.06,242.94,39,44.32
+site_5802,"Mahesh Nagar, Malegaon - MPCB",Malegaon,Maharashtra,PM2.5,88,59.77,55.92,127.53,39,44.32
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,86,91.47,89.35,170.28,38,44.19
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,84,49.31,52.54,95.02,37,44.05
+site_5651,IITG Guwahati,,,PM2.5,66,68.68,51.86,150.07,29,43.94
+site_5054,"Huda Sector, Fatehabad - HSPCB",Fatehabad,Haryana,PM10,71,108.99,92.33,218.4,31,43.66
+site_5482,"Rohta, Agra - UPPCB",Agra,Uttar Pradesh,PM10,83,87.46,93.68,174.76,36,43.37
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,90,80.67,94.58,151.46,39,43.33
+site_5713,"Khatikan Mohalla, Dausa - RSPCB",Dausa,Rajasthan,PM2.5,90,59.36,56.31,111.06,39,43.33
+site_5672,"Divisional Forest Office, Rairangpur - OSPCB",Rairangpur,Odisha,PM2.5,89,55.72,57.83,121.14,38,42.70
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,Gujarat,PM2.5,89,53.99,56.74,97.39,38,42.70
+site_5817,"Gupteshwar, Jabalpur - JMC",Jabalpur,Madhya Pradesh,PM2.5,82,59.12,54.0,124.14,35,42.68
+site_5414,Haji Colony Raichur,,,PM10,61,83.98,84.91,151.94,26,42.62
+site_5544,"Gurdeo Nagar, Aurangabad - BSPCB",Aurangabad,Bihar,PM2.5,61,65.17,53.15,138.13,26,42.62
+site_304,"Gangapur Road, Nashik - MPCB",Nashik,Maharashtra,PM2.5,87,59.25,52.06,145.7,37,42.53
+site_5476,"Kamalnath Nagar, Bettiah - BSPCB",Bettiah,Bihar,PM10,52,103.0,82.99,239.59,22,42.31
+site_5678,"RVCE-Mailasandra, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,71,104.81,86.73,202.3,30,42.25
+site_5459,"Motilal Nehru NIT, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,PM10,90,76.23,92.2,131.3,38,42.22
+site_5049,"Sector-12, Karnal - HSPCB",Karnal,Haryana,PM2.5,90,58.23,57.05,135.54,38,42.22
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,90,44.9,50.57,79.91,38,42.22
+site_5781,"MIDC Ambad, Nashik - MPCB",Nashik,Maharashtra,PM2.5,83,52.01,52.52,101.08,35,42.17
+site_1450,"Kalal Majra, Khanna - PPCB",Khanna,Punjab,PM2.5,88,56.9,50.59,105.86,37,42.05
+site_5538,"New DM Office, Arrah - BSPCB",Arrah,Bihar,PM2.5,74,79.0,50.69,179.2,31,41.89
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,Maharashtra,PM10,91,88.22,79.49,186.96,38,41.76
+site_5960,"Byculla, Mumbai - BMC",Mumbai,Maharashtra,PM10,91,78.92,93.04,139.6,38,41.76
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,Maharashtra,PM10,72,90.1,86.06,198.69,30,41.67
+site_5668,"Bata Chowk, Nalbari - PCBA",Nalbari,Assam,PM2.5,84,75.19,41.1,189.6,35,41.67
+site_5613,"Transport Nagar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM10,89,85.55,94.49,135.45,37,41.57
+site_5501,"Shahjahan Garden, Agra - UPPCB",Agra,Uttar Pradesh,PM2.5,77,49.87,53.38,85.14,32,41.56
+site_5694,"Samrat Ashok Udhyan, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM2.5,92,58.05,56.46,124.29,38,41.30
+site_5668,"Bata Chowk, Nalbari - PCBA",Nalbari,Assam,PM10,80,119.08,70.84,273.81,33,41.25
+site_5782,"Hirawadi, Nashik - MPCB",Nashik,Maharashtra,PM10,80,97.18,81.23,207.61,33,41.25
+site_5472,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",Gorakhpur,Uttar Pradesh,PM2.5,80,55.02,55.66,90.52,33,41.25
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,80,45.22,53.13,80.26,33,41.25
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,Maharashtra,PM10,85,94.86,95.04,149.66,35,41.18
+site_5452,"Raikhad, Ahmedabad - IITM",Ahmedabad,Gujarat,PM2.5,85,57.49,54.93,107.06,35,41.18
+site_5803,"Tondare-Taloja, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM2.5,68,56.05,53.29,91.58,28,41.18
+site_5338,"SFTI Kusdihra, Gaya - BSPCB",Gaya,Bihar,PM2.5,85,53.6,53.58,106.09,35,41.18
+site_5128,"Gomti Nagar, Lucknow - UPPCB",Lucknow,Uttar Pradesh,PM10,90,86.78,90.88,150.29,37,41.11
+site_5726,"Digari Kalan, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM2.5,90,52.47,50.42,111.4,37,41.11
+site_5783,"Kamble Tarf Birwadi, Mahad - MPCB",Mahad,Maharashtra,PM2.5,90,51.1,53.75,96.8,37,41.11
+site_5672,"Divisional Forest Office, Rairangpur - OSPCB",Rairangpur,Odisha,PM10,88,95.88,93.75,177.41,36,40.91
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,Maharashtra,PM10,88,81.31,91.58,134.09,36,40.91
+site_5662,"Civil Lines, Sagar - MPPCB",Sagar,Madhya Pradesh,PM2.5,81,57.9,55.42,127.89,33,40.74
+site_1399,"Anand Kala Kshetram, Rajamahendravaram - APPCB",Rajamahendravaram,Andhra Pradesh,PM10,84,86.18,86.92,185.98,34,40.48
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,89,92.64,96.15,137.44,36,40.45
+site_5537,"Employment Office, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM2.5,89,51.95,55.89,86.61,36,40.45
+site_5806,"Bhayandar West, Mira-Bhayandar - MPCB",Mira-Bhayandar,Maharashtra,PM2.5,89,50.06,52.87,94.37,36,40.45
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,89,49.87,53.31,94.4,36,40.45
+site_5795,"Sneh Nagar, Nanded - MPCB",Nanded,Maharashtra,PM2.5,77,51.6,53.71,106.15,31,40.26
+site_5484,"Nagar Nigam, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,PM2.5,87,51.04,49.39,88.67,35,40.23
+site_5463,"Shastripuram, Agra - UPPCB",Agra,Uttar Pradesh,PM2.5,87,47.26,50.52,86.94,35,40.23
+site_5688,"Sector-2, Rourkela - OSPCB",Rourkela,Odisha,PM10,70,84.48,85.6,155.14,28,40.00
+site_5687,"Fertilizer Township, Rourkela - OSPCB",Rourkela,Odisha,PM2.5,78,54.08,46.84,109.52,31,39.74
+site_5777,"Dnyaneshwar Nagar, Solapur - MPCB",Solapur,Maharashtra,PM2.5,78,45.66,56.32,83.73,31,39.74
+site_5548,"Kareemganj, Gaya - BSPCB",Gaya,Bihar,PM2.5,68,67.24,46.5,138.85,27,39.71
+site_5772,"Sadar Bazar, Jaisalmer - RSPCB",Jaisalmer,Rajasthan,PM2.5,91,57.48,51.4,131.57,36,39.56
+site_5338,"SFTI Kusdihra, Gaya - BSPCB",Gaya,Bihar,PM10,86,82.95,82.44,146.8,34,39.53
+site_5051,"F-Block, Sirsa - HSPCB",Sirsa,Haryana,PM10,81,121.97,77.88,370.57,32,39.51
+site_5768,"Shivaji University, Kolhapur - MPCB",Kolhapur,Maharashtra,PM2.5,89,56.47,55.2,117.62,35,39.33
+site_5275,Phool Bagh Gwalior Mondelez Ind.,,,PM2.5,51,51.28,48.48,100.96,20,39.22
+site_5832,Mohalbani Ghat Pathardih,,,PM10,18,94.22,63.52,275.82,7,38.89
+site_5275,Phool Bagh Gwalior Mondelez Ind.,,,PM10,54,86.76,73.67,168.77,21,38.89
+site_5065,"GIDC, Ankleshwar - GPCB",Ankleshwar,Gujarat,PM10,85,85.87,94.89,131.67,33,38.82
+site_1399,"Anand Kala Kshetram, Rajamahendravaram - APPCB",Rajamahendravaram,Andhra Pradesh,PM2.5,83,48.74,43.26,126.3,32,38.55
+site_5827,Kalakusuma Dhanbad,,,PM10,52,102.74,71.54,230.28,20,38.46
+site_5651,IITG Guwahati,,,PM10,78,97.69,74.61,232.07,30,38.46
+site_5670,"Meher Colony, Baripada - OSPCB",Baripada,Odisha,PM2.5,86,58.72,49.93,140.77,33,38.37
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,Maharashtra,PM10,50,91.55,59.84,183.81,19,38.00
+site_5405,Alandi Pune,,,PM2.5,78,49.85,46.95,107.15,29,37.18
+site_5692,"OP Jindal Industrial Park, Tumidih - CECB",Tumidih,Chhattisgarh,PM10,35,87.75,79.22,169.44,13,37.14
+site_5808,"Bolinj, Virar - MPCB",Virar,Maharashtra,PM2.5,89,50.7,51.47,95.61,33,37.08
+site_5458,"GIFT City, Gandhinagar - IITM",Gandhinagar,Gujarat,PM2.5,81,48.81,45.14,81.22,30,37.04
+site_5817,"Gupteshwar, Jabalpur - JMC",Jabalpur,Madhya Pradesh,PM10,87,87.59,79.16,195.84,32,36.78
+site_5790,"Prabhat Colony, Jalgaon - MPCB",Jalgaon,Maharashtra,PM2.5,90,56.84,49.74,136.63,33,36.67
+site_5986,"Mahabir Colliery, Asansol - WBPCB",Asansol,West Bengal,PM2.5,60,55.5,41.63,129.46,22,36.67
+site_5481,"D M Colony, Bihar Sharif - BSPCB",Bihar Sharif,Bihar,PM2.5,74,52.39,34.88,143.24,27,36.49
+site_5688,"Sector-2, Rourkela - OSPCB",Rourkela,Odisha,PM2.5,74,47.61,45.18,83.8,27,36.49
+site_306,"Manali, Chennai - CPCB",Chennai,TamilNadu,PM10,85,89.0,74.8,164.69,31,36.47
+site_5815,"Sanpada, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM2.5,88,49.46,47.89,98.96,32,36.36
+site_5960,"Byculla, Mumbai - BMC",Mumbai,Maharashtra,PM2.5,91,43.81,48.57,89.87,33,36.26
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,Gujarat,PM2.5,58,58.62,56.09,85.78,21,36.21
+site_5482,"Rohta, Agra - UPPCB",Agra,Uttar Pradesh,PM2.5,83,49.42,54.24,93.21,30,36.14
+site_5989,"Botanical Garden, Howrah - WBPCB",Howrah,West Bengal,PM10,50,98.03,67.76,220.97,18,36.00
+site_5989,"Botanical Garden, Howrah - WBPCB",Howrah,West Bengal,PM2.5,50,59.18,34.19,145.3,18,36.00
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,92,80.87,85.95,139.45,33,35.87
+site_1390,"Moti Doongri, Alwar - RSPCB",Alwar,Rajasthan,PM2.5,92,50.96,51.06,78.94,33,35.87
+site_5978,"SIPCOT Nathampannai, Pudukottai - TNPCB",Pudukottai,TamilNadu,PM10,28,85.28,79.12,132.65,10,35.71
+site_5417,"Pan Bazaar, Guwahati - PCBA",Guwahati,Assam,PM2.5,87,58.07,35.97,153.45,31,35.63
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,87,47.85,45.94,98.97,31,35.63
+site_5554,"Buddhi Vihar, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM2.5,88,50.3,51.07,86.58,31,35.23
+site_5465,"Sector-3B Avas Vikas Colony, Agra - UPPCB",Agra,Uttar Pradesh,PM2.5,88,44.99,48.63,89.81,31,35.23
+site_1410,"GM Office, Brajrajnagar - OSPCB",Brajrajnagar,Odisha,PM10,80,77.4,81.3,136.0,28,35.00
+site_5464,"Manoharpur, Agra - UPPCB",Agra,Uttar Pradesh,PM10,89,76.26,85.61,143.55,31,34.83
+site_5128,"Gomti Nagar, Lucknow - UPPCB",Lucknow,Uttar Pradesh,PM2.5,90,55.66,48.43,108.18,31,34.44
+site_5804,"CBD Belapur, Belapur - MPCB",Belapur,Maharashtra,PM2.5,90,45.88,51.66,74.83,31,34.44
+site_5418,Naubad Bidar,,,PM2.5,44,50.77,55.22,89.08,15,34.09
+site_5671,"Jagamohanpur, Keonjhar - OSPCB",Keonjhar,Odisha,PM10,86,85.6,72.03,179.2,29,33.72
+site_5788,"MIDC Chilkalthana, Aurangabad - MPCB",Aurangabad,Maharashtra,PM2.5,92,50.41,47.78,111.03,31,33.70
+site_5997,"SIPCOT Industrial Park, Perundurai - TNPCB",Perundurai,TamilNadu,PM10,30,82.62,89.99,123.8,10,33.33
+site_5474,"NSI Kalyanpur, Kanpur - UPPCB",Kanpur,Uttar Pradesh,PM2.5,87,48.65,49.9,93.9,29,33.33
+site_5782,"Hirawadi, Nashik - MPCB",Nashik,Maharashtra,PM2.5,81,44.26,44.03,91.01,27,33.33
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,91,46.88,44.36,93.62,30,32.97
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,88,79.77,47.8,177.81,29,32.95
+site_5706,"Christianpatty, Nagaon - PCBA",Nagaon,Assam,PM10,85,93.95,36.44,269.36,28,32.94
+site_1406,"Secretariat, Amaravati - APPCB",Amaravati,Andhra Pradesh,PM10,82,75.73,62.15,155.28,27,32.93
+site_5705,"Vedhaynath Colony, Sirohi - RSPCB",Sirohi,Rajasthan,PM10,86,89.83,89.64,144.93,28,32.56
+site_5476,"Kamalnath Nagar, Bettiah - BSPCB",Bettiah,Bihar,PM2.5,40,58.72,49.81,132.75,13,32.50
+site_5066,"Sector-10, Gandhinagar - GPCB",Gandhinagar,Gujarat,PM10,77,83.87,78.55,139.19,25,32.47
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,Maharashtra,PM10,37,97.59,91.17,185.78,12,32.43
+site_5404,"Mhada Colony, Pune - IITM",Pune,Maharashtra,PM2.5,90,45.34,51.1,77.63,29,32.22
+site_5500,"FTI Kidwai Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,PM2.5,87,47.04,47.4,93.98,28,32.18
+site_5617,VOC Nagar SIPCOT Ranipet,,,PM2.5,22,43.72,38.65,70.44,7,31.82
+DS1010002,US Embassy - Chennai,Chennai,Tamil Nadu,PM2.5,63,48.43,43.95,80.37,20,31.75
+site_5655,"Bhatagaon New ISBT, Raipur - CECB",Raipur,Chhattisgarh,PM10,82,78.5,87.2,130.82,26,31.71
+site_5677,"Barsua Iron Ore Mines, Tensa - OSPCB",Tensa,Odisha,PM2.5,76,43.82,44.77,84.64,24,31.58
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,Maharashtra,PM2.5,77,46.13,45.0,98.06,24,31.17
+site_5718,"Dhoinda, Rajsamand - RSPCB",Rajsamand,Rajasthan,PM10,90,82.43,81.03,136.31,28,31.11
+site_5718,"Dhoinda, Rajsamand - RSPCB",Rajsamand,Rajasthan,PM2.5,90,48.24,45.51,99.28,28,31.11
+site_5856,"Maguda Nagar, Indore - IMC",Indore,Madhya Pradesh,PM2.5,74,58.4,46.83,169.64,23,31.08
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,29,46.08,36.1,90.62,9,31.03
+site_5965,"Govindh Bhavan Colony, Jabalpur - JMC",Jabalpur,Madhya Pradesh,PM2.5,68,50.98,46.83,89.82,21,30.88
+site_5480,"Nagla Bhau, Firozabad - UPPCB",Firozabad,Uttar Pradesh,PM2.5,82,44.42,49.01,88.9,25,30.49
+site_5653,"Siltara Phase-II, Raipur - CECB",Raipur,Chhattisgarh,PM2.5,69,51.24,51.38,85.62,21,30.43
+site_5671,"Jagamohanpur, Keonjhar - OSPCB",Keonjhar,Odisha,PM2.5,86,50.93,39.49,140.0,26,30.23
+site_5040,"Shrivastav Colony, Damoh - MPPCB",Damoh,Madhya Pradesh,PM10,63,86.65,66.48,217.67,19,30.16
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,73,69.8,68.7,136.42,22,30.14
+site_1419,"Ward-32 Bapupara, Siliguri - WBPCB",Siliguri,West Bengal,PM10,87,82.16,69.0,160.94,26,29.89
+site_5786,"Shivneri Colony, Amravati - MPCB",Amravati,Maharashtra,PM2.5,87,44.84,49.22,80.06,26,29.89
+site_5703,"Shivaji Nagar, Rishikesh - UKPCB",Rishikesh,Uttarakhand,PM2.5,87,44.57,41.46,83.0,26,29.89
+site_5458,"GIFT City, Gandhinagar - IITM",Gandhinagar,Gujarat,PM10,81,88.2,87.52,138.0,24,29.63
+site_5269,"Deen Dayal Nagar, Sagar - MPPCB",Sagar,Madhya Pradesh,PM10,92,87.33,73.32,196.96,27,29.35
+site_5773,"Mandor, Jodhpur - RSPCB",Jodhpur,Rajasthan,PM2.5,92,44.28,43.42,91.84,27,29.35
+site_5769,"Sinchan Bhavan, Kolhapur - MPCB",Kolhapur,Maharashtra,PM2.5,79,48.28,52.5,82.41,23,29.11
+site_5721,"Pragati Nagar, Pratapgarh - RSPCB",Pratapgarh,Rajasthan,PM2.5,92,45.2,45.59,87.79,26,28.26
+site_5706,"Christianpatty, Nagaon - PCBA",Nagaon,Assam,PM2.5,82,45.87,18.07,129.97,23,28.05
+site_5254,"Collector Office, Yadgir - KSPCB",Yadgir,Karnataka,PM2.5,82,43.64,45.49,81.21,23,28.05
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,Maharashtra,PM2.5,50,40.17,22.31,100.77,14,28.00
+site_5854,"Residency Area, Indore - IMC",Indore,Madhya Pradesh,PM10,79,78.34,75.81,136.03,22,27.85
+site_5674,"Dabuna, Nayagarh - OSPCB",Nayagarh,Odisha,PM2.5,79,45.59,39.76,96.91,22,27.85
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,90,40.32,41.23,78.43,25,27.78
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,76,74.8,76.54,122.91,21,27.63
+site_1557,"Chikkaballapur Rural, Chikkaballapur - KSPCB",Chikkaballapur,Karnataka,PM10,88,68.48,66.88,138.04,24,27.27
+site_5103,"Nerul, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM2.5,92,42.69,46.39,79.01,25,27.17
+site_5550,"Forest Rest House, Manguraha - BSPCB",Manguraha,Bihar,PM2.5,52,49.54,44.56,92.01,14,26.92
+site_5627,Kamadenu Nagar Karur,,,PM2.5,30,41.65,44.07,67.23,8,26.67
+site_5965,"Govindh Bhavan Colony, Jabalpur - JMC",Jabalpur,Madhya Pradesh,PM10,68,81.2,79.06,159.58,18,26.47
+site_1419,"Ward-32 Bapupara, Siliguri - WBPCB",Siliguri,West Bengal,PM2.5,87,40.4,29.63,80.37,23,26.44
+site_5774,"Vijay Nagar, Sangli - MPCB",Sangli,Maharashtra,PM2.5,84,41.54,40.49,84.34,22,26.19
+site_5584,"Vibhab Nagar, Firozabad - UPPCB",Firozabad,Uttar Pradesh,PM2.5,65,46.85,46.34,78.7,17,26.15
+site_5092,"Manali Village, Chennai - TNPCB",Chennai,TamilNadu,PM10,23,88.25,77.79,171.22,6,26.09
+site_5042,"Shasthri Nagar, Ratlam - IPCA Lab",Ratlam,Madhya Pradesh,PM2.5,92,44.31,47.69,76.77,24,26.09
+site_5608,Mendonsa Colony Dindigul,,,PM2.5,31,40.51,39.52,68.54,8,25.81
+site_5607,Kumaran College Tirupur,,,PM10,66,72.38,64.91,130.64,17,25.76
+site_5601,"Rajendra Nagar, Bareilly - UPPCB",Bareilly,Uttar Pradesh,PM10,87,71.16,76.89,130.1,22,25.29
+site_5703,"Shivaji Nagar, Rishikesh - UKPCB",Rishikesh,Uttarakhand,PM10,87,71.05,68.03,121.26,22,25.29
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,88,74.73,80.35,116.61,22,25.00
+site_5623,"PSG College of Arts and Science, Coimbatore - TNPCB",Coimbatore,TamilNadu,PM2.5,72,42.55,44.67,75.52,18,25.00
+site_1406,"Secretariat, Amaravati - APPCB",Amaravati,Andhra Pradesh,PM2.5,80,38.81,28.13,99.17,20,25.00
+site_5480,"Nagla Bhau, Firozabad - UPPCB",Firozabad,Uttar Pradesh,PM10,85,81.87,80.14,142.79,21,24.71
+site_5536,"Civic Center, Bhilai - Bhilai Steel Plant",Bhilai,Chhattisgarh,PM10,77,71.01,80.32,153.2,19,24.68
+site_5855,"Regional Park, Indore - IMC",Indore,Madhya Pradesh,PM10,41,78.41,67.36,137.42,10,24.39
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,TamilNadu,PM10,87,74.65,64.57,128.48,21,24.14
+site_5503,"Mangala, Bilaspur - NTPC",Bilaspur,Chhattisgarh,PM10,80,71.27,79.89,121.2,19,23.75
+site_5664,"Science Center, Surat - SMC",Surat,Gujarat,PM2.5,72,42.72,33.01,87.7,17,23.61
+site_5459,"Motilal Nehru NIT, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,PM2.5,85,39.07,44.52,72.55,20,23.53
+site_5254,"Collector Office, Yadgir - KSPCB",Yadgir,Karnataka,PM10,82,74.28,74.85,125.91,19,23.17
+site_198,"More Chowk Waluj, Aurangabad - MPCB",Aurangabad,Maharashtra,PM10,70,71.94,65.57,159.47,16,22.86
+site_5979,Collectorate Office Virudhunagar,,,PM10,53,65.01,54.91,139.99,12,22.64
+site_5334,"Polayathode, Kollam - Kerala PCB",Kollam,Kerala,PM2.5,62,43.3,42.49,76.57,14,22.58
+site_5408,"Transport Nagar-Nigdi, Pune - IITM",Pune,Maharashtra,PM2.5,71,43.96,48.69,74.74,16,22.54
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,TamilNadu,PM10,89,77.63,78.26,134.64,20,22.47
+site_5547,"SDM Office_Khagra, Kishanganj - BSPCB",Kishanganj,Bihar,PM2.5,73,41.22,34.6,95.19,16,21.92
+site_1549,"Hardev Nagar, Bathinda - PPCB",Bathinda,Punjab,PM2.5,83,49.3,50.96,68.15,18,21.69
+site_5978,"SIPCOT Nathampannai, Pudukottai - TNPCB",Pudukottai,TamilNadu,PM2.5,28,41.16,37.81,64.83,6,21.43
+site_5784,"Ramdaspeth, Akola - MPCB",Akola,Maharashtra,PM2.5,92,45.2,50.82,80.84,19,20.65
+site_5660,"32Bungalows, Bhilai - CECB",Bhilai,Chhattisgarh,PM2.5,88,41.67,45.67,77.45,18,20.45
+site_5657,"Urja Nagar, Korba - CECB",Korba,Chhattisgarh,PM10,80,67.5,58.12,141.31,16,20.00
+site_5406,"Bhosari, Pune - IITM",Pune,Maharashtra,PM2.5,55,35.04,32.85,73.12,11,20.00
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,TamilNadu,PM2.5,86,34.36,29.45,76.13,17,19.77
+site_5583,"Shivaji Nagar, Jhansi - UPPCB",Jhansi,Uttar Pradesh,PM2.5,87,44.93,47.32,72.73,17,19.54
+site_5050,"Shyam Nagar, Palwal - HSPCB",Palwal,Haryana,PM2.5,87,40.81,32.95,93.94,17,19.54
+site_5627,Kamadenu Nagar Karur,,,PM10,26,69.24,74.41,103.24,5,19.23
+site_5119,"Sion, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,89,43.67,46.92,68.87,17,19.10
+site_5422,Devaraj Urs Badavane Davanagere,,,PM10,75,59.85,63.01,120.13,14,18.67
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,81,37.89,41.86,66.77,15,18.52
+site_273,"Ardhali Bazar, Varanasi - UPPCB",Varanasi,Uttar Pradesh,PM10,92,74.61,71.13,150.26,17,18.48
+site_5827,Kalakusuma Dhanbad,,,PM2.5,11,45.06,38.25,112.55,2,18.18
+site_5270,Vyttila Kochi Kerala,,,PM2.5,11,39.51,28.5,78.45,2,18.18
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,TamilNadu,PM2.5,90,35.73,28.56,84.74,16,17.78
+site_5469,"Bhelupur, Varanasi - UPPCB",Varanasi,Uttar Pradesh,PM10,91,73.95,66.26,144.3,16,17.58
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,Gujarat,PM2.5,86,49.87,47.54,82.15,15,17.44
+site_5691,"Govt. Higher Secondary School, Milupara - CECB",Milupara,Chhattisgarh,PM10,52,71.23,69.38,117.67,9,17.31
+site_5997,"SIPCOT Industrial Park, Perundurai - TNPCB",Perundurai,TamilNadu,PM2.5,29,40.89,41.71,67.06,5,17.24
+site_5040,"Shrivastav Colony, Damoh - MPPCB",Damoh,Madhya Pradesh,PM2.5,64,31.94,21.99,89.63,11,17.19
+site_1551,Tamaka Ind. Area Kolar,,,PM10,71,70.74,66.11,124.36,12,16.90
+site_5618,Gandhi Nagar Ennore Chennai,,,PM10,24,76.28,65.19,123.73,4,16.67
+site_5654,"Krishak Nagar, Raipur - CECB",Raipur,Chhattisgarh,PM10,84,68.24,79.34,111.07,14,16.67
+site_5618,Gandhi Nagar Ennore Chennai,,,PM2.5,24,46.12,40.34,76.62,4,16.67
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,67,38.15,43.76,72.18,11,16.42
+site_1392,"Civil Lines,  Ajmer - RSPCB",Ajmer,Rajasthan,PM2.5,92,45.01,44.9,68.75,15,16.30
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,Karnataka,PM10,86,67.05,60.55,116.46,14,16.28
+site_5656,"Rampur, Korba - CECB",Korba,Chhattisgarh,PM10,69,68.16,71.65,114.83,11,15.94
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,88,37.27,33.86,69.39,14,15.91
+site_165,"City Railway Station, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,76,81.43,79.32,143.36,12,15.79
+site_5464,"Manoharpur, Agra - UPPCB",Agra,Uttar Pradesh,PM2.5,89,40.32,38.64,88.8,14,15.73
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,78,83.56,78.71,139.97,12,15.38
+site_5785,"Tarakpur, Ahmednagar - MPCB",Ahmednagar,Maharashtra,PM2.5,78,43.49,43.92,75.15,12,15.38
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,72,81.76,76.94,117.63,11,15.28
+site_5665,"Gangineni Cheruvu, Chittoor - APPCB",Chittoor,Andhra Pradesh,PM2.5,72,39.25,33.85,71.03,11,15.28
+site_5856,"Maguda Nagar, Indore - IMC",Indore,Madhya Pradesh,PM10,33,90.29,79.09,213.52,5,15.15
+site_5601,"Rajendra Nagar, Bareilly - UPPCB",Bareilly,Uttar Pradesh,PM2.5,87,35.48,35.81,79.47,13,14.94
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra,PM10,81,75.62,80.74,115.63,12,14.81
+site_5623,"PSG College of Arts and Science, Coimbatore - TNPCB",Coimbatore,TamilNadu,PM10,34,71.55,82.79,115.61,5,14.71
+site_5420,Ashwini Nagar Haveri,,,PM10,62,56.72,51.17,118.69,9,14.52
+site_5638,"Kalabhavan, Dharwad - KSPCB",Dharwad,Karnataka,PM10,84,81.11,82.5,108.53,12,14.29
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,Maharashtra,PM10,28,75.69,89.63,107.28,4,14.29
+site_5692,"OP Jindal Industrial Park, Tumidih - CECB",Tumidih,Chhattisgarh,PM2.5,35,35.64,35.66,66.76,5,14.29
+site_5555,"Jigar Colony, Moradabad - UPPCB",Moradabad,Uttar Pradesh,PM2.5,92,41.26,39.97,77.79,13,14.13
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,79,38.36,43.6,68.36,11,13.92
+site_5622,Sona College of Technology Salem,,,PM2.5,29,39.47,39.43,61.69,4,13.79
+site_5422,Devaraj Urs Badavane Davanagere,,,PM2.5,82,33.56,29.56,65.2,11,13.41
+site_5621,Kudikadu Cuddalore,,,PM10,45,61.56,53.24,145.48,6,13.33
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,TamilNadu,PM2.5,83,32.56,26.03,69.29,11,13.25
+site_5420,Ashwini Nagar Haveri,,,PM2.5,76,34.46,32.84,72.59,10,13.16
+site_1565,Lal Bahadur Shastri Nagar Kalaburagi,,,PM10,77,51.69,39.62,116.65,10,12.99
+site_1557,"Chikkaballapur Rural, Chikkaballapur - KSPCB",Chikkaballapur,Karnataka,PM2.5,85,34.82,37.9,69.67,11,12.94
+site_5584,"Vibhab Nagar, Firozabad - UPPCB",Firozabad,Uttar Pradesh,PM10,70,71.19,70.12,113.49,9,12.86
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,78,36.19,36.11,76.47,10,12.82
+site_5597,"IITH Kandi, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,47,79.53,80.68,105.59,6,12.77
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,Karnataka,PM10,79,72.44,69.38,133.63,10,12.66
+site_5689,"Nawapara SECL Colony, Chhal - CECB",Chhal,Chhattisgarh,PM10,87,62.6,63.15,110.02,11,12.64
+site_5615,Vasanthapuram Vellore,,,PM2.5,40,33.85,28.41,62.64,5,12.50
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,89,36.73,38.77,70.12,11,12.36
+site_5714,"Railway Colony, Barmer - RSPCB",Barmer,Rajasthan,PM2.5,90,38.72,33.36,76.85,11,12.22
+site_5475,"Maldahiya, Varanasi - UPPCB",Varanasi,Uttar Pradesh,PM2.5,82,36.19,31.02,74.87,10,12.20
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,TamilNadu,PM10,91,66.88,61.96,124.95,11,12.09
+site_5102,"Malad West, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,76,36.45,31.62,69.38,9,11.84
+site_5678,"RVCE-Mailasandra, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,85,42.69,40.1,61.71,10,11.76
+site_5705,"Vedhaynath Colony, Sirohi - RSPCB",Sirohi,Rajasthan,PM2.5,85,37.26,36.79,71.92,10,11.76
+site_1565,Lal Bahadur Shastri Nagar Kalaburagi,,,PM2.5,51,33.72,22.65,67.22,6,11.76
+site_5536,"Civic Center, Bhilai - Bhilai Steel Plant",Bhilai,Chhattisgarh,PM2.5,79,34.19,35.27,65.02,9,11.39
+site_306,"Manali, Chennai - CPCB",Chennai,TamilNadu,PM2.5,80,40.06,35.19,75.73,9,11.25
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,89,39.38,38.25,67.78,10,11.24
+site_5665,"Gangineni Cheruvu, Chittoor - APPCB",Chittoor,Andhra Pradesh,PM10,72,66.53,59.39,120.62,8,11.11
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,84,33.14,30.94,65.63,9,10.71
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,78,63.82,65.04,116.17,8,10.26
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,78,34.61,38.46,65.71,8,10.26
+site_5255,"Vijay Nagar, Ramanagara - KSPCB",Ramanagara,Karnataka,PM2.5,88,30.52,31.51,62.13,9,10.23
+site_5664,"Science Center, Surat - SMC",Surat,Gujarat,PM10,59,78.99,54.79,354.69,6,10.17
+site_273,"Ardhali Bazar, Varanasi - UPPCB",Varanasi,Uttar Pradesh,PM2.5,92,35.51,31.82,70.89,9,9.78
+site_5685,"Kanuru, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,PM10,66,67.04,61.49,121.1,6,9.09
+site_5068,Sahilara Maihar KJS,,,PM10,66,62.49,54.95,118.4,6,9.09
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,88,34.38,34.87,63.12,8,9.09
+site_5503,"Mangala, Bilaspur - NTPC",Bilaspur,Chhattisgarh,PM2.5,78,37.1,40.4,66.6,7,8.97
+site_5854,"Residency Area, Indore - IMC",Indore,Madhya Pradesh,PM2.5,69,35.03,35.48,64.4,6,8.70
+site_5855,"Regional Park, Indore - IMC",Indore,Madhya Pradesh,PM2.5,58,37.15,40.79,63.63,5,8.62
+site_5131,"Lumpyngngad, Shillong - Meghalaya PCB",Shillong,Meghalaya,PM2.5,48,30.95,25.65,76.21,4,8.33
+site_5423,"Jawahar Nagar, Puducherry - PPCC",Puducherry,Puducherry,PM2.5,85,29.73,21.55,66.37,7,8.24
+site_5611,Semmandalam Cuddalore,,,PM2.5,61,30.78,22.77,79.47,5,8.20
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,TamilNadu,PM10,86,61.25,58.22,103.98,7,8.14
+site_5853,KHB Colony Karwar,,,PM10,75,61.79,70.57,107.9,6,8.00
+site_5622,Sona College of Technology Salem,,,PM10,25,61.39,57.59,100.41,2,8.00
+site_5605,Crescent University Chengalpattu,,,PM10,38,68.66,66.02,120.48,3,7.89
+site_5605,Crescent University Chengalpattu,,,PM2.5,38,41.49,40.58,74.55,3,7.89
+site_5407,"Hadapsar, Pune - IITM",Pune,Maharashtra,PM2.5,51,30.26,16.09,62.32,4,7.84
+site_5691,"Govt. Higher Secondary School, Milupara - CECB",Milupara,Chhattisgarh,PM2.5,52,33.82,34.8,61.45,4,7.69
+site_5685,"Kanuru, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,PM2.5,66,35.4,30.95,66.62,5,7.58
+site_5615,Vasanthapuram Vellore,,,PM10,41,58.4,49.6,101.08,3,7.32
+site_5655,"Bhatagaon New ISBT, Raipur - CECB",Raipur,Chhattisgarh,PM2.5,82,33.66,38.54,62.8,6,7.32
+site_5652,"AIIMS, Raipur - CECB",Raipur,Chhattisgarh,PM2.5,83,35.58,42.16,61.7,6,7.23
+site_5131,"Lumpyngngad, Shillong - Meghalaya PCB",Shillong,Meghalaya,PM10,42,41.04,19.46,100.25,3,7.14
+site_5666,"Vaikuntapuram, Tirupati - APPCB",Tirupati,Andhra Pradesh,PM2.5,56,34.59,29.95,66.99,4,7.14
+site_5689,"Nawapara SECL Colony, Chhal - CECB",Chhal,Chhattisgarh,PM2.5,85,34.24,36.03,60.71,6,7.06
+site_5446,"Naharlagun, Naharlagun - APSPCB",Naharlagun,Arunachal Pradesh,PM10,58,57.13,56.21,102.77,4,6.90
+site_5068,Sahilara Maihar KJS,,,PM2.5,73,33.1,28.03,64.19,5,6.85
+site_5067,"Phase-4 GIDC, Vatva - GPCB",Vatva,Gujarat,PM2.5,88,35.46,32.9,62.37,6,6.82
+site_5621,Kudikadu Cuddalore,,,PM2.5,44,31.0,26.47,72.58,3,6.82
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,92,53.24,55.47,102.31,6,6.52
+site_5632,"Gulzarpet, Anantapur - APPCB",Anantapur,Andhra Pradesh,PM10,77,70.84,71.12,105.27,5,6.49
+site_5433,Brahmagiri Udupi,,,PM10,63,49.77,45.2,100.57,4,6.35
+site_5446,"Naharlagun, Naharlagun - APSPCB",Naharlagun,Arunachal Pradesh,PM2.5,63,30.89,27.43,63.05,4,6.35
+site_5432,Ramteerth Nagar Belgaum,,,PM10,81,58.04,59.44,103.41,5,6.17
+site_252,"Plammoodu, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,PM2.5,50,39.11,26.45,70.84,3,6.00
+site_5421,"Kadri, Mangalore - KSPCB",Mangalore,Karnataka,PM10,86,57.34,53.46,100.15,5,5.81
+site_292,Karve Road Pune,,,PM2.5,86,39.74,42.59,67.19,5,5.81
+site_5469,"Bhelupur, Varanasi - UPPCB",Varanasi,Uttar Pradesh,PM2.5,88,26.81,22.4,61.09,5,5.68
+site_5979,Collectorate Office Virudhunagar,,,PM2.5,53,31.17,27.53,64.92,3,5.66
+site_5666,"Vaikuntapuram, Tirupati - APPCB",Tirupati,Andhra Pradesh,PM10,56,57.7,50.55,114.67,3,5.36
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,75,80.91,78.63,114.71,4,5.33
+site_5632,"Gulzarpet, Anantapur - APPCB",Anantapur,Andhra Pradesh,PM2.5,77,31.81,28.05,61.3,4,5.19
+site_5115,Worli Mumbai,Mumbai,Maharashtra,PM2.5,78,29.38,30.8,61.46,4,5.13
+site_5628,"Civil Lines, Bareilly - UPPCB",Bareilly,Uttar Pradesh,PM10,81,53.02,57.15,99.51,4,4.94
+site_5611,Semmandalam Cuddalore,,,PM10,61,38.48,28.47,98.41,3,4.92
+site_5617,VOC Nagar SIPCOT Ranipet,,,PM10,21,63.7,74.22,98.72,1,4.76
+site_5690,"OP Jindal School, Kunjemura - CECB",Kunjemura,Chhattisgarh,PM2.5,87,29.12,30.27,59.35,4,4.60
+site_5599,"Kompally Municipal Office, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,68,67.92,61.43,91.51,3,4.41
+site_5448,B.Katihalli Hassan,,,PM10,47,65.48,64.18,97.58,2,4.26
+site_5415,Diwator Nagar Koppal,,,PM10,73,37.62,31.44,96.96,3,4.11
+site_5682,"Thimmalapura, Tumakuru - KSPCB",Tumakuru,Karnataka,PM2.5,73,37.52,40.41,59.81,3,4.11
+site_5448,B.Katihalli Hassan,,,PM2.5,49,30.32,26.99,56.45,2,4.08
+site_5625,"Chalai Bazaar, Ramanathapuram - TNPCB",Ramanathapuram,TamilNadu,PM10,75,49.35,49.66,97.07,3,4.00
+site_5092,"Manali Village, Chennai - TNPCB",Chennai,TamilNadu,PM2.5,26,37.2,36.04,59.79,1,3.85
+site_5114,"Mahape, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,PM2.5,79,33.7,35.15,59.63,3,3.80
+site_5625,"Chalai Bazaar, Ramanathapuram - TNPCB",Ramanathapuram,TamilNadu,PM2.5,53,27.07,25.98,45.75,2,3.77
+site_1410,"GM Office, Brajrajnagar - OSPCB",Brajrajnagar,Odisha,PM2.5,80,33.32,34.96,58.48,3,3.75
+site_5483,"Omex Eternity, Vrindavan - UPPCB",Vrindavan,Uttar Pradesh,PM2.5,81,32.51,35.35,55.82,3,3.70
+site_5475,"Maldahiya, Varanasi - UPPCB",Varanasi,Uttar Pradesh,PM10,82,60.84,61.11,94.96,3,3.66
+site_5112,"Powai, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,83,33.29,37.43,58.7,3,3.61
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,Maharashtra,PM2.5,28,27.69,33.27,38.74,1,3.57
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,85,30.1,34.0,57.34,3,3.53
+site_5614,"Uchapatti, Madurai - TNPCB",Madurai,TamilNadu,PM10,29,55.71,52.72,87.27,1,3.45
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,90,41.76,27.64,55.96,3,3.33
+site_5334,"Polayathode, Kollam - Kerala PCB",Kollam,Kerala,PM10,62,71.27,68.03,98.73,2,3.23
+site_5693,"Yerramukkapalli, Kadapa - APPCB",Kadapa,Andhra Pradesh,PM10,70,53.71,49.38,86.09,2,2.86
+site_166,"Sanegurava Halli, Bengaluru - KSPCB",Bengaluru,Karnataka,PM10,71,45.5,37.88,79.43,2,2.82
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,71,26.28,25.0,37.28,2,2.82
+site_252,"Plammoodu, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,PM10,74,44.08,40.38,93.9,2,2.70
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,Karnataka,PM2.5,79,32.47,28.52,59.74,2,2.53
+site_5066,"Sector-10, Gandhinagar - GPCB",Gandhinagar,Gujarat,PM2.5,83,34.43,31.95,54.79,2,2.41
+site_5598,"Somajiguda, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,42,38.37,36.09,53.84,1,2.38
+site_5423,"Jawahar Nagar, Puducherry - PPCC",Puducherry,Puducherry,PM10,85,49.84,44.18,94.44,2,2.35
+site_5118,"Khadakpada, Kalyan - MPCB",Kalyan,Maharashtra,PM2.5,85,33.66,38.77,57.74,2,2.35
+site_302,Solapur Solapur,Solapur,Maharashtra,PM2.5,86,36.04,34.62,46.25,2,2.33
+site_5421,"Kadri, Mangalore - KSPCB",Mangalore,Karnataka,PM2.5,86,26.53,23.23,53.79,2,2.33
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,87,30.61,30.79,56.78,2,2.30
+site_5630,St Joseph College Tiruchirappalli,,,PM10,44,60.21,65.24,90.52,1,2.27
+site_5624,Bombay Castel Ooty,,,PM2.5,55,31.88,27.63,59.87,1,1.82
+site_5981,"Rajiv Nagar, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,PM2.5,61,28.9,29.52,38.42,1,1.64
+site_5602,"Ramachandrapuram, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,64,77.18,75.84,84.35,1,1.56
+site_5606,Keelapalur Ariyalur,,,PM10,66,43.35,38.69,84.71,1,1.52
+site_5626,Bharathidasan University Palkalaiperur,,,PM10,66,42.38,38.5,87.88,1,1.52
+site_5693,"Yerramukkapalli, Kadapa - APPCB",Kadapa,Andhra Pradesh,PM2.5,70,30.78,28.57,46.42,1,1.43
+site_5656,"Rampur, Korba - CECB",Korba,Chhattisgarh,PM2.5,73,28.79,29.42,50.82,1,1.37
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,TamilNadu,PM10,76,51.86,45.63,94.37,1,1.32
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,80,31.96,30.21,44.97,1,1.25
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,81,70.82,65.64,94.62,1,1.23
+site_5265,"Kalyana Nagara, Chikkamagaluru - KSPCB",Chikkamagaluru,Karnataka,PM10,81,50.6,50.71,70.78,1,1.23
+site_5628,"Civil Lines, Bareilly - UPPCB",Bareilly,Uttar Pradesh,PM2.5,81,20.96,19.76,51.34,1,1.23
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,TamilNadu,PM2.5,82,28.53,26.96,48.48,1,1.22
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,Karnataka,PM2.5,82,21.21,18.63,42.38,1,1.22
+site_5346,"Sikulpuikawn, Aizawl - Mizoram PCB",Aizawl,Mizoram,PM10,86,31.71,26.73,66.47,1,1.16
+site_1433,"Bandhavgar Colony, Satna - Birla Cement",Satna,Madhya Pradesh,PM10,87,47.5,39.64,76.46,1,1.15
+site_5468,"IESD Banaras Hindu University, Varanasi - UPPCB",Varanasi,Uttar Pradesh,PM10,90,53.79,53.77,83.73,1,1.11
+site_5468,"IESD Banaras Hindu University, Varanasi - UPPCB",Varanasi,Uttar Pradesh,PM2.5,90,21.53,19.71,40.66,1,1.11
+site_5461,"Jhunsi, Prayagraj - UPPCB",Prayagraj,Uttar Pradesh,PM2.5,92,31.65,33.39,56.29,1,1.09
+site_5269,"Deen Dayal Nagar, Sagar - MPPCB",Sagar,Madhya Pradesh,PM2.5,92,22.73,21.24,42.76,1,1.09
+site_5598,"Somajiguda, Hyderabad - TSPCB",Hyderabad,Telangana,PM10,42,73.53,74.33,82.47,0,0.00
+site_5331,"Kariavattom, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,PM10,92,63.39,61.31,80.8,0,0.00
+site_5094,"SIDCO Kurichi, Coimbatore - TNPCB",Coimbatore,TamilNadu,PM10,29,61.88,63.9,89.53,0,0.00
+site_5849,"Rajiv Gandhi Park, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,PM10,91,60.11,57.14,84.13,0,0.00
+site_5680,"Lingaraj Nagar, Hubballi - KSPCB",Hubballi,Karnataka,PM10,91,59.75,56.78,81.79,0,0.00
+site_5848,"HB Colony, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,PM10,90,57.61,56.51,73.1,0,0.00
+site_5616,Velippalayam Nagapattinam,,,PM10,12,56.72,58.31,81.87,0,0.00
+site_5624,Bombay Castel Ooty,,,PM10,51,56.09,59.11,88.08,0,0.00
+site_5658,"Girls College, Sivasagar - PCBA",Sivasagar,Assam,PM10,86,55.26,55.54,65.87,0,0.00
+site_5981,"Rajiv Nagar, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,PM10,61,54.54,55.66,77.45,0,0.00
+site_5266,"Vinoba Nagara, Shivamogga - KSPCB",Shivamogga,Karnataka,PM10,87,52.27,52.0,66.43,0,0.00
+site_5593,JN Stadium Shillong Meghalaya,,,PM10,18,51.88,48.74,74.69,0,0.00
+site_5390,"Corporation Ground, Thrissur - Kerala PCB",Thrissur,Kerala,PM10,69,51.17,50.09,58.6,0,0.00
+site_5125,"Hebbal 1st Stage, Mysuru - KSPCB",Mysuru,Karnataka,PM10,92,50.77,52.8,74.97,0,0.00
+site_5367,"Meelavittan, Thoothukudi - TNPCB",Thoothukudi,TamilNadu,PM10,91,50.6,51.67,80.51,0,0.00
+site_5684,"Tarapur, Silchar - PCBA",Silchar,Assam,PM10,91,50.32,49.34,59.54,0,0.00
+site_5619,Kilambi Kanchipuram,,,PM10,20,50.23,43.01,81.69,0,0.00
+site_5276,"Thavakkara, Kannur - Kerala PCB",Kannur,Kerala,PM10,59,49.58,42.2,62.99,0,0.00
+site_5105,"Udyogamandal, Eloor - Kerala PCB",Eloor,Kerala,PM10,74,49.22,46.74,65.52,0,0.00
+site_5419,Panchal Nagar Gadag,,,PM10,81,48.89,48.06,80.4,0,0.00
+site_5264,"Vidayagiri, Bagalkot - KSPCB",Bagalkot,Karnataka,PM10,92,48.64,48.26,57.84,0,0.00
+site_5255,"Vijay Nagar, Ramanagara - KSPCB",Ramanagara,Karnataka,PM10,88,45.31,42.74,87.85,0,0.00
+site_5124,"Urban, Chamarajanagar - KSPCB",Chamarajanagar,Karnataka,PM10,88,44.28,43.7,50.46,0,0.00
+site_5610,"Parisutham Nagar, Thanjavur - TNPCB",Thanjavur,TamilNadu,PM10,27,43.89,42.56,57.36,0,0.00
+site_5267,"Ibrahimpur, Vijayapura - KSPCB",Vijayapura,Karnataka,PM10,88,40.81,38.89,54.17,0,0.00
+site_5709,Vijay Nagar Scheme-78 Indore,,,PM10,21,40.04,40.11,40.6,0,0.00
+site_5679,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",Kalaburagi,Karnataka,PM10,88,38.19,35.92,59.57,0,0.00
+site_5616,Velippalayam Nagapattinam,,,PM2.5,13,37.16,40.16,57.54,0,0.00
+site_5094,"SIDCO Kurichi, Coimbatore - TNPCB",Coimbatore,TamilNadu,PM2.5,30,36.64,38.28,56.45,0,0.00
+site_5849,"Rajiv Gandhi Park, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,PM2.5,89,36.31,34.07,53.02,0,0.00
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,76,35.99,33.87,52.1,0,0.00
+site_5592,DM College of Science Imphal Manipur,,,PM10,55,35.62,38.87,64.31,0,0.00
+site_5105,"Udyogamandal, Eloor - Kerala PCB",Eloor,Kerala,PM2.5,74,33.78,31.51,50.29,0,0.00
+site_5638,"Kalabhavan, Dharwad - KSPCB",Dharwad,Karnataka,PM2.5,83,32.81,33.47,42.07,0,0.00
+site_5832,Mohalbani Ghat Pathardih,,,PM2.5,15,32.51,45.78,56.56,0,0.00
+site_295,"MIDC Khutala, Chandrapur - MPCB",Chandrapur,Maharashtra,PM10,15,32.4,26.31,70.14,0,0.00
+site_5853,KHB Colony Karwar,,,PM2.5,75,31.79,36.52,56.7,0,0.00
+site_5599,"Kompally Municipal Office, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,68,31.68,31.48,44.36,0,0.00
+site_5848,"HB Colony, Vijayawada - APPCB",Vijayawada,Andhra Pradesh,PM2.5,90,31.57,31.68,40.98,0,0.00
+site_5391,"Stuart Hill, Madikeri - KSPCB",Madikeri,Karnataka,PM10,88,31.24,28.44,57.7,0,0.00
+site_5709,Vijay Nagar Scheme-78 Indore,,,PM2.5,21,31.01,30.99,31.19,0,0.00
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,75,29.81,29.39,40.79,0,0.00
+site_5597,"IITH Kandi, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,47,29.2,31.15,46.17,0,0.00
+site_1551,Tamaka Ind. Area Kolar,,,PM2.5,24,28.35,28.11,39.76,0,0.00
+site_5630,St Joseph College Tiruchirappalli,,,PM2.5,44,28.32,30.36,42.64,0,0.00
+site_5609,Municipal Corporation Office Tirunelveli,,,PM10,27,27.99,28.21,36.26,0,0.00
+site_5331,"Kariavattom, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,PM2.5,92,27.96,23.89,46.41,0,0.00
+site_5654,"Krishak Nagar, Raipur - CECB",Raipur,Chhattisgarh,PM2.5,84,27.84,30.99,48.17,0,0.00
+site_5432,Ramteerth Nagar Belgaum,,,PM2.5,81,27.43,28.17,44.78,0,0.00
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra,PM2.5,86,26.98,31.75,50.41,0,0.00
+site_5390,"Corporation Ground, Thrissur - Kerala PCB",Thrissur,Kerala,PM2.5,69,26.78,28.15,30.74,0,0.00
+site_5614,"Uchapatti, Madurai - TNPCB",Madurai,TamilNadu,PM2.5,29,26.24,24.86,41.98,0,0.00
+site_5276,"Thavakkara, Kannur - Kerala PCB",Kannur,Kerala,PM2.5,59,25.89,26.87,28.53,0,0.00
+site_5433,Brahmagiri Udupi,,,PM2.5,43,25.79,24.39,50.92,0,0.00
+site_5619,Kilambi Kanchipuram,,,PM2.5,20,25.3,21.13,45.99,0,0.00
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,81,25.0,21.28,46.63,0,0.00
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,Maharashtra,PM2.5,88,24.81,24.49,37.11,0,0.00
+site_5658,"Girls College, Sivasagar - PCBA",Sivasagar,Assam,PM2.5,92,24.14,23.47,31.69,0,0.00
+site_5602,"Ramachandrapuram, Hyderabad - TSPCB",Hyderabad,Telangana,PM2.5,64,23.61,22.89,27.78,0,0.00
+site_5684,"Tarapur, Silchar - PCBA",Silchar,Assam,PM2.5,91,23.07,21.86,30.96,0,0.00
+site_5264,"Vidayagiri, Bagalkot - KSPCB",Bagalkot,Karnataka,PM2.5,92,22.39,22.16,25.88,0,0.00
+site_5590,"Zero Point GICI, Gangtok - SSPCB",Gangtok,Sikkim,PM10,64,22.32,19.52,47.06,0,0.00
+site_5680,"Lingaraj Nagar, Hubballi - KSPCB",Hubballi,Karnataka,PM2.5,88,22.03,21.81,29.13,0,0.00
+site_5125,"Hebbal 1st Stage, Mysuru - KSPCB",Mysuru,Karnataka,PM2.5,92,21.93,23.06,34.38,0,0.00
+site_5266,"Vinoba Nagara, Shivamogga - KSPCB",Shivamogga,Karnataka,PM2.5,87,21.85,21.41,28.16,0,0.00
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,PM2.5,91,21.65,22.23,44.22,0,0.00
+site_5265,"Kalyana Nagara, Chikkamagaluru - KSPCB",Chikkamagaluru,Karnataka,PM2.5,82,21.39,20.75,37.75,0,0.00
+site_5610,"Parisutham Nagar, Thanjavur - TNPCB",Thanjavur,TamilNadu,PM2.5,27,21.2,20.39,26.15,0,0.00
+site_5607,Kumaran College Tirupur,,,PM2.5,65,20.95,21.84,39.97,0,0.00
+site_5626,Bharathidasan University Palkalaiperur,,,PM2.5,66,20.49,18.71,41.42,0,0.00
+site_5419,Panchal Nagar Gadag,,,PM2.5,83,19.86,22.16,38.0,0,0.00
+site_5267,"Ibrahimpur, Vijayapura - KSPCB",Vijayapura,Karnataka,PM2.5,88,19.43,18.12,23.31,0,0.00
+site_5391,"Stuart Hill, Madikeri - KSPCB",Madikeri,Karnataka,PM2.5,89,19.07,17.72,37.21,0,0.00
+site_5415,Diwator Nagar Koppal,,,PM2.5,66,19.02,19.2,37.77,0,0.00
+site_5124,"Urban, Chamarajanagar - KSPCB",Chamarajanagar,Karnataka,PM2.5,88,18.52,18.34,21.3,0,0.00
+site_5606,Keelapalur Ariyalur,,,PM2.5,73,17.75,13.36,40.79,0,0.00
+site_5609,Municipal Corporation Office Tirunelveli,,,PM2.5,27,15.68,14.96,18.71,0,0.00
+site_5414,Haji Colony Raichur,,,PM2.5,57,15.54,16.6,32.6,0,0.00
+site_5592,DM College of Science Imphal Manipur,,,PM2.5,55,14.93,16.69,29.56,0,0.00
+site_5657,"Urja Nagar, Korba - CECB",Korba,Chhattisgarh,PM2.5,82,14.88,15.3,28.24,0,0.00
+site_295,"MIDC Khutala, Chandrapur - MPCB",Chandrapur,Maharashtra,PM2.5,21,14.53,14.49,19.3,0,0.00
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,TamilNadu,PM2.5,92,14.48,12.48,29.54,0,0.00
+site_5346,"Sikulpuikawn, Aizawl - Mizoram PCB",Aizawl,Mizoram,PM2.5,50,14.45,10.44,36.4,0,0.00
+site_1433,"Bandhavgar Colony, Satna - Birla Cement",Satna,Madhya Pradesh,PM2.5,85,14.24,11.93,24.14,0,0.00
+site_5679,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",Kalaburagi,Karnataka,PM2.5,88,13.89,12.59,25.44,0,0.00
+site_5590,"Zero Point GICI, Gangtok - SSPCB",Gangtok,Sikkim,PM2.5,74,12.81,9.53,37.7,0,0.00

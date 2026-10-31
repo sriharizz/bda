@@ -1,0 +1,108 @@
+version: '3.8'
+
+services:
+  # =========================================================================
+  # Hadoop Distributed File System (HDFS)
+  # =========================================================================
+  namenode:
+    image: apache/hadoop:3.3.6
+    container_name: airpulse-hdfs-namenode
+    hostname: namenode
+    restart: always
+    environment:
+      HADOOP_HOME: /opt/hadoop
+      CORE-SITE.XML_fs.defaultFS: hdfs://namenode:9000
+      HDFS-SITE.XML_dfs.namenode.rpc-address: namenode:9000
+      HDFS-SITE.XML_dfs.replication: 1
+      HDFS-SITE.XML_dfs.permissions.enabled: "false"
+    ports:
+      - "9870:9870"  # HDFS NameNode Web UI
+      - "9000:9000"  # HDFS NameNode RPC Port
+    volumes:
+      - hadoop_namenode:/opt/hadoop/data/nameNode
+      - ./data:/airpulse_data
+    command: ["hdfs", "namenode"]
+
+  datanode:
+    image: apache/hadoop:3.3.6
+    container_name: airpulse-hdfs-datanode
+    hostname: datanode
+    restart: always
+    depends_on:
+      - namenode
+    environment:
+      HADOOP_HOME: /opt/hadoop
+      CORE-SITE.XML_fs.defaultFS: hdfs://namenode:9000
+      HDFS-SITE.XML_dfs.replication: 1
+      HDFS-SITE.XML_dfs.permissions.enabled: "false"
+    ports:
+      - "9864:9864"  # HDFS DataNode Web UI
+    volumes:
+      - hadoop_datanode:/opt/hadoop/data/dataNode
+    command: ["hdfs", "datanode"]
+
+  # =========================================================================
+  # Apache Spark (Master & Worker)
+  # =========================================================================
+  spark-master:
+    image: apache/spark:3.5.0
+    container_name: airpulse-spark-master
+    hostname: spark-master
+    restart: always
+    environment:
+      SPARK_MODE: master
+      SPARK_RPC_AUTHENTICATION_ENABLED: "no"
+      SPARK_RPC_ENCRYPTION_ENABLED: "no"
+      SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED: "no"
+      SPARK_SSL_ENABLED: "no"
+    ports:
+      - "8080:8080"  # Spark Master Web UI
+      - "7077:7077"  # Spark Master Port
+    volumes:
+      - ./scripts:/opt/spark/scripts
+      - ./data:/opt/spark/data
+    command: ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.master.Master", "-h", "spark-master"]
+
+  spark-worker:
+    image: apache/spark:3.5.0
+    container_name: airpulse-spark-worker
+    restart: always
+    depends_on:
+      - spark-master
+    environment:
+      SPARK_MODE: worker
+      SPARK_MASTER_URL: spark://spark-master:7077
+      SPARK_WORKER_MEMORY: 2G
+      SPARK_WORKER_CORES: 2
+    ports:
+      - "8081:8081"  # Spark Worker Web UI
+    volumes:
+      - ./scripts:/opt/spark/scripts
+      - ./data:/opt/spark/data
+    command: ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.worker.Worker", "spark://spark-master:7077"]
+
+  # =========================================================================
+  # AirPulse India Streamlit Dashboard
+  # =========================================================================
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: airpulse-dashboard
+    restart: always
+    ports:
+      - "8501:8501"  # Streamlit UI
+    environment:
+      HDFS_URI: "hdfs://namenode:9000"
+      SPARK_MASTER: "spark://spark-master:7077"
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+      - ./dashboard:/app/dashboard
+    depends_on:
+      - namenode
+      - spark-master
+
+volumes:
+  hadoop_namenode:
+  hadoop_datanode:

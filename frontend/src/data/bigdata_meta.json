@@ -1,0 +1,15 @@
+{
+  "total_raw_rows": 11988849,
+  "total_stations": 558,
+  "active_sensor_stations": 479,
+  "storage_backend": "Apache Hadoop 3.3.6 HDFS",
+  "compute_engine": "Apache Spark 3.5.1 (PySpark)",
+  "curated_partitions": "year=2024/month=01,07,11 (Snappy Parquet)",
+  "invariants_enforced": [
+    "CPCB Physical Limits: 0 <= PM2.5 <= 1000 \u00b5g/m\u00b3",
+    "Physical Particle Invariant: PM2.5 <= 1.05 * PM10 (1,065 optical refraction errors flagged)",
+    "Temporal Deduplication on (station_id, timestamp)",
+    "Robust Hoaglin-Iglewicz MAD Outlier Engine (14-day rolling baseline, M_i >= 3.5)"
+  ],
+  "execution_plan_snippet": "=== SPARK SQL PHYSICAL PLAN FOR EXCEEDANCE QUERY ===\n== Parsed Logical Plan ==\nCTE [daily_averages]\n:  +- 'SubqueryAlias daily_averages\n:     +- 'UnresolvedHaving ('valid_hours >= 16)\n:        +- 'Aggregate ['station_id, 'station_name, 'city_name, 'state_name, 'parameter_name, 'year, 'month, 'day], ['station_id, 'station_name, 'city_name, 'state_name, 'parameter_name, 'year, 'month, 'day, 'COUNT(1) AS valid_hours#459, 'AVG('value) AS daily_avg#460]\n:           +- 'Filter 'parameter_name IN (PM2.5,PM10)\n:              +- 'UnresolvedRelation [curated_air_quality], [], false\n+- 'Sort ['exceedance_percentage DESC NULLS LAST, 'overall_mean_concentration DESC NULLS LAST], true\n   +- 'UnresolvedHaving ('total_monitored_days >= 10)\n      +- 'Aggregate ['station_id, 'station_name, 'city_name, 'state_name, 'parameter_name], ['station_id, 'station_name, 'city_name, 'state_name, 'parameter_name, 'COUNT(1) AS total_monitored_days#453, 'ROUND('AVG('daily_avg), 2) AS overall_mean_concentration#454, 'ROUND('PERCENTILE_APPROX('daily_avg, 0.50), 2) AS median_concentration#455, 'ROUND('PERCENTILE_APPROX('daily_avg, 0.95), 2) AS p95_concentration#456, 'SUM(CASE WHEN (('parameter_name = PM2.5) AND ('daily_avg > 60.0)) THEN 1 WHEN (('parameter_name = PM10) AND ('daily_avg > 100.0)) THEN 1 ELSE 0 END) AS naaqs_exceedance_days#457, 'ROUND((('SUM(CASE WHEN (('parameter_name = PM2.5) AND ('daily_avg > 60.0)) THEN 1 WHEN (('parameter_name = PM10) AND ('daily_avg > 100.0)) THEN 1 ELSE 0 END) * 100.0) / 'COUNT(1)), 2) AS exceedance_percentage#458]\n         +- 'UnresolvedRelation [daily_averages], [], false\n\n== Analyzed Logical Plan ==\nstation_id: string, station_name: string, city_name: string, state_name: string, parameter_name: string, total_monitored_days: bigint, overall_mean_concentration: double, median_concentration: double, p95_concentration: double, naaqs_exceedance_days: bigint, exceedance_percentage: decimal(27,2)\nWithCTE\n:- CTERelationDef 0, false\n:  +- SubqueryAlias daily_averages\n"
+}
